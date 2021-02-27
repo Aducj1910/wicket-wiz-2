@@ -1,0 +1,68 @@
+{
+  "D Ganga": { "id": "51872", "name": "Daren Ganga", "country": "west indies" },
+  "MM Patel": { "id": "18458", "name": "Min Patel", "country": "england" },
+  "CH Gayle": {
+    "id": "51880",
+    "name": "Chris Gayle",
+    "country": "west indies"
+  },
+  "S Sreesanth": { "id": "34274", "name": "Sreesanth", "country": "india" },
+  "A Kumble": { "id": "30176", "name": "Anil Kumble", "country": "india" },
+  "Harbhajan Singh": {
+    "id": "29451",
+    "name": "Harbhajan Singh",
+    "country": "india"
+  },
+  "RR Sarwan": {
+    "id": "52969",
+    "name": "Ramnaresh Sarwan",
+    "country": "west indies"
+  },
+  "V Sehwag": { "id": "35263", "name": "Virender Sehwag", "country": "india" },
+  "BC Lara": { "id": "52337", "name": "Brian Lara", "country": "west indies" },
+  "S Chanderpaul": {
+    "id": "51469",
+    "name": "Shivnarine Chanderpaul",
+    "country": "west indies"
+  },
+  "DJ Bravo": {
+    "id": "51439",
+    "name": "Dwayne Bravo",
+    "country": "west indies"
+  },
+  "MN Samuels": {
+    "id": "52983",
+    "name": "Marlon Samuels",
+    "country": "west indies"
+  },
+  "D Ramdin": {
+    "id": "52917",
+    "name": "Denesh Ramdin",
+    "country": "west indies"
+  },
+  "JE Taylor": {
+    "id": "53191",
+    "name": "Jerome Taylor",
+    "country": "west indies"
+  },
+  "PT Collins": {
+    "id": "51479",
+    "name": "Pedro Collins",
+    "country": "west indies"
+  },
+  "CD Collymore": {
+    "id": "51481",
+    "name": "Corey Collymore",
+    "country": "west indies"
+  },
+  "W Jaffer": { "id": "29646", "name": "Wasim Jaffer", "country": "india" },
+  "VVS Laxman": { "id": "30750", "name": "VVS Laxman", "country": "india" },
+  "R Dravid": { "id": "28114", "name": "Rahul Dravid", "country": "india" },
+  "Yuvraj Singh": {
+    "id": "34067",
+    "name": "Yuvraj Surendra Singh",
+    "country": "india"
+  },
+  "M Kaif": { "id": "29990", "name": "Mohammad Kaif", "country": "india" },
+  "MS Dhoni": { "id": "28081", "name": "MS Dhoni", "country": "india" }
+}
