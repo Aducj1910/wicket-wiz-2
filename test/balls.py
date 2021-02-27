@@ -10,4 +10,37 @@ def analyse(file, players, matchInfo):
         matchInfo['dates'] = info['dates']
         matchInfo['format'] = info['match_type'] 
         matchInfo['venue'] = info['venue']
-        playerProfiler.process(file)
+
+        ballByBallDict = playerProfiler.process(file, players)
+
+        for b in ballByBallDict['batter']:
+            bInn = ballByBallDict['batter'][b] #ADD ISCAPTAIN & ISWICKETKEEPER
+            for p in players:
+                if p['id'] in bInn:
+                    if b not in p:
+                        p[b] = {}
+                    p[b]['batting'] = bInn[p['id']]
+                else:
+                    pass
+
+        for b in ballByBallDict['nonstriker']:
+            bInn = ballByBallDict['nonstriker'][b] #ADD ISCAPTAIN & ISWICKETKEEPER
+            for p in players:
+                if p['id'] in bInn:
+                    if b not in p:
+                        p[b] = {}
+                    p[b]['nonstriker'] = bInn[p['id']]
+                else:
+                    pass
+
+        for b in ballByBallDict['bowler']:
+            bInn = ballByBallDict['bowler'][b] #ADD ISCAPTAIN & ISWICKETKEEPER
+            for p in players:
+                if p['id'] in bInn:
+                    if b not in p:
+                        p[b] = {}
+                    p[b]['bowling'] = bInn[p['id']]
+                else:
+                    pass 
+
+        print(players)
