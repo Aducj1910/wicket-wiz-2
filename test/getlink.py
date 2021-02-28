@@ -2,6 +2,8 @@ from re import search
 from bs4 import BeautifulSoup
 import requests, os, re, seltest2, time
 
+from requests.api import head
+
 tId = '1000881'
 matchLinkPattern = re.compile(r".+?(?=full-scorecard)") #match is the link without 'full-scorecard'
 
