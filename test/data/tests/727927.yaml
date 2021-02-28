@@ -5451,7 +5451,7 @@ innings:
               kind: caught
               player_out: Misbah-ul-Haq
         - 112.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SPD Smith
             non_striker: Asad Shafiq
             runs:
@@ -5459,7 +5459,7 @@ innings:
               extras: 0
               total: 4
         - 112.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SPD Smith
             non_striker: Asad Shafiq
             runs:
@@ -5467,7 +5467,7 @@ innings:
               extras: 0
               total: 2
         - 112.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SPD Smith
             non_striker: Asad Shafiq
             runs:
@@ -5475,7 +5475,7 @@ innings:
               extras: 0
               total: 2
         - 112.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SPD Smith
             non_striker: Asad Shafiq
             runs:
@@ -5483,7 +5483,7 @@ innings:
               extras: 0
               total: 4
         - 112.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SPD Smith
             non_striker: Asad Shafiq
             runs:
@@ -5493,7 +5493,7 @@ innings:
         - 113.1:
             batsman: Asad Shafiq
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -5501,7 +5501,7 @@ innings:
         - 113.2:
             batsman: Asad Shafiq
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5509,7 +5509,7 @@ innings:
         - 113.3:
             batsman: Asad Shafiq
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5517,7 +5517,7 @@ innings:
         - 113.4:
             batsman: Asad Shafiq
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5525,7 +5525,7 @@ innings:
         - 113.5:
             batsman: Asad Shafiq
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5533,13 +5533,13 @@ innings:
         - 113.6:
             batsman: Asad Shafiq
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 114.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Asad Shafiq
             runs:
@@ -5547,7 +5547,7 @@ innings:
               extras: 0
               total: 0
         - 114.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Asad Shafiq
             runs:
@@ -5555,7 +5555,7 @@ innings:
               extras: 0
               total: 0
         - 114.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Asad Shafiq
             runs:
@@ -5563,7 +5563,7 @@ innings:
               extras: 0
               total: 0
         - 114.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Asad Shafiq
             runs:
@@ -5571,7 +5571,7 @@ innings:
               extras: 0
               total: 4
         - 114.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Asad Shafiq
             runs:
@@ -5579,7 +5579,7 @@ innings:
               extras: 0
               total: 0
         - 114.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Asad Shafiq
             runs:
@@ -5587,7 +5587,7 @@ innings:
               extras: 0
               total: 1
         - 115.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Asad Shafiq
             runs:
@@ -5595,7 +5595,7 @@ innings:
               extras: 0
               total: 4
         - 115.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Asad Shafiq
             runs:
@@ -5605,7 +5605,7 @@ innings:
         - 115.3:
             batsman: Asad Shafiq
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5613,7 +5613,7 @@ innings:
         - 115.4:
             batsman: Asad Shafiq
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5621,7 +5621,7 @@ innings:
         - 115.5:
             batsman: Asad Shafiq
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -5629,7 +5629,7 @@ innings:
         - 115.6:
             batsman: Asad Shafiq
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -5637,7 +5637,7 @@ innings:
         - 116.1:
             batsman: Asad Shafiq
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5645,7 +5645,7 @@ innings:
         - 116.2:
             batsman: Asad Shafiq
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5653,7 +5653,7 @@ innings:
         - 116.3:
             batsman: Asad Shafiq
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5661,7 +5661,7 @@ innings:
         - 116.4:
             batsman: Asad Shafiq
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -5669,7 +5669,7 @@ innings:
         - 116.5:
             batsman: Asad Shafiq
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5677,13 +5677,13 @@ innings:
         - 116.6:
             batsman: Asad Shafiq
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 117.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Asad Shafiq
             runs:
@@ -5691,7 +5691,7 @@ innings:
               extras: 0
               total: 2
         - 117.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Asad Shafiq
             runs:
@@ -5699,7 +5699,7 @@ innings:
               extras: 0
               total: 0
         - 117.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Asad Shafiq
             runs:
@@ -5707,7 +5707,7 @@ innings:
               extras: 0
               total: 0
         - 117.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Asad Shafiq
             runs:
@@ -5715,7 +5715,7 @@ innings:
               extras: 0
               total: 0
         - 117.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Asad Shafiq
             runs:
@@ -5725,7 +5725,7 @@ innings:
         - 117.6:
             batsman: Asad Shafiq
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -5733,7 +5733,7 @@ innings:
         - 118.1:
             batsman: Asad Shafiq
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5741,7 +5741,7 @@ innings:
         - 118.2:
             batsman: Asad Shafiq
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5749,7 +5749,7 @@ innings:
         - 118.3:
             batsman: Asad Shafiq
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5757,7 +5757,7 @@ innings:
         - 118.4:
             batsman: Asad Shafiq
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5765,7 +5765,7 @@ innings:
         - 118.5:
             batsman: Asad Shafiq
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5773,13 +5773,13 @@ innings:
         - 118.6:
             batsman: Asad Shafiq
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 119.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Asad Shafiq
             runs:
@@ -5787,7 +5787,7 @@ innings:
               extras: 0
               total: 4
         - 119.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Asad Shafiq
             runs:
@@ -5795,7 +5795,7 @@ innings:
               extras: 0
               total: 0
         - 119.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Asad Shafiq
             runs:
@@ -5803,7 +5803,7 @@ innings:
               extras: 0
               total: 0
         - 119.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Asad Shafiq
             runs:
@@ -5811,7 +5811,7 @@ innings:
               extras: 0
               total: 0
         - 119.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Asad Shafiq
             runs:
@@ -5819,7 +5819,7 @@ innings:
               extras: 0
               total: 0
         - 119.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Asad Shafiq
             runs:
@@ -5829,7 +5829,7 @@ innings:
         - 120.1:
             batsman: Asad Shafiq
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5837,7 +5837,7 @@ innings:
         - 120.2:
             batsman: Asad Shafiq
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5845,7 +5845,7 @@ innings:
         - 120.3:
             batsman: Asad Shafiq
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5853,7 +5853,7 @@ innings:
         - 120.4:
             batsman: Asad Shafiq
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5861,7 +5861,7 @@ innings:
         - 120.5:
             batsman: Asad Shafiq
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5869,13 +5869,13 @@ innings:
         - 120.6:
             batsman: Asad Shafiq
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 121.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Asad Shafiq
             runs:
@@ -5883,7 +5883,7 @@ innings:
               extras: 0
               total: 4
         - 121.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Asad Shafiq
             runs:
@@ -5891,7 +5891,7 @@ innings:
               extras: 0
               total: 4
         - 121.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Asad Shafiq
             runs:
@@ -5899,7 +5899,7 @@ innings:
               extras: 0
               total: 0
         - 121.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Asad Shafiq
             runs:
@@ -5907,7 +5907,7 @@ innings:
               extras: 0
               total: 0
         - 121.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Asad Shafiq
             runs:
@@ -5915,7 +5915,7 @@ innings:
               extras: 0
               total: 0
         - 121.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Asad Shafiq
             runs:
@@ -5923,7 +5923,7 @@ innings:
               extras: 0
               total: 1
         - 122.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Asad Shafiq
             runs:
@@ -5931,7 +5931,7 @@ innings:
               extras: 0
               total: 0
         - 122.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Asad Shafiq
             runs:
@@ -5939,7 +5939,7 @@ innings:
               extras: 0
               total: 0
         - 122.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Asad Shafiq
             runs:
@@ -5947,7 +5947,7 @@ innings:
               extras: 0
               total: 0
         - 122.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Asad Shafiq
             runs:
@@ -5955,7 +5955,7 @@ innings:
               extras: 0
               total: 0
         - 122.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Asad Shafiq
             runs:
@@ -5963,7 +5963,7 @@ innings:
               extras: 0
               total: 0
         - 122.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Asad Shafiq
             runs:
@@ -5971,7 +5971,7 @@ innings:
               extras: 0
               total: 3
         - 123.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Asad Shafiq
             runs:
@@ -5979,7 +5979,7 @@ innings:
               extras: 0
               total: 0
         - 123.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Asad Shafiq
             runs:
@@ -5987,7 +5987,7 @@ innings:
               extras: 0
               total: 0
         - 123.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Asad Shafiq
             runs:
@@ -5997,7 +5997,7 @@ innings:
         - 123.4:
             batsman: Asad Shafiq
             bowler: PM Siddle
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -6007,7 +6007,7 @@ innings:
             bowler: PM Siddle
             extras:
               legbyes: 2
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 2
@@ -6015,13 +6015,13 @@ innings:
         - 123.6:
             batsman: Asad Shafiq
             bowler: PM Siddle
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 124.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Asad Shafiq
             runs:
@@ -6029,7 +6029,7 @@ innings:
               extras: 0
               total: 2
         - 124.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Asad Shafiq
             runs:
@@ -6037,7 +6037,7 @@ innings:
               extras: 0
               total: 0
         - 124.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Asad Shafiq
             runs:
@@ -6045,7 +6045,7 @@ innings:
               extras: 0
               total: 2
         - 124.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Asad Shafiq
             runs:
@@ -6053,7 +6053,7 @@ innings:
               extras: 0
               total: 0
         - 124.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Asad Shafiq
             runs:
@@ -6061,7 +6061,7 @@ innings:
               extras: 0
               total: 0
         - 124.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Asad Shafiq
             runs:
@@ -6071,13 +6071,13 @@ innings:
         - 125.1:
             batsman: Asad Shafiq
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 3
               extras: 0
               total: 3
         - 125.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Asad Shafiq
             runs:
@@ -6085,7 +6085,7 @@ innings:
               extras: 0
               total: 0
         - 125.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Asad Shafiq
             runs:
@@ -6093,7 +6093,7 @@ innings:
               extras: 0
               total: 2
         - 125.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Asad Shafiq
             runs:
@@ -6103,13 +6103,13 @@ innings:
         - 125.5:
             batsman: Asad Shafiq
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 125.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Asad Shafiq
             runs:
@@ -6119,7 +6119,7 @@ innings:
         - 126.1:
             batsman: Asad Shafiq
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 6
               extras: 0
@@ -6127,7 +6127,7 @@ innings:
         - 126.2:
             batsman: Asad Shafiq
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6135,7 +6135,7 @@ innings:
         - 126.3:
             batsman: Asad Shafiq
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6143,7 +6143,7 @@ innings:
         - 126.4:
             batsman: Asad Shafiq
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -6151,7 +6151,7 @@ innings:
         - 126.5:
             batsman: Asad Shafiq
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6159,13 +6159,13 @@ innings:
         - 126.6:
             batsman: Asad Shafiq
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 127.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Asad Shafiq
             runs:
@@ -6175,7 +6175,7 @@ innings:
         - 127.2:
             batsman: Asad Shafiq
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6183,7 +6183,7 @@ innings:
         - 127.3:
             batsman: Asad Shafiq
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6191,13 +6191,13 @@ innings:
         - 127.4:
             batsman: Asad Shafiq
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 127.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Asad Shafiq
             runs:
@@ -6205,7 +6205,7 @@ innings:
               extras: 0
               total: 0
         - 127.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Asad Shafiq
             runs:
@@ -6213,7 +6213,7 @@ innings:
               extras: 0
               total: 1
         - 128.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Asad Shafiq
             runs:
@@ -6221,7 +6221,7 @@ innings:
               extras: 0
               total: 0
         - 128.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Asad Shafiq
             runs:
@@ -6229,7 +6229,7 @@ innings:
               extras: 0
               total: 2
         - 128.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Asad Shafiq
             runs:
@@ -6237,7 +6237,7 @@ innings:
               extras: 0
               total: 0
         - 128.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Asad Shafiq
             runs:
@@ -6247,13 +6247,13 @@ innings:
         - 128.5:
             batsman: Asad Shafiq
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 128.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Asad Shafiq
             runs:
@@ -6263,13 +6263,13 @@ innings:
         - 129.1:
             batsman: Asad Shafiq
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 129.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Asad Shafiq
             runs:
@@ -6279,7 +6279,7 @@ innings:
         - 129.3:
             batsman: Asad Shafiq
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6287,7 +6287,7 @@ innings:
         - 129.4:
             batsman: Asad Shafiq
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6295,7 +6295,7 @@ innings:
         - 129.5:
             batsman: Asad Shafiq
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -6303,7 +6303,7 @@ innings:
         - 129.6:
             batsman: Asad Shafiq
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 3
               extras: 0
@@ -6311,7 +6311,7 @@ innings:
         - 130.1:
             batsman: Asad Shafiq
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6319,7 +6319,7 @@ innings:
         - 130.2:
             batsman: Asad Shafiq
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6327,13 +6327,13 @@ innings:
         - 130.3:
             batsman: Asad Shafiq
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 130.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Asad Shafiq
             runs:
@@ -6343,7 +6343,7 @@ innings:
         - 130.5:
             batsman: Asad Shafiq
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6351,13 +6351,13 @@ innings:
         - 130.6:
             batsman: Asad Shafiq
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 131.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SPD Smith
             non_striker: Asad Shafiq
             runs:
@@ -6365,7 +6365,7 @@ innings:
               extras: 0
               total: 4
         - 131.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SPD Smith
             non_striker: Asad Shafiq
             runs:
@@ -6373,7 +6373,7 @@ innings:
               extras: 0
               total: 2
         - 131.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SPD Smith
             non_striker: Asad Shafiq
             runs:
@@ -6381,7 +6381,7 @@ innings:
               extras: 0
               total: 4
         - 131.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SPD Smith
             non_striker: Asad Shafiq
             runs:
@@ -6389,7 +6389,7 @@ innings:
               extras: 0
               total: 4
         - 131.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SPD Smith
             non_striker: Asad Shafiq
             runs:
@@ -6399,7 +6399,7 @@ innings:
         - 131.6:
             batsman: Asad Shafiq
             bowler: SPD Smith
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -6407,7 +6407,7 @@ innings:
         - 132.1:
             batsman: Asad Shafiq
             bowler: MR Marsh
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6415,7 +6415,7 @@ innings:
         - 132.2:
             batsman: Asad Shafiq
             bowler: MR Marsh
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6423,13 +6423,13 @@ innings:
         - 132.3:
             batsman: Asad Shafiq
             bowler: MR Marsh
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 132.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MR Marsh
             non_striker: Asad Shafiq
             runs:
@@ -6437,7 +6437,7 @@ innings:
               extras: 0
               total: 0
         - 132.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MR Marsh
             non_striker: Asad Shafiq
             runs:
@@ -6445,7 +6445,7 @@ innings:
               extras: 0
               total: 0
         - 132.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MR Marsh
             non_striker: Asad Shafiq
             runs:
@@ -6455,7 +6455,7 @@ innings:
         - 133.1:
             batsman: Asad Shafiq
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6463,7 +6463,7 @@ innings:
         - 133.2:
             batsman: Asad Shafiq
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 6
               extras: 0
@@ -6471,7 +6471,7 @@ innings:
         - 133.3:
             batsman: Asad Shafiq
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6482,7 +6482,7 @@ innings:
               kind: caught
               player_out: Asad Shafiq
         - 133.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Yasir Shah
             runs:
@@ -6490,7 +6490,7 @@ innings:
               extras: 0
               total: 0
         - 133.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Yasir Shah
             runs:
@@ -6498,7 +6498,7 @@ innings:
               extras: 0
               total: 0
         - 133.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Yasir Shah
             runs:
@@ -6506,7 +6506,7 @@ innings:
               extras: 0
               total: 1
         - 134.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MR Marsh
             non_striker: Yasir Shah
             runs:
@@ -6516,7 +6516,7 @@ innings:
         - 134.2:
             batsman: Yasir Shah
             bowler: MR Marsh
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6524,7 +6524,7 @@ innings:
         - 134.3:
             batsman: Yasir Shah
             bowler: MR Marsh
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6532,7 +6532,7 @@ innings:
         - 134.4:
             batsman: Yasir Shah
             bowler: MR Marsh
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6540,7 +6540,7 @@ innings:
         - 134.5:
             batsman: Yasir Shah
             bowler: MR Marsh
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6548,13 +6548,13 @@ innings:
         - 134.6:
             batsman: Yasir Shah
             bowler: MR Marsh
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 135.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Yasir Shah
             runs:
@@ -6562,7 +6562,7 @@ innings:
               extras: 0
               total: 0
         - 135.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Yasir Shah
             runs:
@@ -6570,7 +6570,7 @@ innings:
               extras: 0
               total: 2
         - 135.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Yasir Shah
             runs:
@@ -6578,7 +6578,7 @@ innings:
               extras: 0
               total: 0
         - 135.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Yasir Shah
             runs:
@@ -6586,7 +6586,7 @@ innings:
               extras: 0
               total: 4
         - 135.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Yasir Shah
             runs:
@@ -6596,13 +6596,13 @@ innings:
         - 135.6:
             batsman: Yasir Shah
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 136.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MR Marsh
             non_striker: Yasir Shah
             runs:
@@ -6610,7 +6610,7 @@ innings:
               extras: 0
               total: 4
         - 136.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MR Marsh
             non_striker: Yasir Shah
             runs:
@@ -6618,7 +6618,7 @@ innings:
               extras: 0
               total: 2
         - 136.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MR Marsh
             non_striker: Yasir Shah
             runs:
@@ -6626,7 +6626,7 @@ innings:
               extras: 0
               total: 0
         - 136.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MR Marsh
             non_striker: Yasir Shah
             runs:
@@ -6634,7 +6634,7 @@ innings:
               extras: 0
               total: 4
         - 136.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MR Marsh
             non_striker: Yasir Shah
             runs:
@@ -6644,13 +6644,13 @@ innings:
         - 136.6:
             batsman: Yasir Shah
             bowler: MR Marsh
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 137.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Yasir Shah
             runs:
@@ -6658,7 +6658,7 @@ innings:
               extras: 0
               total: 0
         - 137.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Yasir Shah
             runs:
@@ -6668,7 +6668,7 @@ innings:
         - 137.3:
             batsman: Yasir Shah
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6676,7 +6676,7 @@ innings:
         - 137.4:
             batsman: Yasir Shah
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -6684,7 +6684,7 @@ innings:
         - 137.5:
             batsman: Yasir Shah
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6692,13 +6692,13 @@ innings:
         - 137.6:
             batsman: Yasir Shah
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 138.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Yasir Shah
             runs:
@@ -6706,7 +6706,7 @@ innings:
               extras: 0
               total: 0
         - 138.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Yasir Shah
             runs:
@@ -6714,7 +6714,7 @@ innings:
               extras: 0
               total: 0
         - 138.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Yasir Shah
             runs:
@@ -6722,7 +6722,7 @@ innings:
               extras: 0
               total: 0
         - 138.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Yasir Shah
             runs:
@@ -6730,7 +6730,7 @@ innings:
               extras: 0
               total: 0
         - 138.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Yasir Shah
             runs:
@@ -6738,7 +6738,7 @@ innings:
               extras: 0
               total: 0
         - 138.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Yasir Shah
             runs:
@@ -6746,7 +6746,7 @@ innings:
               extras: 0
               total: 1
         - 139.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Yasir Shah
             runs:
@@ -6756,7 +6756,7 @@ innings:
         - 139.2:
             batsman: Yasir Shah
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6764,7 +6764,7 @@ innings:
         - 139.3:
             batsman: Yasir Shah
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6772,7 +6772,7 @@ innings:
         - 139.4:
             batsman: Yasir Shah
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6780,7 +6780,7 @@ innings:
         - 139.5:
             batsman: Yasir Shah
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6793,13 +6793,13 @@ innings:
         - 139.6:
             batsman: Zulfiqar Babar
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 140.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Zulfiqar Babar
             runs:
@@ -6807,7 +6807,7 @@ innings:
               extras: 0
               total: 0
         - 140.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Zulfiqar Babar
             runs:
@@ -6815,7 +6815,7 @@ innings:
               extras: 0
               total: 0
         - 140.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Zulfiqar Babar
             runs:
@@ -6823,7 +6823,7 @@ innings:
               extras: 0
               total: 0
         - 140.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Zulfiqar Babar
             runs:
@@ -6831,7 +6831,7 @@ innings:
               extras: 0
               total: 0
         - 140.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Zulfiqar Babar
             runs:
@@ -6839,7 +6839,7 @@ innings:
               extras: 0
               total: 0
         - 140.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Zulfiqar Babar
             runs:
@@ -6849,7 +6849,7 @@ innings:
         - 141.1:
             batsman: Zulfiqar Babar
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6857,7 +6857,7 @@ innings:
         - 141.2:
             batsman: Zulfiqar Babar
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6865,13 +6865,13 @@ innings:
         - 141.3:
             batsman: Zulfiqar Babar
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 141.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Zulfiqar Babar
             runs:
@@ -6879,7 +6879,7 @@ innings:
               extras: 0
               total: 0
         - 141.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Zulfiqar Babar
             runs:
@@ -6889,13 +6889,13 @@ innings:
         - 141.6:
             batsman: Zulfiqar Babar
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 142.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Zulfiqar Babar
             runs:
@@ -6905,7 +6905,7 @@ innings:
         - 142.2:
             batsman: Zulfiqar Babar
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6913,13 +6913,13 @@ innings:
         - 142.3:
             batsman: Zulfiqar Babar
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 142.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Zulfiqar Babar
             runs:
@@ -6927,7 +6927,7 @@ innings:
               extras: 0
               total: 0
         - 142.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Zulfiqar Babar
             runs:
@@ -6935,7 +6935,7 @@ innings:
               extras: 0
               total: 0
         - 142.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Zulfiqar Babar
             runs:
@@ -6945,7 +6945,7 @@ innings:
         - 143.1:
             batsman: Zulfiqar Babar
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6953,7 +6953,7 @@ innings:
         - 143.2:
             batsman: Zulfiqar Babar
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6961,7 +6961,7 @@ innings:
         - 143.3:
             batsman: Zulfiqar Babar
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6969,7 +6969,7 @@ innings:
         - 143.4:
             batsman: Zulfiqar Babar
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -6977,7 +6977,7 @@ innings:
         - 143.5:
             batsman: Zulfiqar Babar
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6985,13 +6985,13 @@ innings:
         - 143.6:
             batsman: Zulfiqar Babar
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 144.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Zulfiqar Babar
             runs:
@@ -6999,7 +6999,7 @@ innings:
               extras: 0
               total: 2
         - 144.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Zulfiqar Babar
             runs:
@@ -7009,13 +7009,13 @@ innings:
         - 144.3:
             batsman: Zulfiqar Babar
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 144.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Zulfiqar Babar
             runs:
@@ -7026,7 +7026,7 @@ innings:
               - fielders:
                   - BJ Haddin
                 kind: stumped
-                player_out: Sarfraz Ahmed
+                player_out: Sarfaraz Ahmed
               - kind: retired hurt
                 player_out: Zulfiqar Babar
         - 144.5:
@@ -15539,7 +15539,7 @@ innings:
               kind: lbw
               player_out: Ahmed Shehzad
         - 71.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Younis Khan
             runs:
@@ -15549,7 +15549,7 @@ innings:
         - 71.6:
             batsman: Younis Khan
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -15557,7 +15557,7 @@ innings:
         - 71.7:
             batsman: Younis Khan
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -15565,7 +15565,7 @@ innings:
         - 72.1:
             batsman: Younis Khan
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15573,7 +15573,7 @@ innings:
         - 72.2:
             batsman: Younis Khan
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15581,13 +15581,13 @@ innings:
         - 72.3:
             batsman: Younis Khan
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 72.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Younis Khan
             runs:
@@ -15595,7 +15595,7 @@ innings:
               extras: 0
               total: 0
         - 72.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Younis Khan
             runs:
@@ -15603,7 +15603,7 @@ innings:
               extras: 0
               total: 0
         - 72.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Younis Khan
             runs:
@@ -15611,7 +15611,7 @@ innings:
               extras: 0
               total: 1
         - 73.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Younis Khan
             runs:
@@ -15619,7 +15619,7 @@ innings:
               extras: 0
               total: 2
         - 73.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Younis Khan
             runs:
@@ -15627,7 +15627,7 @@ innings:
               extras: 0
               total: 2
         - 73.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Younis Khan
             runs:
@@ -15635,7 +15635,7 @@ innings:
               extras: 0
               total: 0
         - 73.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Younis Khan
             runs:
@@ -15645,7 +15645,7 @@ innings:
         - 73.5:
             batsman: Younis Khan
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -15653,13 +15653,13 @@ innings:
         - 73.6:
             batsman: Younis Khan
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 74.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Younis Khan
             runs:
@@ -15669,7 +15669,7 @@ innings:
         - 74.2:
             batsman: Younis Khan
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -15677,13 +15677,13 @@ innings:
         - 74.3:
             batsman: Younis Khan
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 74.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Younis Khan
             runs:
@@ -15691,7 +15691,7 @@ innings:
               extras: 0
               total: 0
         - 74.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Younis Khan
             runs:
@@ -15701,13 +15701,13 @@ innings:
         - 74.6:
             batsman: Younis Khan
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
               total: 2
         - 75.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Younis Khan
             runs:
@@ -15715,7 +15715,7 @@ innings:
               extras: 0
               total: 0
         - 75.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Younis Khan
             runs:
@@ -15725,7 +15725,7 @@ innings:
         - 75.3:
             batsman: Younis Khan
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -15733,7 +15733,7 @@ innings:
         - 75.4:
             batsman: Younis Khan
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 6
               extras: 0
@@ -15741,13 +15741,13 @@ innings:
         - 75.5:
             batsman: Younis Khan
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 75.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Younis Khan
             runs:
@@ -15757,13 +15757,13 @@ innings:
         - 76.1:
             batsman: Younis Khan
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 76.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Younis Khan
             runs:
@@ -15771,7 +15771,7 @@ innings:
               extras: 0
               total: 0
         - 76.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Younis Khan
             runs:
@@ -15781,13 +15781,13 @@ innings:
         - 76.4:
             batsman: Younis Khan
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 76.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Younis Khan
             runs:
@@ -15797,7 +15797,7 @@ innings:
         - 76.6:
             batsman: Younis Khan
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -15805,13 +15805,13 @@ innings:
         - 77.1:
             batsman: Younis Khan
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 77.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SNJ O'Keefe
             non_striker: Younis Khan
             runs:
@@ -15821,7 +15821,7 @@ innings:
         - 77.3:
             batsman: Younis Khan
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15829,7 +15829,7 @@ innings:
         - 77.4:
             batsman: Younis Khan
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15837,7 +15837,7 @@ innings:
         - 77.5:
             batsman: Younis Khan
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15845,7 +15845,7 @@ innings:
         - 77.6:
             batsman: Younis Khan
             bowler: SNJ O'Keefe
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -16487,7 +16487,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: stumped
               player_out: DA Warner
         - 13.2:
@@ -20171,7 +20171,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: stumped
               player_out: MG Johnson
         - 89.1:

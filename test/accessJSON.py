@@ -5,7 +5,7 @@ def addMatch(matchInfo):
     with open("matchInfo.json", "r") as jsonFile:
         data = json.load(jsonFile)
     
-    id = matchInfo['id']
+    id = matchInfo['matchID']
     data[id] = matchInfo
 
     with open("matchInfo.json", "w") as jsonFile:
@@ -16,12 +16,10 @@ def addIndividual(playersList, matchId):
         data = json.load(jsonFile)
     
     for p in playersList:
-        if str(p['id']) in data:
-            obj = data[p['id']]
-            obj[matchId] = p
-            data = obj
+        if p['id'] in data:
+            data[p['id']][matchId] = p
         else:
-            data[p['id']] = {f'{matchId}':p}
+            data[p['id']] = {matchId : p}
     
     with open("individual.json", "w") as jsonFile:
         json.dump(data, jsonFile)
@@ -30,14 +28,12 @@ def addMatchup(matchUps, matchId):
     with open("matchups.json", "r") as jsonFile:
         data = json.load(jsonFile)
 
-    
-    # for p in matchUps:
-    #     if str(p['id']) in data:
-    #         obj = data[p['id']]
-    #         obj[matchId] = p
-    #         data = obj
-    #     else:
-    #         data[p['id']] = {f'{matchId}':p}
+    for m in matchUps:
+        if m not in data:
+            data[m] = {}
+            data[m][matchId] = matchUps[m]
+        else:
+            data[m][matchId] = matchUps[m]
     
     with open("matchups.json", "w") as jsonFile:
         json.dump(data, jsonFile)

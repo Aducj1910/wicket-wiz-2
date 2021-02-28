@@ -491,7 +491,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: AD Hales
         - 9.4:
@@ -2021,7 +2021,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: JM Bairstow
         - 40.3:
@@ -3322,7 +3322,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: GS Ballance
         - 67.3:
@@ -3585,7 +3585,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: CR Woakes
         - 72.5:
@@ -4069,7 +4069,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: MM Ali
         - 82.2:
@@ -9404,7 +9404,7 @@ innings:
         - 106.1:
             batsman: Misbah-ul-Haq
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9412,7 +9412,7 @@ innings:
         - 106.2:
             batsman: Misbah-ul-Haq
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9420,7 +9420,7 @@ innings:
         - 106.3:
             batsman: Misbah-ul-Haq
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9428,7 +9428,7 @@ innings:
         - 106.4:
             batsman: Misbah-ul-Haq
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9436,7 +9436,7 @@ innings:
         - 106.5:
             batsman: Misbah-ul-Haq
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9444,13 +9444,13 @@ innings:
         - 106.6:
             batsman: Misbah-ul-Haq
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 107.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Misbah-ul-Haq
             runs:
@@ -9458,7 +9458,7 @@ innings:
               extras: 0
               total: 0
         - 107.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Misbah-ul-Haq
             runs:
@@ -9468,13 +9468,13 @@ innings:
         - 107.3:
             batsman: Misbah-ul-Haq
             bowler: SCJ Broad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 107.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Misbah-ul-Haq
             runs:
@@ -9482,7 +9482,7 @@ innings:
               extras: 0
               total: 0
         - 107.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Misbah-ul-Haq
             runs:
@@ -9490,7 +9490,7 @@ innings:
               extras: 0
               total: 0
         - 107.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Misbah-ul-Haq
             runs:
@@ -9500,7 +9500,7 @@ innings:
         - 108.1:
             batsman: Misbah-ul-Haq
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9508,7 +9508,7 @@ innings:
         - 108.2:
             batsman: Misbah-ul-Haq
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9516,7 +9516,7 @@ innings:
         - 108.3:
             batsman: Misbah-ul-Haq
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9524,7 +9524,7 @@ innings:
         - 108.4:
             batsman: Misbah-ul-Haq
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9532,7 +9532,7 @@ innings:
         - 108.5:
             batsman: Misbah-ul-Haq
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9540,13 +9540,13 @@ innings:
         - 108.6:
             batsman: Misbah-ul-Haq
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 109.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Misbah-ul-Haq
             runs:
@@ -9554,7 +9554,7 @@ innings:
               extras: 0
               total: 0
         - 109.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Misbah-ul-Haq
             runs:
@@ -9562,7 +9562,7 @@ innings:
               extras: 0
               total: 0
         - 109.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Misbah-ul-Haq
             runs:
@@ -9570,7 +9570,7 @@ innings:
               extras: 0
               total: 0
         - 109.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Misbah-ul-Haq
             runs:
@@ -9578,7 +9578,7 @@ innings:
               extras: 0
               total: 0
         - 109.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Misbah-ul-Haq
             runs:
@@ -9586,7 +9586,7 @@ innings:
               extras: 0
               total: 0
         - 109.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Misbah-ul-Haq
             runs:
@@ -9594,7 +9594,7 @@ innings:
               extras: 0
               total: 1
         - 110.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Misbah-ul-Haq
             runs:
@@ -9602,7 +9602,7 @@ innings:
               extras: 0
               total: 0
         - 110.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Misbah-ul-Haq
             runs:
@@ -9610,7 +9610,7 @@ innings:
               extras: 0
               total: 0
         - 110.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Misbah-ul-Haq
             runs:
@@ -9620,7 +9620,7 @@ innings:
         - 110.4:
             batsman: Misbah-ul-Haq
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -9628,7 +9628,7 @@ innings:
         - 110.5:
             batsman: Misbah-ul-Haq
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9636,13 +9636,13 @@ innings:
         - 110.6:
             batsman: Misbah-ul-Haq
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 111.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Misbah-ul-Haq
             runs:
@@ -9650,7 +9650,7 @@ innings:
               extras: 0
               total: 4
         - 111.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Misbah-ul-Haq
             runs:
@@ -9658,7 +9658,7 @@ innings:
               extras: 0
               total: 0
         - 111.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Misbah-ul-Haq
             runs:
@@ -9666,7 +9666,7 @@ innings:
               extras: 0
               total: 0
         - 111.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Misbah-ul-Haq
             runs:
@@ -9676,7 +9676,7 @@ innings:
         - 111.5:
             batsman: Misbah-ul-Haq
             bowler: SCJ Broad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9684,7 +9684,7 @@ innings:
         - 111.6:
             batsman: Misbah-ul-Haq
             bowler: SCJ Broad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 3
               extras: 0
@@ -9692,7 +9692,7 @@ innings:
         - 112.1:
             batsman: Misbah-ul-Haq
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9700,7 +9700,7 @@ innings:
         - 112.2:
             batsman: Misbah-ul-Haq
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9708,7 +9708,7 @@ innings:
         - 112.3:
             batsman: Misbah-ul-Haq
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -9716,7 +9716,7 @@ innings:
         - 112.4:
             batsman: Misbah-ul-Haq
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9724,7 +9724,7 @@ innings:
         - 112.5:
             batsman: Misbah-ul-Haq
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9732,7 +9732,7 @@ innings:
         - 112.6:
             batsman: Misbah-ul-Haq
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -9740,7 +9740,7 @@ innings:
         - 113.1:
             batsman: Misbah-ul-Haq
             bowler: MM Ali
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9748,7 +9748,7 @@ innings:
         - 113.2:
             batsman: Misbah-ul-Haq
             bowler: MM Ali
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9756,7 +9756,7 @@ innings:
         - 113.3:
             batsman: Misbah-ul-Haq
             bowler: MM Ali
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -9764,7 +9764,7 @@ innings:
         - 113.4:
             batsman: Misbah-ul-Haq
             bowler: MM Ali
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9772,7 +9772,7 @@ innings:
         - 113.5:
             batsman: Misbah-ul-Haq
             bowler: MM Ali
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -9780,13 +9780,13 @@ innings:
         - 113.6:
             batsman: Misbah-ul-Haq
             bowler: MM Ali
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 114.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Misbah-ul-Haq
             runs:
@@ -9794,7 +9794,7 @@ innings:
               extras: 0
               total: 0
         - 114.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Misbah-ul-Haq
             runs:
@@ -9802,7 +9802,7 @@ innings:
               extras: 0
               total: 0
         - 114.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Misbah-ul-Haq
             runs:
@@ -9810,7 +9810,7 @@ innings:
               extras: 0
               total: 0
         - 114.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Misbah-ul-Haq
             runs:
@@ -9820,7 +9820,7 @@ innings:
         - 114.5:
             batsman: Misbah-ul-Haq
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9828,13 +9828,13 @@ innings:
         - 114.6:
             batsman: Misbah-ul-Haq
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 115.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MM Ali
             non_striker: Misbah-ul-Haq
             runs:
@@ -9844,13 +9844,13 @@ innings:
         - 115.2:
             batsman: Misbah-ul-Haq
             bowler: MM Ali
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 115.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MM Ali
             non_striker: Misbah-ul-Haq
             runs:
@@ -9858,7 +9858,7 @@ innings:
               extras: 0
               total: 0
         - 115.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MM Ali
             non_striker: Misbah-ul-Haq
             runs:
@@ -9866,7 +9866,7 @@ innings:
               extras: 0
               total: 4
         - 115.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MM Ali
             non_striker: Misbah-ul-Haq
             runs:
@@ -9874,7 +9874,7 @@ innings:
               extras: 0
               total: 4
         - 115.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MM Ali
             non_striker: Misbah-ul-Haq
             runs:
@@ -9884,7 +9884,7 @@ innings:
         - 116.1:
             batsman: Misbah-ul-Haq
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9892,7 +9892,7 @@ innings:
         - 116.2:
             batsman: Misbah-ul-Haq
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -9900,7 +9900,7 @@ innings:
         - 116.3:
             batsman: Misbah-ul-Haq
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9908,7 +9908,7 @@ innings:
         - 116.4:
             batsman: Misbah-ul-Haq
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -9916,7 +9916,7 @@ innings:
         - 116.5:
             batsman: Misbah-ul-Haq
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9924,13 +9924,13 @@ innings:
         - 116.6:
             batsman: Misbah-ul-Haq
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 117.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Misbah-ul-Haq
             runs:
@@ -9940,7 +9940,7 @@ innings:
         - 117.2:
             batsman: Misbah-ul-Haq
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9948,7 +9948,7 @@ innings:
         - 117.3:
             batsman: Misbah-ul-Haq
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9956,13 +9956,13 @@ innings:
         - 117.4:
             batsman: Misbah-ul-Haq
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 117.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Misbah-ul-Haq
             runs:
@@ -9972,7 +9972,7 @@ innings:
         - 117.6:
             batsman: Misbah-ul-Haq
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 3
               extras: 0
@@ -9980,7 +9980,7 @@ innings:
         - 118.1:
             batsman: Misbah-ul-Haq
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9988,7 +9988,7 @@ innings:
         - 118.2:
             batsman: Misbah-ul-Haq
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9996,13 +9996,13 @@ innings:
         - 118.3:
             batsman: Misbah-ul-Haq
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 118.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Misbah-ul-Haq
             runs:
@@ -10012,7 +10012,7 @@ innings:
         - 118.5:
             batsman: Misbah-ul-Haq
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10022,7 +10022,7 @@ innings:
             bowler: JM Anderson
             extras:
               byes: 3
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 3
@@ -10030,7 +10030,7 @@ innings:
         - 119.1:
             batsman: Misbah-ul-Haq
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10038,13 +10038,13 @@ innings:
         - 119.2:
             batsman: Misbah-ul-Haq
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 119.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Misbah-ul-Haq
             runs:
@@ -10052,7 +10052,7 @@ innings:
               extras: 0
               total: 0
         - 119.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Misbah-ul-Haq
             runs:
@@ -10060,7 +10060,7 @@ innings:
               extras: 0
               total: 4
         - 119.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Misbah-ul-Haq
             runs:
@@ -10068,7 +10068,7 @@ innings:
               extras: 0
               total: 0
         - 119.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Misbah-ul-Haq
             runs:
@@ -10078,7 +10078,7 @@ innings:
         - 120.1:
             batsman: Misbah-ul-Haq
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10089,7 +10089,7 @@ innings:
         - 120.2:
             batsman: Yasir Shah
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10097,7 +10097,7 @@ innings:
         - 120.3:
             batsman: Yasir Shah
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10105,7 +10105,7 @@ innings:
         - 120.4:
             batsman: Yasir Shah
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -10113,7 +10113,7 @@ innings:
         - 120.5:
             batsman: Yasir Shah
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -10121,13 +10121,13 @@ innings:
         - 120.6:
             batsman: Yasir Shah
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 121.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Yasir Shah
             runs:
@@ -10135,7 +10135,7 @@ innings:
               extras: 0
               total: 0
         - 121.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Yasir Shah
             runs:
@@ -10143,7 +10143,7 @@ innings:
               extras: 0
               total: 0
         - 121.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Yasir Shah
             runs:
@@ -10151,7 +10151,7 @@ innings:
               extras: 0
               total: 0
         - 121.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             extras:
               legbyes: 1
@@ -10163,7 +10163,7 @@ innings:
         - 121.5:
             batsman: Yasir Shah
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10171,13 +10171,13 @@ innings:
         - 121.6:
             batsman: Yasir Shah
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 122.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Yasir Shah
             runs:
@@ -10187,7 +10187,7 @@ innings:
         - 122.2:
             batsman: Yasir Shah
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10195,7 +10195,7 @@ innings:
         - 122.3:
             batsman: Yasir Shah
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10203,7 +10203,7 @@ innings:
         - 122.4:
             batsman: Yasir Shah
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -10217,7 +10217,7 @@ innings:
         - 122.5:
             batsman: Mohammad Amir
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10225,7 +10225,7 @@ innings:
         - 122.6:
             batsman: Mohammad Amir
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -10233,7 +10233,7 @@ innings:
         - 123.1:
             batsman: Mohammad Amir
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10241,7 +10241,7 @@ innings:
         - 123.2:
             batsman: Mohammad Amir
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10249,7 +10249,7 @@ innings:
         - 123.3:
             batsman: Mohammad Amir
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10257,7 +10257,7 @@ innings:
         - 123.4:
             batsman: Mohammad Amir
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10265,7 +10265,7 @@ innings:
         - 123.5:
             batsman: Mohammad Amir
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10273,7 +10273,7 @@ innings:
         - 123.6:
             batsman: Mohammad Amir
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10282,7 +10282,7 @@ innings:
               kind: lbw
               player_out: Mohammad Amir
         - 124.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Sohail Khan
             runs:
@@ -10290,7 +10290,7 @@ innings:
               extras: 0
               total: 0
         - 124.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Sohail Khan
             replacements:
@@ -10305,7 +10305,7 @@ innings:
         - 124.3:
             batsman: Sohail Khan
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -10315,13 +10315,13 @@ innings:
             bowler: ST Finn
             extras:
               legbyes: 1
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 1
               total: 1
         - 124.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Sohail Khan
             runs:
@@ -10329,7 +10329,7 @@ innings:
               extras: 0
               total: 0
         - 124.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Sohail Khan
             runs:
@@ -10339,7 +10339,7 @@ innings:
         - 125.1:
             batsman: Sohail Khan
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10347,13 +10347,13 @@ innings:
         - 125.2:
             batsman: Sohail Khan
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 3
               extras: 0
               total: 3
         - 125.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Sohail Khan
             runs:
@@ -10361,7 +10361,7 @@ innings:
               extras: 0
               total: 0
         - 125.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Sohail Khan
             runs:
@@ -10369,7 +10369,7 @@ innings:
               extras: 0
               total: 0
         - 125.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Sohail Khan
             runs:
@@ -10377,7 +10377,7 @@ innings:
               extras: 0
               total: 0
         - 125.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Sohail Khan
             runs:
@@ -10387,7 +10387,7 @@ innings:
         - 126.1:
             batsman: Sohail Khan
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10395,7 +10395,7 @@ innings:
         - 126.2:
             batsman: Sohail Khan
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10405,13 +10405,13 @@ innings:
             bowler: ST Finn
             extras:
               legbyes: 1
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 1
               total: 1
         - 126.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Sohail Khan
             runs:
@@ -10419,7 +10419,7 @@ innings:
               extras: 0
               total: 2
         - 126.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Sohail Khan
             runs:
@@ -10427,7 +10427,7 @@ innings:
               extras: 0
               total: 4
         - 126.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Sohail Khan
             runs:
@@ -10435,7 +10435,7 @@ innings:
               extras: 0
               total: 1
         - 127.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Sohail Khan
             runs:
@@ -10443,7 +10443,7 @@ innings:
               extras: 0
               total: 0
         - 127.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Sohail Khan
             runs:
@@ -10451,7 +10451,7 @@ innings:
               extras: 0
               total: 0
         - 127.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Sohail Khan
             runs:
@@ -10459,7 +10459,7 @@ innings:
               extras: 0
               total: 0
         - 127.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Sohail Khan
             runs:
@@ -10467,7 +10467,7 @@ innings:
               extras: 0
               total: 0
         - 127.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Sohail Khan
             runs:
@@ -10477,7 +10477,7 @@ innings:
         - 127.6:
             batsman: Sohail Khan
             bowler: SCJ Broad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10486,7 +10486,7 @@ innings:
               kind: lbw
               player_out: Sohail Khan
         - 128.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Rahat Ali
             runs:
@@ -10494,7 +10494,7 @@ innings:
               extras: 0
               total: 0
         - 128.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Rahat Ali
             runs:
@@ -10502,7 +10502,7 @@ innings:
               extras: 0
               total: 0
         - 128.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Rahat Ali
             runs:
@@ -10510,7 +10510,7 @@ innings:
               extras: 0
               total: 0
         - 128.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Rahat Ali
             runs:
@@ -10518,7 +10518,7 @@ innings:
               extras: 0
               total: 0
         - 128.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             extras:
               legbyes: 1
@@ -10530,13 +10530,13 @@ innings:
         - 128.6:
             batsman: Rahat Ali
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 129.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Rahat Ali
             runs:
@@ -10544,7 +10544,7 @@ innings:
               extras: 0
               total: 0
         - 129.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Rahat Ali
             runs:
@@ -10552,7 +10552,7 @@ innings:
               extras: 0
               total: 0
         - 129.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Rahat Ali
             runs:
@@ -10560,7 +10560,7 @@ innings:
               extras: 0
               total: 0
         - 129.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Rahat Ali
             runs:
@@ -10568,7 +10568,7 @@ innings:
               extras: 0
               total: 0
         - 129.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Rahat Ali
             runs:
@@ -10578,13 +10578,13 @@ innings:
         - 129.6:
             batsman: Rahat Ali
             bowler: SCJ Broad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 130.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Rahat Ali
             runs:
@@ -10592,7 +10592,7 @@ innings:
               extras: 0
               total: 0
         - 130.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Rahat Ali
             runs:
@@ -10600,7 +10600,7 @@ innings:
               extras: 0
               total: 0
         - 130.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Rahat Ali
             runs:
@@ -10608,7 +10608,7 @@ innings:
               extras: 0
               total: 0
         - 130.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Rahat Ali
             runs:
@@ -10618,7 +10618,7 @@ innings:
         - 130.5:
             batsman: Rahat Ali
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10626,13 +10626,13 @@ innings:
         - 130.6:
             batsman: Rahat Ali
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
               total: 2
         - 131.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Rahat Ali
             runs:
@@ -10640,7 +10640,7 @@ innings:
               extras: 0
               total: 0
         - 131.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Rahat Ali
             runs:
@@ -10648,7 +10648,7 @@ innings:
               extras: 0
               total: 0
         - 131.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Rahat Ali
             runs:
@@ -10656,7 +10656,7 @@ innings:
               extras: 0
               total: 0
         - 131.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Rahat Ali
             runs:
@@ -10666,7 +10666,7 @@ innings:
         - 131.5:
             batsman: Rahat Ali
             bowler: SCJ Broad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10674,13 +10674,13 @@ innings:
         - 131.6:
             batsman: Rahat Ali
             bowler: SCJ Broad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
               total: 2
         - 132.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Rahat Ali
             runs:
@@ -10688,7 +10688,7 @@ innings:
               extras: 0
               total: 0
         - 132.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Rahat Ali
             runs:
@@ -10696,7 +10696,7 @@ innings:
               extras: 0
               total: 0
         - 132.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Rahat Ali
             runs:
@@ -10704,7 +10704,7 @@ innings:
               extras: 0
               total: 0
         - 132.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Rahat Ali
             runs:
@@ -10712,7 +10712,7 @@ innings:
               extras: 0
               total: 0
         - 132.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Rahat Ali
             runs:
@@ -10722,13 +10722,13 @@ innings:
         - 132.6:
             batsman: Rahat Ali
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 133.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Rahat Ali
             runs:
@@ -10736,7 +10736,7 @@ innings:
               extras: 0
               total: 0
         - 133.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Rahat Ali
             runs:
@@ -10744,7 +10744,7 @@ innings:
               extras: 0
               total: 0
         - 133.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Rahat Ali
             runs:
@@ -10752,7 +10752,7 @@ innings:
               extras: 0
               total: 0
         - 133.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Rahat Ali
             runs:
@@ -10762,7 +10762,7 @@ innings:
         - 133.5:
             batsman: Rahat Ali
             bowler: SCJ Broad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10770,13 +10770,13 @@ innings:
         - 133.6:
             batsman: Rahat Ali
             bowler: SCJ Broad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 134.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Rahat Ali
             runs:
@@ -10784,7 +10784,7 @@ innings:
               extras: 0
               total: 0
         - 134.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Rahat Ali
             runs:
@@ -10792,7 +10792,7 @@ innings:
               extras: 0
               total: 0
         - 134.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Rahat Ali
             runs:
@@ -10800,7 +10800,7 @@ innings:
               extras: 0
               total: 0
         - 134.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Rahat Ali
             runs:
@@ -10810,7 +10810,7 @@ innings:
         - 134.5:
             batsman: Rahat Ali
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10818,13 +10818,13 @@ innings:
         - 134.6:
             batsman: Rahat Ali
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 135.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Rahat Ali
             runs:
@@ -10832,7 +10832,7 @@ innings:
               extras: 0
               total: 0
         - 135.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Rahat Ali
             runs:
@@ -10840,7 +10840,7 @@ innings:
               extras: 0
               total: 0
         - 135.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Rahat Ali
             runs:
@@ -10848,7 +10848,7 @@ innings:
               extras: 0
               total: 0
         - 135.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Rahat Ali
             runs:
@@ -10856,7 +10856,7 @@ innings:
               extras: 0
               total: 0
         - 135.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Rahat Ali
             runs:
@@ -10866,7 +10866,7 @@ innings:
         - 135.6:
             batsman: Rahat Ali
             bowler: SCJ Broad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -19605,7 +19605,7 @@ innings:
         - 49.1:
             batsman: Sami Aslam
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -19613,7 +19613,7 @@ innings:
         - 49.2:
             batsman: Sami Aslam
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -19621,7 +19621,7 @@ innings:
         - 49.3:
             batsman: Sami Aslam
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -19629,7 +19629,7 @@ innings:
         - 49.4:
             batsman: Sami Aslam
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -19637,7 +19637,7 @@ innings:
         - 49.5:
             batsman: Sami Aslam
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -19645,13 +19645,13 @@ innings:
         - 49.6:
             batsman: Sami Aslam
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 50.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Sami Aslam
             runs:
@@ -19659,7 +19659,7 @@ innings:
               extras: 0
               total: 0
         - 50.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Sami Aslam
             runs:
@@ -19667,7 +19667,7 @@ innings:
               extras: 0
               total: 0
         - 50.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Sami Aslam
             runs:
@@ -19675,7 +19675,7 @@ innings:
               extras: 0
               total: 0
         - 50.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Sami Aslam
             runs:
@@ -19683,7 +19683,7 @@ innings:
               extras: 0
               total: 0
         - 50.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Sami Aslam
             runs:
@@ -19694,7 +19694,7 @@ innings:
               fielders:
                 - JE Root
               kind: caught
-              player_out: Sarfraz Ahmed
+              player_out: Sarfaraz Ahmed
         - 50.6:
             batsman: Yasir Shah
             bowler: CR Woakes

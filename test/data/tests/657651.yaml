@@ -756,7 +756,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: JK Silva
         - 15.1:
@@ -12844,7 +12844,7 @@ innings:
               kind: lbw
               player_out: Asad Shafiq
         - 92.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RMS Eranga
             non_striker: Misbah-ul-Haq
             runs:
@@ -12854,7 +12854,7 @@ innings:
         - 92.3:
             batsman: Misbah-ul-Haq
             bowler: RMS Eranga
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12862,7 +12862,7 @@ innings:
         - 92.4:
             batsman: Misbah-ul-Haq
             bowler: RMS Eranga
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12870,13 +12870,13 @@ innings:
         - 92.5:
             batsman: Misbah-ul-Haq
             bowler: RMS Eranga
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 92.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RMS Eranga
             non_striker: Misbah-ul-Haq
             runs:
@@ -12886,7 +12886,7 @@ innings:
         - 93.1:
             batsman: Misbah-ul-Haq
             bowler: HMRKB Herath
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12894,7 +12894,7 @@ innings:
         - 93.2:
             batsman: Misbah-ul-Haq
             bowler: HMRKB Herath
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 6
               extras: 0
@@ -12902,13 +12902,13 @@ innings:
         - 93.3:
             batsman: Misbah-ul-Haq
             bowler: HMRKB Herath
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 93.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: HMRKB Herath
             non_striker: Misbah-ul-Haq
             runs:
@@ -12918,7 +12918,7 @@ innings:
         - 93.5:
             batsman: Misbah-ul-Haq
             bowler: HMRKB Herath
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12926,7 +12926,7 @@ innings:
         - 93.6:
             batsman: Misbah-ul-Haq
             bowler: HMRKB Herath
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -12934,7 +12934,7 @@ innings:
         - 94.1:
             batsman: Misbah-ul-Haq
             bowler: RMS Eranga
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12942,13 +12942,13 @@ innings:
         - 94.2:
             batsman: Misbah-ul-Haq
             bowler: RMS Eranga
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 94.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RMS Eranga
             non_striker: Misbah-ul-Haq
             runs:
@@ -12958,13 +12958,13 @@ innings:
         - 94.4:
             batsman: Misbah-ul-Haq
             bowler: RMS Eranga
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 94.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RMS Eranga
             non_striker: Misbah-ul-Haq
             runs:
@@ -12972,7 +12972,7 @@ innings:
               extras: 0
               total: 0
         - 94.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RMS Eranga
             non_striker: Misbah-ul-Haq
             runs:
@@ -12982,7 +12982,7 @@ innings:
         - 95.1:
             batsman: Misbah-ul-Haq
             bowler: HMRKB Herath
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12990,13 +12990,13 @@ innings:
         - 95.2:
             batsman: Misbah-ul-Haq
             bowler: HMRKB Herath
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 95.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: HMRKB Herath
             non_striker: Misbah-ul-Haq
             runs:
@@ -13007,7 +13007,7 @@ innings:
               fielders:
                 - HAPW Jayawardene
               kind: caught
-              player_out: Sarfraz Ahmed
+              player_out: Sarfaraz Ahmed
         - 95.4:
             batsman: Abdur Rehman
             bowler: HMRKB Herath
@@ -19736,7 +19736,7 @@ innings:
               kind: caught
               player_out: Younis Khan
         - 21.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AD Mathews
             non_striker: Azhar Ali
             runs:
@@ -19744,7 +19744,7 @@ innings:
               extras: 0
               total: 1
         - 22.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: HMRKB Herath
             non_striker: Azhar Ali
             runs:
@@ -19752,7 +19752,7 @@ innings:
               extras: 0
               total: 0
         - 22.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: HMRKB Herath
             non_striker: Azhar Ali
             runs:
@@ -19760,7 +19760,7 @@ innings:
               extras: 0
               total: 0
         - 22.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: HMRKB Herath
             non_striker: Azhar Ali
             runs:
@@ -19768,7 +19768,7 @@ innings:
               extras: 0
               total: 0
         - 22.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: HMRKB Herath
             non_striker: Azhar Ali
             runs:
@@ -19778,7 +19778,7 @@ innings:
         - 22.5:
             batsman: Azhar Ali
             bowler: HMRKB Herath
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -19786,13 +19786,13 @@ innings:
         - 22.6:
             batsman: Azhar Ali
             bowler: HMRKB Herath
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
               total: 2
         - 23.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AD Mathews
             non_striker: Azhar Ali
             runs:
@@ -19800,7 +19800,7 @@ innings:
               extras: 0
               total: 0
         - 23.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AD Mathews
             non_striker: Azhar Ali
             runs:
@@ -19808,7 +19808,7 @@ innings:
               extras: 0
               total: 4
         - 23.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AD Mathews
             non_striker: Azhar Ali
             runs:
@@ -19818,7 +19818,7 @@ innings:
         - 23.4:
             batsman: Azhar Ali
             bowler: AD Mathews
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -19826,7 +19826,7 @@ innings:
         - 23.5:
             batsman: Azhar Ali
             bowler: AD Mathews
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -19834,7 +19834,7 @@ innings:
         - 23.6:
             batsman: Azhar Ali
             bowler: AD Mathews
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -19842,7 +19842,7 @@ innings:
         - 24.1:
             batsman: Azhar Ali
             bowler: HMRKB Herath
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -19850,7 +19850,7 @@ innings:
         - 24.2:
             batsman: Azhar Ali
             bowler: HMRKB Herath
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -19858,13 +19858,13 @@ innings:
         - 24.3:
             batsman: Azhar Ali
             bowler: HMRKB Herath
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 24.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: HMRKB Herath
             non_striker: Azhar Ali
             runs:
@@ -19872,7 +19872,7 @@ innings:
               extras: 0
               total: 0
         - 24.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: HMRKB Herath
             non_striker: Azhar Ali
             runs:
@@ -19880,7 +19880,7 @@ innings:
               extras: 0
               total: 0
         - 24.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: HMRKB Herath
             non_striker: Azhar Ali
             runs:
@@ -19888,7 +19888,7 @@ innings:
               extras: 0
               total: 1
         - 25.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RMS Eranga
             non_striker: Azhar Ali
             runs:
@@ -19896,7 +19896,7 @@ innings:
               extras: 0
               total: 0
         - 25.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RMS Eranga
             non_striker: Azhar Ali
             runs:
@@ -19906,7 +19906,7 @@ innings:
         - 25.3:
             batsman: Azhar Ali
             bowler: RMS Eranga
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -19914,7 +19914,7 @@ innings:
         - 25.4:
             batsman: Azhar Ali
             bowler: RMS Eranga
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -19922,7 +19922,7 @@ innings:
         - 25.5:
             batsman: Azhar Ali
             bowler: RMS Eranga
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -19930,7 +19930,7 @@ innings:
         - 25.6:
             batsman: Azhar Ali
             bowler: RMS Eranga
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -19938,7 +19938,7 @@ innings:
         - 26.1:
             batsman: Azhar Ali
             bowler: HMRKB Herath
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -19946,13 +19946,13 @@ innings:
         - 26.2:
             batsman: Azhar Ali
             bowler: HMRKB Herath
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 26.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: HMRKB Herath
             non_striker: Azhar Ali
             runs:
@@ -19960,7 +19960,7 @@ innings:
               extras: 0
               total: 4
         - 26.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: HMRKB Herath
             non_striker: Azhar Ali
             runs:
@@ -19968,7 +19968,7 @@ innings:
               extras: 0
               total: 0
         - 26.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: HMRKB Herath
             non_striker: Azhar Ali
             runs:
@@ -19976,7 +19976,7 @@ innings:
               extras: 0
               total: 0
         - 26.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: HMRKB Herath
             non_striker: Azhar Ali
             runs:
@@ -19984,7 +19984,7 @@ innings:
               extras: 0
               total: 1
         - 27.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AD Mathews
             non_striker: Azhar Ali
             runs:
@@ -19992,7 +19992,7 @@ innings:
               extras: 0
               total: 2
         - 27.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AD Mathews
             non_striker: Azhar Ali
             runs:
@@ -20002,7 +20002,7 @@ innings:
         - 27.3:
             batsman: Azhar Ali
             bowler: AD Mathews
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -20010,13 +20010,13 @@ innings:
         - 27.4:
             batsman: Azhar Ali
             bowler: AD Mathews
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 27.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AD Mathews
             non_striker: Azhar Ali
             runs:
@@ -20026,13 +20026,13 @@ innings:
         - 27.6:
             batsman: Azhar Ali
             bowler: AD Mathews
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 28.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: HMRKB Herath
             non_striker: Azhar Ali
             runs:
@@ -20040,7 +20040,7 @@ innings:
               extras: 0
               total: 4
         - 28.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: HMRKB Herath
             non_striker: Azhar Ali
             runs:
@@ -20048,7 +20048,7 @@ innings:
               extras: 0
               total: 4
         - 28.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: HMRKB Herath
             non_striker: Azhar Ali
             runs:
@@ -20056,7 +20056,7 @@ innings:
               extras: 0
               total: 6
         - 28.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: HMRKB Herath
             non_striker: Azhar Ali
             runs:
@@ -20066,7 +20066,7 @@ innings:
         - 28.5:
             batsman: Azhar Ali
             bowler: HMRKB Herath
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -20074,13 +20074,13 @@ innings:
         - 28.6:
             batsman: Azhar Ali
             bowler: HMRKB Herath
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 29.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AD Mathews
             non_striker: Azhar Ali
             runs:
@@ -20088,7 +20088,7 @@ innings:
               extras: 0
               total: 0
         - 29.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AD Mathews
             non_striker: Azhar Ali
             runs:
@@ -20096,7 +20096,7 @@ innings:
               extras: 0
               total: 0
         - 29.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AD Mathews
             non_striker: Azhar Ali
             runs:
@@ -20106,7 +20106,7 @@ innings:
         - 29.4:
             batsman: Azhar Ali
             bowler: AD Mathews
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -20114,13 +20114,13 @@ innings:
         - 29.5:
             batsman: Azhar Ali
             bowler: AD Mathews
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 29.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AD Mathews
             non_striker: Azhar Ali
             runs:
@@ -20128,7 +20128,7 @@ innings:
               extras: 0
               total: 1
         - 30.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: HMRKB Herath
             non_striker: Azhar Ali
             runs:
@@ -20138,7 +20138,7 @@ innings:
         - 30.2:
             batsman: Azhar Ali
             bowler: HMRKB Herath
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -20146,7 +20146,7 @@ innings:
         - 30.3:
             batsman: Azhar Ali
             bowler: HMRKB Herath
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -20154,13 +20154,13 @@ innings:
         - 30.4:
             batsman: Azhar Ali
             bowler: HMRKB Herath
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 30.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: HMRKB Herath
             non_striker: Azhar Ali
             runs:
@@ -20172,7 +20172,7 @@ innings:
             bowler: HMRKB Herath
             extras:
               wides: 1
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 1
@@ -20180,7 +20180,7 @@ innings:
         - 30.7:
             batsman: Azhar Ali
             bowler: HMRKB Herath
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -20188,13 +20188,13 @@ innings:
         - 31.1:
             batsman: Azhar Ali
             bowler: AD Mathews
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 31.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AD Mathews
             non_striker: Azhar Ali
             runs:
@@ -20202,7 +20202,7 @@ innings:
               extras: 0
               total: 0
         - 31.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AD Mathews
             extras:
               legbyes: 1
@@ -20214,13 +20214,13 @@ innings:
         - 31.4:
             batsman: Azhar Ali
             bowler: AD Mathews
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 31.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AD Mathews
             non_striker: Azhar Ali
             runs:
@@ -20230,13 +20230,13 @@ innings:
         - 31.6:
             batsman: Azhar Ali
             bowler: AD Mathews
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 32.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: HMRKB Herath
             non_striker: Azhar Ali
             runs:
@@ -20246,7 +20246,7 @@ innings:
         - 32.2:
             batsman: Azhar Ali
             bowler: HMRKB Herath
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -20256,7 +20256,7 @@ innings:
             bowler: HMRKB Herath
             extras:
               wides: 1
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 1
@@ -20264,13 +20264,13 @@ innings:
         - 32.4:
             batsman: Azhar Ali
             bowler: HMRKB Herath
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 32.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: HMRKB Herath
             non_striker: Azhar Ali
             runs:
@@ -20280,7 +20280,7 @@ innings:
         - 32.6:
             batsman: Azhar Ali
             bowler: HMRKB Herath
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -20288,13 +20288,13 @@ innings:
         - 32.7:
             batsman: Azhar Ali
             bowler: HMRKB Herath
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 33.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AD Mathews
             extras:
               byes: 4
@@ -20304,7 +20304,7 @@ innings:
               extras: 4
               total: 4
         - 33.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AD Mathews
             non_striker: Azhar Ali
             runs:
@@ -20314,7 +20314,7 @@ innings:
         - 33.3:
             batsman: Azhar Ali
             bowler: AD Mathews
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -20322,13 +20322,13 @@ innings:
         - 33.4:
             batsman: Azhar Ali
             bowler: AD Mathews
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 33.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AD Mathews
             non_striker: Azhar Ali
             runs:
@@ -20338,7 +20338,7 @@ innings:
         - 33.6:
             batsman: Azhar Ali
             bowler: AD Mathews
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -20346,7 +20346,7 @@ innings:
         - 34.1:
             batsman: Azhar Ali
             bowler: RMS Eranga
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -20354,13 +20354,13 @@ innings:
         - 34.2:
             batsman: Azhar Ali
             bowler: RMS Eranga
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 34.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RMS Eranga
             non_striker: Azhar Ali
             runs:
@@ -20368,7 +20368,7 @@ innings:
               extras: 0
               total: 0
         - 34.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RMS Eranga
             non_striker: Azhar Ali
             runs:
@@ -20376,7 +20376,7 @@ innings:
               extras: 0
               total: 0
         - 34.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RMS Eranga
             non_striker: Azhar Ali
             runs:
@@ -20384,7 +20384,7 @@ innings:
               extras: 0
               total: 0
         - 34.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RMS Eranga
             non_striker: Azhar Ali
             runs:
@@ -20392,7 +20392,7 @@ innings:
               extras: 0
               total: 1
         - 35.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RAS Lakmal
             non_striker: Azhar Ali
             runs:
@@ -20402,7 +20402,7 @@ innings:
         - 35.2:
             batsman: Azhar Ali
             bowler: RAS Lakmal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -20410,7 +20410,7 @@ innings:
         - 35.3:
             batsman: Azhar Ali
             bowler: RAS Lakmal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -20418,7 +20418,7 @@ innings:
         - 35.4:
             batsman: Azhar Ali
             bowler: RAS Lakmal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -20426,13 +20426,13 @@ innings:
         - 35.5:
             batsman: Azhar Ali
             bowler: RAS Lakmal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 35.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RAS Lakmal
             non_striker: Azhar Ali
             runs:
@@ -20442,7 +20442,7 @@ innings:
         - 36.1:
             batsman: Azhar Ali
             bowler: RMS Eranga
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -20452,7 +20452,7 @@ innings:
             bowler: RMS Eranga
             extras:
               wides: 1
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 1
@@ -20460,7 +20460,7 @@ innings:
         - 36.3:
             batsman: Azhar Ali
             bowler: RMS Eranga
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -20468,13 +20468,13 @@ innings:
         - 36.4:
             batsman: Azhar Ali
             bowler: RMS Eranga
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 36.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RMS Eranga
             extras:
               noballs: 1
@@ -20484,7 +20484,7 @@ innings:
               extras: 1
               total: 1
         - 36.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RMS Eranga
             non_striker: Azhar Ali
             runs:
@@ -20495,7 +20495,7 @@ innings:
               fielders:
                 - HAPW Jayawardene
               kind: caught
-              player_out: Sarfraz Ahmed
+              player_out: Sarfaraz Ahmed
         - 36.7:
             batsman: Misbah-ul-Haq
             bowler: RMS Eranga

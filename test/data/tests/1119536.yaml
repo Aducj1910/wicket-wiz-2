@@ -1238,9 +1238,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 24.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: CR Woakes
         runs:
           extras: 0
@@ -1248,7 +1248,7 @@ innings:
           batsman: 0
         batsman: Usman Salahuddin
     - 24.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: CR Woakes
         runs:
           extras: 0
@@ -1262,7 +1262,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 25.2:
         non_striker: Usman Salahuddin
         bowler: SCJ Broad
@@ -1270,7 +1270,7 @@ innings:
           extras: 0
           total: 4
           batsman: 4
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 25.3:
         non_striker: Usman Salahuddin
         bowler: SCJ Broad
@@ -1278,7 +1278,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 25.4:
         non_striker: Usman Salahuddin
         bowler: SCJ Broad
@@ -1286,9 +1286,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 25.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: SCJ Broad
         runs:
           extras: 0
@@ -1296,7 +1296,7 @@ innings:
           batsman: 0
         batsman: Usman Salahuddin
     - 25.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: SCJ Broad
         runs:
           extras: 0
@@ -1310,7 +1310,7 @@ innings:
           extras: 0
           total: 2
           batsman: 2
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 26.2:
         non_striker: Usman Salahuddin
         bowler: JM Anderson
@@ -1318,7 +1318,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 26.3:
         non_striker: Usman Salahuddin
         bowler: JM Anderson
@@ -1326,9 +1326,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 26.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: JM Anderson
         runs:
           extras: 0
@@ -1336,7 +1336,7 @@ innings:
           batsman: 0
         batsman: Usman Salahuddin
     - 26.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: JM Anderson
         runs:
           extras: 1
@@ -1352,9 +1352,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 27.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: SCJ Broad
         runs:
           extras: 0
@@ -1362,7 +1362,7 @@ innings:
           batsman: 0
         batsman: Usman Salahuddin
     - 27.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: SCJ Broad
         runs:
           extras: 0
@@ -1376,7 +1376,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 27.4:
         non_striker: Usman Salahuddin
         bowler: SCJ Broad
@@ -1384,7 +1384,7 @@ innings:
           extras: 0
           total: 4
           batsman: 4
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 27.5:
         non_striker: Usman Salahuddin
         bowler: SCJ Broad
@@ -1392,9 +1392,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 27.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: SCJ Broad
         runs:
           extras: 0
@@ -1408,9 +1408,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
         wicket:
-          player_out: Sarfraz Ahmed
+          player_out: Sarfaraz Ahmed
           kind: bowled
     - 28.2:
         non_striker: Usman Salahuddin
@@ -3219,7 +3219,7 @@ innings:
         wicket:
           player_out: KK Jennings
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 17.1:
         non_striker: JE Root
@@ -4082,7 +4082,7 @@ innings:
         wicket:
           player_out: AN Cook
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 34.6:
         non_striker: JE Root
@@ -4505,7 +4505,7 @@ innings:
         wicket:
           player_out: JE Root
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 43.4:
         non_striker: DM Bess
@@ -6282,7 +6282,7 @@ innings:
         wicket:
           player_out: JM Bairstow
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 80.1:
         non_striker: CR Woakes
@@ -6719,7 +6719,7 @@ innings:
         wicket:
           player_out: CR Woakes
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 89.1:
         non_striker: SM Curran
@@ -8708,7 +8708,7 @@ innings:
           player_out: Imam-ul-Haq
           kind: lbw
     - 23.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: CR Woakes
         runs:
           extras: 0
@@ -8716,7 +8716,7 @@ innings:
           batsman: 0
         batsman: Usman Salahuddin
     - 23.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: CR Woakes
         runs:
           extras: 0
@@ -8724,7 +8724,7 @@ innings:
           batsman: 0
         batsman: Usman Salahuddin
     - 23.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: CR Woakes
         runs:
           extras: 0
@@ -8738,7 +8738,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 23.5:
         non_striker: Usman Salahuddin
         bowler: CR Woakes
@@ -8746,9 +8746,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 23.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: CR Woakes
         runs:
           extras: 0
@@ -8762,7 +8762,7 @@ innings:
           extras: 0
           total: 4
           batsman: 4
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 24.2:
         non_striker: Usman Salahuddin
         bowler: DM Bess
@@ -8770,9 +8770,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 24.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DM Bess
         runs:
           extras: 0
@@ -8780,7 +8780,7 @@ innings:
           batsman: 0
         batsman: Usman Salahuddin
     - 24.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DM Bess
         runs:
           extras: 0
@@ -8788,7 +8788,7 @@ innings:
           batsman: 0
         batsman: Usman Salahuddin
     - 24.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DM Bess
         runs:
           extras: 0
@@ -8796,7 +8796,7 @@ innings:
           batsman: 0
         batsman: Usman Salahuddin
     - 24.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DM Bess
         runs:
           extras: 0
@@ -8810,7 +8810,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 25.2:
         non_striker: Usman Salahuddin
         bowler: CR Woakes
@@ -8818,7 +8818,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 25.3:
         non_striker: Usman Salahuddin
         bowler: CR Woakes
@@ -8826,7 +8826,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 25.4:
         non_striker: Usman Salahuddin
         bowler: CR Woakes
@@ -8834,9 +8834,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 25.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: CR Woakes
         runs:
           extras: 0
@@ -8844,7 +8844,7 @@ innings:
           batsman: 0
         batsman: Usman Salahuddin
     - 25.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: CR Woakes
         runs:
           extras: 0
@@ -8858,9 +8858,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 26.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DM Bess
         runs:
           extras: 0
@@ -8868,7 +8868,7 @@ innings:
           batsman: 0
         batsman: Usman Salahuddin
     - 26.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DM Bess
         runs:
           extras: 0
@@ -8876,7 +8876,7 @@ innings:
           batsman: 0
         batsman: Usman Salahuddin
     - 26.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DM Bess
         runs:
           extras: 0
@@ -8884,7 +8884,7 @@ innings:
           batsman: 0
         batsman: Usman Salahuddin
     - 26.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DM Bess
         runs:
           extras: 0
@@ -8892,7 +8892,7 @@ innings:
           batsman: 0
         batsman: Usman Salahuddin
     - 26.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DM Bess
         runs:
           extras: 0
@@ -8900,7 +8900,7 @@ innings:
           batsman: 1
         batsman: Usman Salahuddin
     - 27.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: CR Woakes
         runs:
           extras: 0
@@ -8914,7 +8914,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 27.3:
         non_striker: Usman Salahuddin
         bowler: CR Woakes
@@ -8922,7 +8922,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 27.4:
         non_striker: Usman Salahuddin
         bowler: CR Woakes
@@ -8930,7 +8930,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 27.5:
         non_striker: Usman Salahuddin
         bowler: CR Woakes
@@ -8938,9 +8938,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
         wicket:
-          player_out: Sarfraz Ahmed
+          player_out: Sarfaraz Ahmed
           kind: lbw
     - 27.6:
         non_striker: Usman Salahuddin

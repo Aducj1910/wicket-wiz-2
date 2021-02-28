@@ -715,7 +715,7 @@ innings:
         wicket:
           player_out: JE Root
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 13.7:
         non_striker: AN Cook
@@ -792,7 +792,7 @@ innings:
         wicket:
           player_out: DJ Malan
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 15.3:
         non_striker: AN Cook
@@ -6335,7 +6335,7 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 71.1:
         non_striker: Babar Azam
         bowler: DM Bess
@@ -6343,7 +6343,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 71.2:
         non_striker: Babar Azam
         bowler: DM Bess
@@ -6351,9 +6351,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 71.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DM Bess
         runs:
           extras: 0
@@ -6361,7 +6361,7 @@ innings:
           batsman: 0
         batsman: Babar Azam
     - 71.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DM Bess
         runs:
           extras: 0
@@ -6369,7 +6369,7 @@ innings:
           batsman: 2
         batsman: Babar Azam
     - 71.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DM Bess
         runs:
           extras: 0
@@ -6383,9 +6383,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 72.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: BA Stokes
         runs:
           extras: 0
@@ -6393,7 +6393,7 @@ innings:
           batsman: 0
         batsman: Babar Azam
     - 72.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: BA Stokes
         runs:
           extras: 0
@@ -6401,7 +6401,7 @@ innings:
           batsman: 0
         batsman: Babar Azam
     - 72.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: BA Stokes
         runs:
           extras: 0
@@ -6409,7 +6409,7 @@ innings:
           batsman: 0
         batsman: Babar Azam
     - 72.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: BA Stokes
         runs:
           extras: 0
@@ -6417,7 +6417,7 @@ innings:
           batsman: 0
         batsman: Babar Azam
     - 72.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: BA Stokes
         runs:
           extras: 0
@@ -6425,7 +6425,7 @@ innings:
           batsman: 0
         batsman: Babar Azam
     - 72.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: BA Stokes
         runs:
           extras: 0
@@ -6433,7 +6433,7 @@ innings:
           batsman: 1
         batsman: Babar Azam
     - 73.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DM Bess
         runs:
           extras: 0
@@ -6441,7 +6441,7 @@ innings:
           batsman: 0
         batsman: Babar Azam
     - 73.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DM Bess
         runs:
           extras: 0
@@ -6449,7 +6449,7 @@ innings:
           batsman: 0
         batsman: Babar Azam
     - 73.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DM Bess
         runs:
           extras: 0
@@ -6457,7 +6457,7 @@ innings:
           batsman: 0
         batsman: Babar Azam
     - 73.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DM Bess
         runs:
           extras: 0
@@ -6465,7 +6465,7 @@ innings:
           batsman: 0
         batsman: Babar Azam
     - 73.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DM Bess
         runs:
           extras: 0
@@ -6473,7 +6473,7 @@ innings:
           batsman: 0
         batsman: Babar Azam
     - 73.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DM Bess
         runs:
           extras: 0
@@ -6487,7 +6487,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 74.2:
         non_striker: Babar Azam
         bowler: BA Stokes
@@ -6495,7 +6495,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 74.3:
         non_striker: Babar Azam
         bowler: BA Stokes
@@ -6503,7 +6503,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 74.4:
         non_striker: Babar Azam
         bowler: BA Stokes
@@ -6511,7 +6511,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 74.5:
         non_striker: Babar Azam
         bowler: BA Stokes
@@ -6519,7 +6519,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 74.6:
         non_striker: Babar Azam
         bowler: BA Stokes
@@ -6527,9 +6527,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 75.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DM Bess
         runs:
           extras: 0
@@ -6537,7 +6537,7 @@ innings:
           batsman: 0
         batsman: Babar Azam
     - 75.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DM Bess
         runs:
           extras: 0
@@ -6545,7 +6545,7 @@ innings:
           batsman: 0
         batsman: Babar Azam
     - 75.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DM Bess
         runs:
           extras: 0
@@ -6553,7 +6553,7 @@ innings:
           batsman: 2
         batsman: Babar Azam
     - 75.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DM Bess
         runs:
           extras: 0
@@ -6561,7 +6561,7 @@ innings:
           batsman: 0
         batsman: Babar Azam
     - 75.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DM Bess
         runs:
           extras: 0
@@ -6569,7 +6569,7 @@ innings:
           batsman: 0
         batsman: Babar Azam
     - 75.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DM Bess
         runs:
           extras: 0
@@ -6583,9 +6583,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 76.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: BA Stokes
         runs:
           extras: 0
@@ -6593,7 +6593,7 @@ innings:
           batsman: 0
         batsman: Babar Azam
     - 76.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: BA Stokes
         runs:
           extras: 0
@@ -6601,7 +6601,7 @@ innings:
           batsman: 4
         batsman: Babar Azam
     - 76.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: BA Stokes
         runs:
           extras: 0
@@ -6609,7 +6609,7 @@ innings:
           batsman: 0
         batsman: Babar Azam
     - 76.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: BA Stokes
         runs:
           extras: 0
@@ -6623,7 +6623,7 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 77.1:
         non_striker: Babar Azam
         bowler: DM Bess
@@ -6631,7 +6631,7 @@ innings:
           extras: 0
           total: 4
           batsman: 4
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 77.2:
         non_striker: Babar Azam
         bowler: DM Bess
@@ -6639,7 +6639,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 77.3:
         non_striker: Babar Azam
         bowler: DM Bess
@@ -6647,7 +6647,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 77.4:
         non_striker: Babar Azam
         bowler: DM Bess
@@ -6655,7 +6655,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 77.5:
         non_striker: Babar Azam
         bowler: DM Bess
@@ -6663,7 +6663,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 77.6:
         non_striker: Babar Azam
         bowler: DM Bess
@@ -6671,7 +6671,7 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 78.1:
         non_striker: Babar Azam
         bowler: BA Stokes
@@ -6679,7 +6679,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 78.2:
         non_striker: Babar Azam
         bowler: BA Stokes
@@ -6687,7 +6687,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 78.3:
         non_striker: Babar Azam
         bowler: BA Stokes
@@ -6695,7 +6695,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 78.4:
         non_striker: Babar Azam
         bowler: BA Stokes
@@ -6703,7 +6703,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 78.5:
         non_striker: Babar Azam
         bowler: BA Stokes
@@ -6711,7 +6711,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 78.6:
         non_striker: Babar Azam
         bowler: BA Stokes
@@ -6719,9 +6719,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
         wicket:
-          player_out: Sarfraz Ahmed
+          player_out: Sarfaraz Ahmed
           fielders:
           - MA Wood
           kind: caught
@@ -10202,7 +10202,7 @@ innings:
         wicket:
           player_out: DJ Malan
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 35.3:
         non_striker: JE Root
@@ -12427,7 +12427,7 @@ innings:
         wicket:
           player_out: MA Wood
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 81.1:
         non_striker: SCJ Broad
@@ -12464,7 +12464,7 @@ innings:
         wicket:
           player_out: SCJ Broad
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 81.5:
         non_striker: DM Bess

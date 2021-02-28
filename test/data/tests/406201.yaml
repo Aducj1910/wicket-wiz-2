@@ -1030,7 +1030,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: MEK Hussey
         - 20.3:
@@ -6870,7 +6870,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: MJ North
         - 139.2:
@@ -7051,7 +7051,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: MG Johnson
   - 2nd innings:
@@ -10887,7 +10887,7 @@ innings:
               kind: caught
               player_out: Salman Butt
         - 78.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SM Katich
             non_striker: Shoaib Malik
             runs:
@@ -10897,7 +10897,7 @@ innings:
         - 78.5:
             batsman: Shoaib Malik
             bowler: SM Katich
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10905,7 +10905,7 @@ innings:
         - 78.6:
             batsman: Shoaib Malik
             bowler: SM Katich
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -10913,7 +10913,7 @@ innings:
         - 79.1:
             batsman: Shoaib Malik
             bowler: NM Hauritz
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10921,7 +10921,7 @@ innings:
         - 79.2:
             batsman: Shoaib Malik
             bowler: NM Hauritz
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10929,7 +10929,7 @@ innings:
         - 79.3:
             batsman: Shoaib Malik
             bowler: NM Hauritz
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10937,7 +10937,7 @@ innings:
         - 79.4:
             batsman: Shoaib Malik
             bowler: NM Hauritz
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10945,7 +10945,7 @@ innings:
         - 79.5:
             batsman: Shoaib Malik
             bowler: NM Hauritz
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10953,13 +10953,13 @@ innings:
         - 79.6:
             batsman: Shoaib Malik
             bowler: NM Hauritz
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 80.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SM Katich
             non_striker: Shoaib Malik
             runs:
@@ -10967,7 +10967,7 @@ innings:
               extras: 0
               total: 0
         - 80.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SM Katich
             non_striker: Shoaib Malik
             runs:
@@ -10975,7 +10975,7 @@ innings:
               extras: 0
               total: 0
         - 80.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SM Katich
             non_striker: Shoaib Malik
             runs:
@@ -10983,7 +10983,7 @@ innings:
               extras: 0
               total: 0
         - 80.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SM Katich
             non_striker: Shoaib Malik
             runs:
@@ -10991,7 +10991,7 @@ innings:
               extras: 0
               total: 0
         - 80.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SM Katich
             non_striker: Shoaib Malik
             runs:
@@ -11002,7 +11002,7 @@ innings:
               fielders:
                 - MJ Clarke
               kind: caught
-              player_out: Sarfraz Ahmed
+              player_out: Sarfaraz Ahmed
         - 80.6:
             batsman: Mohammad Amir
             bowler: SM Katich
@@ -14481,7 +14481,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: RT Ponting
         - 46.5:
@@ -16353,7 +16353,7 @@ innings:
               kind: caught
               player_out: Shoaib Malik
         - 36.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Khurram Manzoor
             runs:
@@ -16361,7 +16361,7 @@ innings:
               extras: 0
               total: 0
         - 36.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Khurram Manzoor
             runs:
@@ -16369,7 +16369,7 @@ innings:
               extras: 0
               total: 0
         - 36.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Khurram Manzoor
             runs:
@@ -16377,7 +16377,7 @@ innings:
               extras: 0
               total: 0
         - 36.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Khurram Manzoor
             runs:
@@ -16387,13 +16387,13 @@ innings:
         - 36.6:
             batsman: Khurram Manzoor
             bowler: PM Siddle
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 37.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Khurram Manzoor
             runs:
@@ -16403,7 +16403,7 @@ innings:
         - 37.2:
             batsman: Khurram Manzoor
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16411,7 +16411,7 @@ innings:
         - 37.3:
             batsman: Khurram Manzoor
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16419,7 +16419,7 @@ innings:
         - 37.4:
             batsman: Khurram Manzoor
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16427,7 +16427,7 @@ innings:
         - 37.5:
             batsman: Khurram Manzoor
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16435,13 +16435,13 @@ innings:
         - 37.6:
             batsman: Khurram Manzoor
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 38.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Khurram Manzoor
             runs:
@@ -16449,7 +16449,7 @@ innings:
               extras: 0
               total: 0
         - 38.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Khurram Manzoor
             runs:
@@ -16457,7 +16457,7 @@ innings:
               extras: 0
               total: 0
         - 38.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Khurram Manzoor
             runs:
@@ -16465,7 +16465,7 @@ innings:
               extras: 0
               total: 0
         - 38.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Khurram Manzoor
             runs:
@@ -16473,7 +16473,7 @@ innings:
               extras: 0
               total: 0
         - 38.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Khurram Manzoor
             runs:
@@ -16481,7 +16481,7 @@ innings:
               extras: 0
               total: 0
         - 38.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Khurram Manzoor
             runs:
@@ -16491,7 +16491,7 @@ innings:
         - 39.1:
             batsman: Khurram Manzoor
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16499,7 +16499,7 @@ innings:
         - 39.2:
             batsman: Khurram Manzoor
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16507,7 +16507,7 @@ innings:
         - 39.3:
             batsman: Khurram Manzoor
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16517,7 +16517,7 @@ innings:
             bowler: MG Johnson
             extras:
               byes: 4
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 4
@@ -16525,7 +16525,7 @@ innings:
         - 39.5:
             batsman: Khurram Manzoor
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -16533,13 +16533,13 @@ innings:
         - 39.6:
             batsman: Khurram Manzoor
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 40.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Khurram Manzoor
             runs:
@@ -16547,7 +16547,7 @@ innings:
               extras: 0
               total: 0
         - 40.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Khurram Manzoor
             runs:
@@ -16555,7 +16555,7 @@ innings:
               extras: 0
               total: 0
         - 40.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Khurram Manzoor
             runs:
@@ -16563,7 +16563,7 @@ innings:
               extras: 0
               total: 2
         - 40.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Khurram Manzoor
             runs:
@@ -16571,7 +16571,7 @@ innings:
               extras: 0
               total: 0
         - 40.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Khurram Manzoor
             runs:
@@ -16579,7 +16579,7 @@ innings:
               extras: 0
               total: 0
         - 40.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Khurram Manzoor
             runs:
@@ -16589,7 +16589,7 @@ innings:
         - 41.1:
             batsman: Khurram Manzoor
             bowler: DE Bollinger
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16597,7 +16597,7 @@ innings:
         - 41.2:
             batsman: Khurram Manzoor
             bowler: DE Bollinger
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16605,7 +16605,7 @@ innings:
         - 41.3:
             batsman: Khurram Manzoor
             bowler: DE Bollinger
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16613,7 +16613,7 @@ innings:
         - 41.4:
             batsman: Khurram Manzoor
             bowler: DE Bollinger
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16621,7 +16621,7 @@ innings:
         - 41.5:
             batsman: Khurram Manzoor
             bowler: DE Bollinger
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16629,13 +16629,13 @@ innings:
         - 41.6:
             batsman: Khurram Manzoor
             bowler: DE Bollinger
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 42.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Khurram Manzoor
             runs:
@@ -16643,7 +16643,7 @@ innings:
               extras: 0
               total: 0
         - 42.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Khurram Manzoor
             runs:
@@ -16651,7 +16651,7 @@ innings:
               extras: 0
               total: 0
         - 42.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Khurram Manzoor
             runs:
@@ -16659,7 +16659,7 @@ innings:
               extras: 0
               total: 0
         - 42.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Khurram Manzoor
             runs:
@@ -16667,7 +16667,7 @@ innings:
               extras: 0
               total: 0
         - 42.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Khurram Manzoor
             runs:
@@ -16675,7 +16675,7 @@ innings:
               extras: 0
               total: 0
         - 42.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PM Siddle
             non_striker: Khurram Manzoor
             runs:
@@ -16685,7 +16685,7 @@ innings:
         - 43.1:
             batsman: Khurram Manzoor
             bowler: DE Bollinger
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16693,7 +16693,7 @@ innings:
         - 43.2:
             batsman: Khurram Manzoor
             bowler: DE Bollinger
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16701,7 +16701,7 @@ innings:
         - 43.3:
             batsman: Khurram Manzoor
             bowler: DE Bollinger
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16709,7 +16709,7 @@ innings:
         - 43.4:
             batsman: Khurram Manzoor
             bowler: DE Bollinger
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16717,7 +16717,7 @@ innings:
         - 43.5:
             batsman: Khurram Manzoor
             bowler: DE Bollinger
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -16725,13 +16725,13 @@ innings:
         - 43.6:
             batsman: Khurram Manzoor
             bowler: DE Bollinger
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 44.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             non_striker: Khurram Manzoor
             runs:
@@ -16739,7 +16739,7 @@ innings:
               extras: 0
               total: 0
         - 44.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MG Johnson
             extras:
               legbyes: 3
@@ -16751,7 +16751,7 @@ innings:
         - 44.3:
             batsman: Khurram Manzoor
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16759,7 +16759,7 @@ innings:
         - 44.4:
             batsman: Khurram Manzoor
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16767,7 +16767,7 @@ innings:
         - 44.5:
             batsman: Khurram Manzoor
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16775,13 +16775,13 @@ innings:
         - 44.6:
             batsman: Khurram Manzoor
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 45.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DE Bollinger
             non_striker: Khurram Manzoor
             runs:
@@ -16791,7 +16791,7 @@ innings:
         - 45.2:
             batsman: Khurram Manzoor
             bowler: DE Bollinger
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16799,7 +16799,7 @@ innings:
         - 45.3:
             batsman: Khurram Manzoor
             bowler: DE Bollinger
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16807,7 +16807,7 @@ innings:
         - 45.4:
             batsman: Khurram Manzoor
             bowler: DE Bollinger
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -16815,7 +16815,7 @@ innings:
         - 45.5:
             batsman: Khurram Manzoor
             bowler: DE Bollinger
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16823,7 +16823,7 @@ innings:
         - 45.6:
             batsman: Khurram Manzoor
             bowler: DE Bollinger
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -16831,7 +16831,7 @@ innings:
         - 46.1:
             batsman: Khurram Manzoor
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16839,7 +16839,7 @@ innings:
         - 46.2:
             batsman: Khurram Manzoor
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16847,7 +16847,7 @@ innings:
         - 46.3:
             batsman: Khurram Manzoor
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16855,7 +16855,7 @@ innings:
         - 46.4:
             batsman: Khurram Manzoor
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16863,7 +16863,7 @@ innings:
         - 46.5:
             batsman: Khurram Manzoor
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -16871,13 +16871,13 @@ innings:
         - 46.6:
             batsman: Khurram Manzoor
             bowler: MG Johnson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 47.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Hauritz
             non_striker: Khurram Manzoor
             runs:
@@ -16888,7 +16888,7 @@ innings:
               fielders:
                 - MJ Clarke
               kind: caught
-              player_out: Sarfraz Ahmed
+              player_out: Sarfaraz Ahmed
         - 47.2:
             batsman: Mohammad Amir
             bowler: NM Hauritz

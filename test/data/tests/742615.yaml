@@ -5236,7 +5236,7 @@ innings:
               kind: caught
               player_out: Mohammad Hafeez
         - 106.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Asad Shafiq
             runs:
@@ -5244,7 +5244,7 @@ innings:
               extras: 0
               total: 1
         - 107.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MD Craig
             non_striker: Asad Shafiq
             runs:
@@ -5254,7 +5254,7 @@ innings:
         - 107.2:
             batsman: Asad Shafiq
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5262,7 +5262,7 @@ innings:
         - 107.3:
             batsman: Asad Shafiq
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5270,7 +5270,7 @@ innings:
         - 107.4:
             batsman: Asad Shafiq
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5278,7 +5278,7 @@ innings:
         - 107.5:
             batsman: Asad Shafiq
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5286,7 +5286,7 @@ innings:
         - 107.6:
             batsman: Asad Shafiq
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5297,7 +5297,7 @@ innings:
               kind: caught
               player_out: Asad Shafiq
         - 108.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Yasir Shah
             runs:
@@ -5305,7 +5305,7 @@ innings:
               extras: 0
               total: 0
         - 108.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Yasir Shah
             runs:
@@ -5313,7 +5313,7 @@ innings:
               extras: 0
               total: 0
         - 108.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Yasir Shah
             runs:
@@ -5323,7 +5323,7 @@ innings:
         - 108.4:
             batsman: Yasir Shah
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5331,7 +5331,7 @@ innings:
         - 108.5:
             batsman: Yasir Shah
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5339,7 +5339,7 @@ innings:
         - 108.6:
             batsman: Yasir Shah
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -5347,7 +5347,7 @@ innings:
         - 109.1:
             batsman: Yasir Shah
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5355,7 +5355,7 @@ innings:
         - 109.2:
             batsman: Yasir Shah
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5363,7 +5363,7 @@ innings:
         - 109.3:
             batsman: Yasir Shah
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5371,7 +5371,7 @@ innings:
         - 109.4:
             batsman: Yasir Shah
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5379,7 +5379,7 @@ innings:
         - 109.5:
             batsman: Yasir Shah
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5387,13 +5387,13 @@ innings:
         - 109.6:
             batsman: Yasir Shah
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
               total: 4
         - 110.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Yasir Shah
             runs:
@@ -5403,7 +5403,7 @@ innings:
         - 110.2:
             batsman: Yasir Shah
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5411,7 +5411,7 @@ innings:
         - 110.3:
             batsman: Yasir Shah
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5419,7 +5419,7 @@ innings:
         - 110.4:
             batsman: Yasir Shah
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5427,7 +5427,7 @@ innings:
         - 110.5:
             batsman: Yasir Shah
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5435,13 +5435,13 @@ innings:
         - 110.6:
             batsman: Yasir Shah
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 111.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MD Craig
             non_striker: Yasir Shah
             runs:
@@ -5449,7 +5449,7 @@ innings:
               extras: 0
               total: 0
         - 111.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MD Craig
             non_striker: Yasir Shah
             runs:
@@ -5459,7 +5459,7 @@ innings:
         - 111.3:
             batsman: Yasir Shah
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5467,7 +5467,7 @@ innings:
         - 111.4:
             batsman: Yasir Shah
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5475,7 +5475,7 @@ innings:
         - 111.5:
             batsman: Yasir Shah
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5483,13 +5483,13 @@ innings:
         - 111.6:
             batsman: Yasir Shah
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 112.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Yasir Shah
             runs:
@@ -5497,7 +5497,7 @@ innings:
               extras: 0
               total: 0
         - 112.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Yasir Shah
             runs:
@@ -5505,7 +5505,7 @@ innings:
               extras: 0
               total: 0
         - 112.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Yasir Shah
             runs:
@@ -5513,7 +5513,7 @@ innings:
               extras: 0
               total: 0
         - 112.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Yasir Shah
             runs:
@@ -5521,7 +5521,7 @@ innings:
               extras: 0
               total: 0
         - 112.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Yasir Shah
             runs:
@@ -5531,13 +5531,13 @@ innings:
         - 112.6:
             batsman: Yasir Shah
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 113.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MD Craig
             non_striker: Yasir Shah
             runs:
@@ -5547,7 +5547,7 @@ innings:
         - 113.2:
             batsman: Yasir Shah
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5555,7 +5555,7 @@ innings:
         - 113.3:
             batsman: Yasir Shah
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5563,7 +5563,7 @@ innings:
         - 113.4:
             batsman: Yasir Shah
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5571,7 +5571,7 @@ innings:
         - 113.5:
             batsman: Yasir Shah
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5579,13 +5579,13 @@ innings:
         - 113.6:
             batsman: Yasir Shah
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 114.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Yasir Shah
             runs:
@@ -5595,7 +5595,7 @@ innings:
         - 114.2:
             batsman: Yasir Shah
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5603,7 +5603,7 @@ innings:
         - 114.3:
             batsman: Yasir Shah
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5611,7 +5611,7 @@ innings:
         - 114.4:
             batsman: Yasir Shah
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5619,7 +5619,7 @@ innings:
         - 114.5:
             batsman: Yasir Shah
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5627,13 +5627,13 @@ innings:
         - 114.6:
             batsman: Yasir Shah
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 115.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MD Craig
             non_striker: Yasir Shah
             runs:
@@ -5643,7 +5643,7 @@ innings:
         - 115.2:
             batsman: Yasir Shah
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5651,7 +5651,7 @@ innings:
         - 115.3:
             batsman: Yasir Shah
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5659,13 +5659,13 @@ innings:
         - 115.4:
             batsman: Yasir Shah
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 115.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MD Craig
             non_striker: Yasir Shah
             runs:
@@ -5675,13 +5675,13 @@ innings:
         - 115.6:
             batsman: Yasir Shah
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 116.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Yasir Shah
             runs:
@@ -5689,7 +5689,7 @@ innings:
               extras: 0
               total: 0
         - 116.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Yasir Shah
             runs:
@@ -5697,7 +5697,7 @@ innings:
               extras: 0
               total: 0
         - 116.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Yasir Shah
             runs:
@@ -5707,7 +5707,7 @@ innings:
         - 116.4:
             batsman: Yasir Shah
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5715,7 +5715,7 @@ innings:
         - 116.5:
             batsman: Yasir Shah
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -5723,13 +5723,13 @@ innings:
         - 116.6:
             batsman: Yasir Shah
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
               total: 4
         - 117.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MD Craig
             non_striker: Yasir Shah
             runs:
@@ -5737,7 +5737,7 @@ innings:
               extras: 0
               total: 0
         - 117.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MD Craig
             non_striker: Yasir Shah
             runs:
@@ -5745,7 +5745,7 @@ innings:
               extras: 0
               total: 4
         - 117.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MD Craig
             non_striker: Yasir Shah
             runs:
@@ -5753,7 +5753,7 @@ innings:
               extras: 0
               total: 0
         - 117.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MD Craig
             non_striker: Yasir Shah
             runs:
@@ -5764,7 +5764,7 @@ innings:
               fielders:
                 - BJ Watling
               kind: caught
-              player_out: Sarfraz Ahmed
+              player_out: Sarfaraz Ahmed
         - 117.5:
             batsman: Mohammad Talha
             bowler: MD Craig
@@ -6617,7 +6617,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: TWM Latham
         - 8.5:
@@ -14546,7 +14546,7 @@ innings:
               kind: caught
               player_out: Misbah-ul-Haq
         - 27.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MD Craig
             non_striker: Asad Shafiq
             runs:
@@ -14556,13 +14556,13 @@ innings:
         - 27.5:
             batsman: Asad Shafiq
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 27.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MD Craig
             non_striker: Asad Shafiq
             runs:
@@ -14572,7 +14572,7 @@ innings:
         - 28.1:
             batsman: Asad Shafiq
             bowler: TG Southee
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14580,13 +14580,13 @@ innings:
         - 28.2:
             batsman: Asad Shafiq
             bowler: TG Southee
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 28.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: TG Southee
             non_striker: Asad Shafiq
             runs:
@@ -14594,7 +14594,7 @@ innings:
               extras: 0
               total: 0
         - 28.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: TG Southee
             non_striker: Asad Shafiq
             runs:
@@ -14602,7 +14602,7 @@ innings:
               extras: 0
               total: 0
         - 28.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: TG Southee
             non_striker: Asad Shafiq
             runs:
@@ -14610,7 +14610,7 @@ innings:
               extras: 0
               total: 0
         - 28.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: TG Southee
             non_striker: Asad Shafiq
             runs:
@@ -14620,13 +14620,13 @@ innings:
         - 29.1:
             batsman: Asad Shafiq
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 29.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MD Craig
             non_striker: Asad Shafiq
             runs:
@@ -14634,7 +14634,7 @@ innings:
               extras: 0
               total: 0
         - 29.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MD Craig
             non_striker: Asad Shafiq
             runs:
@@ -14642,7 +14642,7 @@ innings:
               extras: 0
               total: 4
         - 29.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MD Craig
             non_striker: Asad Shafiq
             runs:
@@ -14650,7 +14650,7 @@ innings:
               extras: 0
               total: 2
         - 29.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MD Craig
             non_striker: Asad Shafiq
             runs:
@@ -14658,7 +14658,7 @@ innings:
               extras: 0
               total: 4
         - 29.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MD Craig
             non_striker: Asad Shafiq
             runs:
@@ -14668,13 +14668,13 @@ innings:
         - 30.1:
             batsman: Asad Shafiq
             bowler: TG Southee
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 30.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: TG Southee
             non_striker: Asad Shafiq
             runs:
@@ -14682,7 +14682,7 @@ innings:
               extras: 0
               total: 0
         - 30.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: TG Southee
             non_striker: Asad Shafiq
             runs:
@@ -14690,7 +14690,7 @@ innings:
               extras: 0
               total: 0
         - 30.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: TG Southee
             non_striker: Asad Shafiq
             runs:
@@ -14698,7 +14698,7 @@ innings:
               extras: 0
               total: 0
         - 30.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: TG Southee
             non_striker: Asad Shafiq
             runs:
@@ -14708,13 +14708,13 @@ innings:
         - 30.6:
             batsman: Asad Shafiq
             bowler: TG Southee
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
               total: 4
         - 31.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MD Craig
             non_striker: Asad Shafiq
             runs:
@@ -14724,7 +14724,7 @@ innings:
         - 31.2:
             batsman: Asad Shafiq
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14732,7 +14732,7 @@ innings:
         - 31.3:
             batsman: Asad Shafiq
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14740,7 +14740,7 @@ innings:
         - 31.4:
             batsman: Asad Shafiq
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14748,13 +14748,13 @@ innings:
         - 31.5:
             batsman: Asad Shafiq
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 31.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MD Craig
             non_striker: Asad Shafiq
             runs:
@@ -14764,7 +14764,7 @@ innings:
         - 32.1:
             batsman: Asad Shafiq
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14772,7 +14772,7 @@ innings:
         - 32.2:
             batsman: Asad Shafiq
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14780,7 +14780,7 @@ innings:
         - 32.3:
             batsman: Asad Shafiq
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -14788,7 +14788,7 @@ innings:
         - 32.4:
             batsman: Asad Shafiq
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -14796,13 +14796,13 @@ innings:
         - 32.5:
             batsman: Asad Shafiq
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 32.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Asad Shafiq
             runs:
@@ -14812,7 +14812,7 @@ innings:
         - 33.1:
             batsman: Asad Shafiq
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -14820,7 +14820,7 @@ innings:
         - 33.2:
             batsman: Asad Shafiq
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14828,7 +14828,7 @@ innings:
         - 33.3:
             batsman: Asad Shafiq
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14836,7 +14836,7 @@ innings:
         - 33.4:
             batsman: Asad Shafiq
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14844,7 +14844,7 @@ innings:
         - 33.5:
             batsman: Asad Shafiq
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14852,13 +14852,13 @@ innings:
         - 33.6:
             batsman: Asad Shafiq
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 6
               extras: 0
               total: 6
         - 34.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Asad Shafiq
             runs:
@@ -14866,7 +14866,7 @@ innings:
               extras: 0
               total: 4
         - 34.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Asad Shafiq
             runs:
@@ -14876,7 +14876,7 @@ innings:
         - 34.3:
             batsman: Asad Shafiq
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14884,7 +14884,7 @@ innings:
         - 34.4:
             batsman: Asad Shafiq
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14892,7 +14892,7 @@ innings:
         - 34.5:
             batsman: Asad Shafiq
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14900,13 +14900,13 @@ innings:
         - 34.6:
             batsman: Asad Shafiq
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
               total: 2
         - 35.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MD Craig
             non_striker: Asad Shafiq
             runs:
@@ -14914,7 +14914,7 @@ innings:
               extras: 0
               total: 0
         - 35.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MD Craig
             non_striker: Asad Shafiq
             runs:
@@ -14922,7 +14922,7 @@ innings:
               extras: 0
               total: 0
         - 35.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MD Craig
             non_striker: Asad Shafiq
             runs:
@@ -14932,7 +14932,7 @@ innings:
         - 35.4:
             batsman: Asad Shafiq
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14940,7 +14940,7 @@ innings:
         - 35.5:
             batsman: Asad Shafiq
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14948,13 +14948,13 @@ innings:
         - 35.6:
             batsman: Asad Shafiq
             bowler: MD Craig
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 36.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Asad Shafiq
             runs:
@@ -14962,7 +14962,7 @@ innings:
               extras: 0
               total: 2
         - 36.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Asad Shafiq
             runs:
@@ -14970,7 +14970,7 @@ innings:
               extras: 0
               total: 0
         - 36.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Asad Shafiq
             runs:
@@ -14978,7 +14978,7 @@ innings:
               extras: 0
               total: 0
         - 36.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Asad Shafiq
             runs:
@@ -14986,7 +14986,7 @@ innings:
               extras: 0
               total: 0
         - 36.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Asad Shafiq
             runs:
@@ -14994,7 +14994,7 @@ innings:
               extras: 0
               total: 0
         - 36.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Asad Shafiq
             runs:
@@ -15002,7 +15002,7 @@ innings:
               extras: 0
               total: 1
         - 37.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: TA Boult
             non_striker: Asad Shafiq
             runs:
@@ -15010,7 +15010,7 @@ innings:
               extras: 0
               total: 0
         - 37.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: TA Boult
             non_striker: Asad Shafiq
             runs:
@@ -15018,7 +15018,7 @@ innings:
               extras: 0
               total: 0
         - 37.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: TA Boult
             non_striker: Asad Shafiq
             runs:
@@ -15026,7 +15026,7 @@ innings:
               extras: 0
               total: 0
         - 37.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: TA Boult
             non_striker: Asad Shafiq
             runs:
@@ -15034,7 +15034,7 @@ innings:
               extras: 0
               total: 0
         - 37.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: TA Boult
             non_striker: Asad Shafiq
             runs:
@@ -15042,7 +15042,7 @@ innings:
               extras: 0
               total: 2
         - 37.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: TA Boult
             non_striker: Asad Shafiq
             runs:
@@ -15052,7 +15052,7 @@ innings:
         - 38.1:
             batsman: Asad Shafiq
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15060,7 +15060,7 @@ innings:
         - 38.2:
             batsman: Asad Shafiq
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15068,13 +15068,13 @@ innings:
         - 38.3:
             batsman: Asad Shafiq
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 38.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Asad Shafiq
             runs:
@@ -15082,7 +15082,7 @@ innings:
               extras: 0
               total: 0
         - 38.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Asad Shafiq
             runs:
@@ -15092,7 +15092,7 @@ innings:
         - 38.6:
             batsman: Asad Shafiq
             bowler: IS Sodhi
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -15100,7 +15100,7 @@ innings:
         - 39.1:
             batsman: Asad Shafiq
             bowler: TA Boult
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -15108,7 +15108,7 @@ innings:
         - 39.2:
             batsman: Asad Shafiq
             bowler: TA Boult
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15116,7 +15116,7 @@ innings:
         - 39.3:
             batsman: Asad Shafiq
             bowler: TA Boult
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15124,7 +15124,7 @@ innings:
         - 39.4:
             batsman: Asad Shafiq
             bowler: TA Boult
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15132,7 +15132,7 @@ innings:
         - 39.5:
             batsman: Asad Shafiq
             bowler: TA Boult
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15140,13 +15140,13 @@ innings:
         - 39.6:
             batsman: Asad Shafiq
             bowler: TA Boult
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 40.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Asad Shafiq
             runs:
@@ -15154,7 +15154,7 @@ innings:
               extras: 0
               total: 0
         - 40.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: IS Sodhi
             non_striker: Asad Shafiq
             runs:
@@ -15165,7 +15165,7 @@ innings:
               fielders:
                 - LRPL Taylor
               kind: caught
-              player_out: Sarfraz Ahmed
+              player_out: Sarfaraz Ahmed
         - 40.3:
             batsman: Yasir Shah
             bowler: IS Sodhi

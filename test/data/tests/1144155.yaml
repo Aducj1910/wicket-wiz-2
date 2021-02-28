@@ -118,7 +118,7 @@ innings:
         wicket:
           player_out: D Elgar
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 1.5:
         non_striker: AK Markram
@@ -1727,7 +1727,7 @@ innings:
         wicket:
           player_out: AK Markram
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 34.5:
         non_striker: HM Amla
@@ -3062,7 +3062,7 @@ innings:
         wicket:
           player_out: T Bavuma
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 62.1:
         non_striker: Q de Kock
@@ -3270,7 +3270,7 @@ innings:
         wicket:
           player_out: Zubayr Hamza
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 66.1:
         non_striker: VD Philander
@@ -3604,7 +3604,7 @@ innings:
         wicket:
           player_out: K Rabada
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 72.5:
         non_striker: Q de Kock
@@ -5507,7 +5507,7 @@ innings:
           extras: 0
           total: 4
           batsman: 4
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 33.4:
         non_striker: Babar Azam
         bowler: VD Philander
@@ -5515,7 +5515,7 @@ innings:
           extras: 0
           total: 4
           batsman: 4
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 33.5:
         non_striker: Babar Azam
         bowler: VD Philander
@@ -5523,7 +5523,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 33.6:
         non_striker: Babar Azam
         bowler: VD Philander
@@ -5531,9 +5531,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 34.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DW Steyn
         runs:
           extras: 0
@@ -5541,7 +5541,7 @@ innings:
           batsman: 4
         batsman: Babar Azam
     - 34.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DW Steyn
         runs:
           extras: 0
@@ -5549,7 +5549,7 @@ innings:
           batsman: 4
         batsman: Babar Azam
     - 34.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DW Steyn
         runs:
           extras: 0
@@ -5557,7 +5557,7 @@ innings:
           batsman: 0
         batsman: Babar Azam
     - 34.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DW Steyn
         runs:
           extras: 0
@@ -5565,7 +5565,7 @@ innings:
           batsman: 4
         batsman: Babar Azam
     - 34.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DW Steyn
         runs:
           extras: 0
@@ -5573,7 +5573,7 @@ innings:
           batsman: 0
         batsman: Babar Azam
     - 34.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: DW Steyn
         runs:
           extras: 0
@@ -5587,7 +5587,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 35.2:
         non_striker: Babar Azam
         bowler: VD Philander
@@ -5595,7 +5595,7 @@ innings:
           extras: 0
           total: 4
           batsman: 4
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 35.3:
         non_striker: Babar Azam
         bowler: VD Philander
@@ -5603,7 +5603,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 35.4:
         non_striker: Babar Azam
         bowler: VD Philander
@@ -5611,7 +5611,7 @@ innings:
           extras: 0
           total: 4
           batsman: 4
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 35.5:
         non_striker: Babar Azam
         bowler: VD Philander
@@ -5619,7 +5619,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 35.6:
         non_striker: Babar Azam
         bowler: VD Philander
@@ -5627,9 +5627,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 36.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: D Olivier
         runs:
           extras: 0
@@ -5643,7 +5643,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 36.3:
         non_striker: Babar Azam
         bowler: D Olivier
@@ -5651,7 +5651,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 36.4:
         non_striker: Babar Azam
         bowler: D Olivier
@@ -5659,9 +5659,9 @@ innings:
           extras: 0
           total: 5
           batsman: 5
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 36.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: D Olivier
         runs:
           extras: 0
@@ -5669,7 +5669,7 @@ innings:
           batsman: 0
         batsman: Babar Azam
     - 36.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: D Olivier
         runs:
           extras: 0
@@ -5677,7 +5677,7 @@ innings:
           batsman: 1
         batsman: Babar Azam
     - 37.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: VD Philander
         runs:
           extras: 0
@@ -5685,7 +5685,7 @@ innings:
           batsman: 0
         batsman: Babar Azam
     - 37.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: VD Philander
         runs:
           extras: 0
@@ -5693,7 +5693,7 @@ innings:
           batsman: 0
         batsman: Babar Azam
     - 37.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: VD Philander
         runs:
           extras: 0
@@ -5701,7 +5701,7 @@ innings:
           batsman: 0
         batsman: Babar Azam
     - 37.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: VD Philander
         runs:
           extras: 0
@@ -5709,7 +5709,7 @@ innings:
           batsman: 4
         batsman: Babar Azam
     - 37.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: VD Philander
         runs:
           extras: 0
@@ -5717,7 +5717,7 @@ innings:
           batsman: 0
         batsman: Babar Azam
     - 37.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: VD Philander
         runs:
           extras: 0
@@ -5731,7 +5731,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 38.2:
         non_striker: Babar Azam
         bowler: D Olivier
@@ -5739,7 +5739,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 38.3:
         non_striker: Babar Azam
         bowler: D Olivier
@@ -5747,7 +5747,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 38.4:
         non_striker: Babar Azam
         bowler: D Olivier
@@ -5757,7 +5757,7 @@ innings:
           batsman: 0
         extras:
           legbyes: 4
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 38.5:
         non_striker: Babar Azam
         bowler: D Olivier
@@ -5765,7 +5765,7 @@ innings:
           extras: 0
           total: 4
           batsman: 4
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 38.6:
         non_striker: Babar Azam
         bowler: D Olivier
@@ -5773,9 +5773,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 39.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: VD Philander
         runs:
           extras: 0
@@ -5789,7 +5789,7 @@ innings:
           extras: 0
           total: 4
           batsman: 4
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 39.3:
         non_striker: Babar Azam
         bowler: VD Philander
@@ -5797,7 +5797,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 39.4:
         non_striker: Babar Azam
         bowler: VD Philander
@@ -5805,7 +5805,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 39.5:
         non_striker: Babar Azam
         bowler: VD Philander
@@ -5813,9 +5813,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 39.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: VD Philander
         runs:
           extras: 0
@@ -5829,7 +5829,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 40.2:
         non_striker: Babar Azam
         bowler: D Olivier
@@ -5837,9 +5837,9 @@ innings:
           extras: 0
           total: 3
           batsman: 3
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 40.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: D Olivier
         runs:
           extras: 0
@@ -5853,7 +5853,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 40.5:
         non_striker: Babar Azam
         bowler: D Olivier
@@ -5861,9 +5861,9 @@ innings:
           extras: 0
           total: 5
           batsman: 5
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 40.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: D Olivier
         runs:
           extras: 0
@@ -5877,7 +5877,7 @@ innings:
           extras: 0
           total: 4
           batsman: 4
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 41.2:
         non_striker: Babar Azam
         bowler: K Rabada
@@ -5885,7 +5885,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 41.3:
         non_striker: Babar Azam
         bowler: K Rabada
@@ -5893,7 +5893,7 @@ innings:
           extras: 0
           total: 4
           batsman: 4
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 41.4:
         non_striker: Babar Azam
         bowler: K Rabada
@@ -5901,7 +5901,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 41.5:
         non_striker: Babar Azam
         bowler: K Rabada
@@ -5909,7 +5909,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 41.6:
         non_striker: Babar Azam
         bowler: K Rabada
@@ -5917,7 +5917,7 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 42.1:
         non_striker: Babar Azam
         bowler: D Olivier
@@ -5925,7 +5925,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 42.2:
         non_striker: Babar Azam
         bowler: D Olivier
@@ -5933,7 +5933,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 42.3:
         non_striker: Babar Azam
         bowler: D Olivier
@@ -5941,7 +5941,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 42.4:
         non_striker: Babar Azam
         bowler: D Olivier
@@ -5949,9 +5949,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 42.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: D Olivier
         runs:
           extras: 0
@@ -5959,7 +5959,7 @@ innings:
           batsman: 0
         batsman: Babar Azam
     - 42.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: D Olivier
         runs:
           extras: 4
@@ -5975,7 +5975,7 @@ innings:
           extras: 0
           total: 2
           batsman: 2
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 43.2:
         non_striker: Babar Azam
         bowler: K Rabada
@@ -5983,7 +5983,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 43.3:
         non_striker: Babar Azam
         bowler: K Rabada
@@ -5991,9 +5991,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
         wicket:
-          player_out: Sarfraz Ahmed
+          player_out: Sarfaraz Ahmed
           fielders:
           - HM Amla
           kind: caught
@@ -6523,7 +6523,7 @@ innings:
         wicket:
           player_out: D Elgar
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 4.2:
         non_striker: AK Markram
@@ -6744,7 +6744,7 @@ innings:
         wicket:
           player_out: AK Markram
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 8.5:
         non_striker: HM Amla
@@ -7711,7 +7711,7 @@ innings:
         wicket:
           player_out: T Bavuma
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 28.4:
         non_striker: HM Amla
@@ -8770,7 +8770,7 @@ innings:
         wicket:
           player_out: HM Amla
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 50.1:
         non_striker: VD Philander
@@ -10264,7 +10264,7 @@ innings:
         wicket:
           player_out: D Olivier
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
 - 4th innings:
     team: Pakistan
@@ -12346,9 +12346,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
         wicket:
-          player_out: Sarfraz Ahmed
+          player_out: Sarfaraz Ahmed
           kind: bowled
     - 42.6:
         non_striker: Asad Shafiq

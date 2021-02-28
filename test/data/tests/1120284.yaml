@@ -1401,7 +1401,7 @@ innings:
         wicket:
           player_out: BKG Mendis
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 28.2:
         non_striker: FDM Karunaratne
@@ -13525,7 +13525,7 @@ innings:
           - S Samarawickrama (sub)
           kind: caught
     - 123.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -13533,7 +13533,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 123.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -13547,7 +13547,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 123.4:
         non_striker: Haris Sohail
         bowler: MDK Perera
@@ -13555,7 +13555,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 123.5:
         non_striker: Haris Sohail
         bowler: MDK Perera
@@ -13563,9 +13563,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 123.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -13579,7 +13579,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 124.2:
         non_striker: Haris Sohail
         bowler: HMRKB Herath
@@ -13587,7 +13587,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 124.3:
         non_striker: Haris Sohail
         bowler: HMRKB Herath
@@ -13595,9 +13595,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 124.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -13605,7 +13605,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 124.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -13613,7 +13613,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 124.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -13627,7 +13627,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 125.2:
         non_striker: Haris Sohail
         bowler: MDK Perera
@@ -13635,9 +13635,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 125.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -13651,7 +13651,7 @@ innings:
           extras: 0
           total: 4
           batsman: 4
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 125.5:
         non_striker: Haris Sohail
         bowler: MDK Perera
@@ -13659,7 +13659,7 @@ innings:
           extras: 0
           total: 6
           batsman: 6
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 125.6:
         non_striker: Haris Sohail
         bowler: MDK Perera
@@ -13667,9 +13667,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 126.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -13683,7 +13683,7 @@ innings:
           extras: 0
           total: 2
           batsman: 2
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 126.3:
         non_striker: Haris Sohail
         bowler: HMRKB Herath
@@ -13691,9 +13691,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 126.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -13701,7 +13701,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 126.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -13709,7 +13709,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 126.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -13723,7 +13723,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 127.2:
         non_striker: Haris Sohail
         bowler: RAS Lakmal
@@ -13731,7 +13731,7 @@ innings:
           extras: 0
           total: 2
           batsman: 2
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 127.3:
         non_striker: Haris Sohail
         bowler: RAS Lakmal
@@ -13739,7 +13739,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 127.4:
         non_striker: Haris Sohail
         bowler: RAS Lakmal
@@ -13747,7 +13747,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 127.5:
         non_striker: Haris Sohail
         bowler: RAS Lakmal
@@ -13755,7 +13755,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 127.6:
         non_striker: Haris Sohail
         bowler: RAS Lakmal
@@ -13765,7 +13765,7 @@ innings:
           batsman: 0
         extras:
           wides: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 127.7:
         non_striker: Haris Sohail
         bowler: RAS Lakmal
@@ -13773,9 +13773,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 128.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -13783,7 +13783,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 128.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -13791,7 +13791,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 128.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -13799,7 +13799,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 128.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -13807,7 +13807,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 128.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -13815,7 +13815,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 128.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -13829,7 +13829,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 129.2:
         non_striker: Haris Sohail
         bowler: RAS Lakmal
@@ -13837,9 +13837,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
         wicket:
-          player_out: Sarfraz Ahmed
+          player_out: Sarfaraz Ahmed
           kind: bowled
     - 129.3:
         non_striker: Haris Sohail
@@ -16444,7 +16444,7 @@ innings:
         wicket:
           player_out: HDRL Thirimanne
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 18.6:
         non_striker: JK Silva
@@ -19684,9 +19684,9 @@ innings:
           extras: 0
           total: 2
           batsman: 2
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 18.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -19694,7 +19694,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 18.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -19702,7 +19702,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 18.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -19710,7 +19710,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 18.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -19718,7 +19718,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 18.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -19726,7 +19726,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 18.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -19740,7 +19740,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 19.2:
         non_striker: Haris Sohail
         bowler: HMRKB Herath
@@ -19748,7 +19748,7 @@ innings:
           extras: 0
           total: 2
           batsman: 2
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 19.3:
         non_striker: Haris Sohail
         bowler: HMRKB Herath
@@ -19756,7 +19756,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 19.4:
         non_striker: Haris Sohail
         bowler: HMRKB Herath
@@ -19764,7 +19764,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 19.5:
         non_striker: Haris Sohail
         bowler: HMRKB Herath
@@ -19772,7 +19772,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 19.6:
         non_striker: Haris Sohail
         bowler: HMRKB Herath
@@ -19780,9 +19780,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 20.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -19790,7 +19790,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 20.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -19804,7 +19804,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 20.4:
         non_striker: Haris Sohail
         bowler: MDK Perera
@@ -19812,7 +19812,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 20.5:
         non_striker: Haris Sohail
         bowler: MDK Perera
@@ -19820,7 +19820,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 20.6:
         non_striker: Haris Sohail
         bowler: MDK Perera
@@ -19828,7 +19828,7 @@ innings:
           extras: 0
           total: 3
           batsman: 3
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 21.1:
         non_striker: Haris Sohail
         bowler: HMRKB Herath
@@ -19836,7 +19836,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 21.2:
         non_striker: Haris Sohail
         bowler: HMRKB Herath
@@ -19844,7 +19844,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 21.3:
         non_striker: Haris Sohail
         bowler: HMRKB Herath
@@ -19852,9 +19852,9 @@ innings:
           extras: 0
           total: 3
           batsman: 3
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 21.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -19862,7 +19862,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 21.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -19870,7 +19870,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 21.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -19884,7 +19884,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 22.2:
         non_striker: Haris Sohail
         bowler: MDK Perera
@@ -19892,9 +19892,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 22.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -19902,7 +19902,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 22.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -19910,7 +19910,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 22.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -19924,9 +19924,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 23.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -19934,7 +19934,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 23.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -19942,7 +19942,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 23.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -19956,7 +19956,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 23.5:
         non_striker: Haris Sohail
         bowler: HMRKB Herath
@@ -19964,7 +19964,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 23.6:
         non_striker: Haris Sohail
         bowler: HMRKB Herath
@@ -19972,9 +19972,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 24.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -19982,7 +19982,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 24.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -19990,7 +19990,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 24.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -20004,7 +20004,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 24.5:
         non_striker: Haris Sohail
         bowler: MDK Perera
@@ -20012,7 +20012,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 24.6:
         non_striker: Haris Sohail
         bowler: MDK Perera
@@ -20020,7 +20020,7 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 25.1:
         non_striker: Haris Sohail
         bowler: N Pradeep
@@ -20028,7 +20028,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 25.2:
         non_striker: Haris Sohail
         bowler: N Pradeep
@@ -20036,7 +20036,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 25.3:
         non_striker: Haris Sohail
         bowler: N Pradeep
@@ -20044,7 +20044,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 25.4:
         non_striker: Haris Sohail
         bowler: N Pradeep
@@ -20052,7 +20052,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 25.5:
         non_striker: Haris Sohail
         bowler: N Pradeep
@@ -20060,7 +20060,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 25.6:
         non_striker: Haris Sohail
         bowler: N Pradeep
@@ -20068,9 +20068,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 26.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -20078,7 +20078,7 @@ innings:
           batsman: 4
         batsman: Haris Sohail
     - 26.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -20086,7 +20086,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 26.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -20100,7 +20100,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 26.5:
         non_striker: Haris Sohail
         bowler: MDK Perera
@@ -20108,7 +20108,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 26.6:
         non_striker: Haris Sohail
         bowler: MDK Perera
@@ -20116,9 +20116,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 27.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: N Pradeep
         runs:
           extras: 0
@@ -20126,7 +20126,7 @@ innings:
           batsman: 4
         batsman: Haris Sohail
     - 27.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: N Pradeep
         runs:
           extras: 0
@@ -20134,7 +20134,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 27.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: N Pradeep
         runs:
           extras: 0
@@ -20142,7 +20142,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 27.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: N Pradeep
         runs:
           extras: 0
@@ -20150,7 +20150,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 27.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: N Pradeep
         runs:
           extras: 0
@@ -20158,7 +20158,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 27.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: N Pradeep
         runs:
           extras: 0
@@ -20172,7 +20172,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 28.2:
         non_striker: Haris Sohail
         bowler: PADLR Sandakan
@@ -20180,7 +20180,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 28.3:
         non_striker: Haris Sohail
         bowler: PADLR Sandakan
@@ -20188,9 +20188,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 28.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: PADLR Sandakan
         runs:
           extras: 0
@@ -20198,7 +20198,7 @@ innings:
           batsman: 2
         batsman: Haris Sohail
     - 28.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: PADLR Sandakan
         runs:
           extras: 0
@@ -20206,7 +20206,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 28.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: PADLR Sandakan
         runs:
           extras: 0
@@ -20214,7 +20214,7 @@ innings:
           batsman: 1
         batsman: Haris Sohail
     - 29.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -20222,7 +20222,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 29.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -20236,9 +20236,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 29.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -20246,7 +20246,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 29.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -20254,7 +20254,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 29.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -20268,7 +20268,7 @@ innings:
           extras: 0
           total: 2
           batsman: 2
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 30.2:
         non_striker: Haris Sohail
         bowler: MDK Perera
@@ -20276,9 +20276,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 30.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -20286,7 +20286,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 30.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -20294,7 +20294,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 30.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -20302,7 +20302,7 @@ innings:
           batsman: 4
         batsman: Haris Sohail
     - 30.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -20316,7 +20316,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 31.2:
         non_striker: Haris Sohail
         bowler: HMRKB Herath
@@ -20324,9 +20324,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 31.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -20334,7 +20334,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 31.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -20342,7 +20342,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 31.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -20350,7 +20350,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 31.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -20364,7 +20364,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 32.2:
         non_striker: Haris Sohail
         bowler: MDK Perera
@@ -20372,9 +20372,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 32.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -20382,7 +20382,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 32.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -20390,7 +20390,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 32.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -20398,7 +20398,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 32.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -20412,7 +20412,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 33.2:
         non_striker: Haris Sohail
         bowler: HMRKB Herath
@@ -20420,9 +20420,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
         wicket:
-          player_out: Sarfraz Ahmed
+          player_out: Sarfaraz Ahmed
           fielders:
           - N Dickwella
           kind: stumped

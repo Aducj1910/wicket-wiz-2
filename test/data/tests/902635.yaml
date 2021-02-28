@@ -7017,7 +7017,7 @@ innings:
               kind: lbw
               player_out: Asad Shafiq
         - 144.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Wood
             non_striker: Shoaib Malik
             runs:
@@ -7025,7 +7025,7 @@ innings:
               extras: 0
               total: 0
         - 144.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Wood
             non_striker: Shoaib Malik
             runs:
@@ -7035,7 +7035,7 @@ innings:
         - 144.6:
             batsman: Shoaib Malik
             bowler: MA Wood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -7043,7 +7043,7 @@ innings:
         - 145.1:
             batsman: Shoaib Malik
             bowler: BA Stokes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7051,7 +7051,7 @@ innings:
         - 145.2:
             batsman: Shoaib Malik
             bowler: BA Stokes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -7059,7 +7059,7 @@ innings:
         - 145.3:
             batsman: Shoaib Malik
             bowler: BA Stokes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 6
               extras: 0
@@ -7067,13 +7067,13 @@ innings:
         - 145.4:
             batsman: Shoaib Malik
             bowler: BA Stokes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 145.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: BA Stokes
             non_striker: Shoaib Malik
             runs:
@@ -7081,7 +7081,7 @@ innings:
               extras: 0
               total: 0
         - 145.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: BA Stokes
             non_striker: Shoaib Malik
             runs:
@@ -7091,7 +7091,7 @@ innings:
         - 146.1:
             batsman: Shoaib Malik
             bowler: MA Wood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7099,7 +7099,7 @@ innings:
         - 146.2:
             batsman: Shoaib Malik
             bowler: MA Wood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7107,7 +7107,7 @@ innings:
         - 146.3:
             batsman: Shoaib Malik
             bowler: MA Wood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7115,7 +7115,7 @@ innings:
         - 146.4:
             batsman: Shoaib Malik
             bowler: MA Wood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7123,7 +7123,7 @@ innings:
         - 146.5:
             batsman: Shoaib Malik
             bowler: MA Wood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7131,13 +7131,13 @@ innings:
         - 146.6:
             batsman: Shoaib Malik
             bowler: MA Wood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 147.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: BA Stokes
             non_striker: Shoaib Malik
             runs:
@@ -7147,13 +7147,13 @@ innings:
         - 147.2:
             batsman: Shoaib Malik
             bowler: BA Stokes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 147.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: BA Stokes
             extras:
               legbyes: 1
@@ -7165,7 +7165,7 @@ innings:
         - 147.4:
             batsman: Shoaib Malik
             bowler: BA Stokes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7173,13 +7173,13 @@ innings:
         - 147.5:
             batsman: Shoaib Malik
             bowler: BA Stokes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 147.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: BA Stokes
             non_striker: Shoaib Malik
             runs:
@@ -7190,7 +7190,7 @@ innings:
               fielders:
                 - IR Bell
               kind: caught
-              player_out: Sarfraz Ahmed
+              player_out: Sarfaraz Ahmed
         - 148.1:
             batsman: Shoaib Malik
             bowler: MA Wood
@@ -9353,7 +9353,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: MM Ali
         - 40.3:
@@ -14824,7 +14824,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: JE Root
         - 152.3:
@@ -19769,7 +19769,7 @@ innings:
               kind: caught
               player_out: Asad Shafiq
         - 47.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AU Rashid
             non_striker: Misbah-ul-Haq
             runs:
@@ -19777,7 +19777,7 @@ innings:
               extras: 0
               total: 4
         - 47.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AU Rashid
             non_striker: Misbah-ul-Haq
             runs:
@@ -19785,7 +19785,7 @@ innings:
               extras: 0
               total: 0
         - 47.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AU Rashid
             non_striker: Misbah-ul-Haq
             runs:
@@ -19793,7 +19793,7 @@ innings:
               extras: 0
               total: 0
         - 47.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AU Rashid
             non_striker: Misbah-ul-Haq
             runs:
@@ -19803,7 +19803,7 @@ innings:
         - 48.1:
             batsman: Misbah-ul-Haq
             bowler: BA Stokes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -19811,7 +19811,7 @@ innings:
         - 48.2:
             batsman: Misbah-ul-Haq
             bowler: BA Stokes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -19819,7 +19819,7 @@ innings:
         - 48.3:
             batsman: Misbah-ul-Haq
             bowler: BA Stokes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -19827,13 +19827,13 @@ innings:
         - 48.4:
             batsman: Misbah-ul-Haq
             bowler: BA Stokes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 48.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: BA Stokes
             non_striker: Misbah-ul-Haq
             runs:
@@ -19843,13 +19843,13 @@ innings:
         - 48.6:
             batsman: Misbah-ul-Haq
             bowler: BA Stokes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 49.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AU Rashid
             non_striker: Misbah-ul-Haq
             runs:
@@ -19859,7 +19859,7 @@ innings:
         - 49.2:
             batsman: Misbah-ul-Haq
             bowler: AU Rashid
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -19867,7 +19867,7 @@ innings:
         - 49.3:
             batsman: Misbah-ul-Haq
             bowler: AU Rashid
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -19875,7 +19875,7 @@ innings:
         - 49.4:
             batsman: Misbah-ul-Haq
             bowler: AU Rashid
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -19883,7 +19883,7 @@ innings:
         - 49.5:
             batsman: Misbah-ul-Haq
             bowler: AU Rashid
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -19891,13 +19891,13 @@ innings:
         - 49.6:
             batsman: Misbah-ul-Haq
             bowler: AU Rashid
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 50.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: BA Stokes
             non_striker: Misbah-ul-Haq
             runs:
@@ -19905,7 +19905,7 @@ innings:
               extras: 0
               total: 0
         - 50.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: BA Stokes
             non_striker: Misbah-ul-Haq
             runs:
@@ -19913,7 +19913,7 @@ innings:
               extras: 0
               total: 0
         - 50.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: BA Stokes
             non_striker: Misbah-ul-Haq
             runs:
@@ -19921,7 +19921,7 @@ innings:
               extras: 0
               total: 0
         - 50.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: BA Stokes
             non_striker: Misbah-ul-Haq
             runs:
@@ -19929,7 +19929,7 @@ innings:
               extras: 0
               total: 0
         - 50.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: BA Stokes
             non_striker: Misbah-ul-Haq
             runs:
@@ -19937,7 +19937,7 @@ innings:
               extras: 0
               total: 0
         - 50.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: BA Stokes
             non_striker: Misbah-ul-Haq
             runs:
@@ -19949,13 +19949,13 @@ innings:
             bowler: AU Rashid
             extras:
               byes: 1
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 1
               total: 1
         - 51.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AU Rashid
             non_striker: Misbah-ul-Haq
             runs:
@@ -19963,7 +19963,7 @@ innings:
               extras: 0
               total: 0
         - 51.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AU Rashid
             non_striker: Misbah-ul-Haq
             runs:
@@ -19971,7 +19971,7 @@ innings:
               extras: 0
               total: 2
         - 51.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AU Rashid
             non_striker: Misbah-ul-Haq
             runs:
@@ -19979,7 +19979,7 @@ innings:
               extras: 0
               total: 0
         - 51.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AU Rashid
             non_striker: Misbah-ul-Haq
             runs:
@@ -19987,7 +19987,7 @@ innings:
               extras: 0
               total: 0
         - 51.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AU Rashid
             non_striker: Misbah-ul-Haq
             runs:
@@ -19997,13 +19997,13 @@ innings:
         - 52.1:
             batsman: Misbah-ul-Haq
             bowler: MM Ali
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 52.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MM Ali
             non_striker: Misbah-ul-Haq
             runs:
@@ -20011,7 +20011,7 @@ innings:
               extras: 0
               total: 0
         - 52.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MM Ali
             non_striker: Misbah-ul-Haq
             runs:
@@ -20019,7 +20019,7 @@ innings:
               extras: 0
               total: 0
         - 52.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MM Ali
             non_striker: Misbah-ul-Haq
             runs:
@@ -20029,7 +20029,7 @@ innings:
         - 52.5:
             batsman: Misbah-ul-Haq
             bowler: MM Ali
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -20040,13 +20040,13 @@ innings:
         - 52.6:
             batsman: Wahab Riaz
             bowler: MM Ali
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 53.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AU Rashid
             non_striker: Wahab Riaz
             runs:
@@ -20054,7 +20054,7 @@ innings:
               extras: 0
               total: 2
         - 53.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AU Rashid
             non_striker: Wahab Riaz
             runs:
@@ -20062,7 +20062,7 @@ innings:
               extras: 0
               total: 2
         - 53.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AU Rashid
             non_striker: Wahab Riaz
             runs:
@@ -20070,7 +20070,7 @@ innings:
               extras: 0
               total: 0
         - 53.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AU Rashid
             non_striker: Wahab Riaz
             runs:
@@ -20080,13 +20080,13 @@ innings:
         - 53.5:
             batsman: Wahab Riaz
             bowler: AU Rashid
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 53.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AU Rashid
             non_striker: Wahab Riaz
             runs:
@@ -20096,7 +20096,7 @@ innings:
         - 54.1:
             batsman: Wahab Riaz
             bowler: MM Ali
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -20104,7 +20104,7 @@ innings:
         - 54.2:
             batsman: Wahab Riaz
             bowler: MM Ali
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -20117,7 +20117,7 @@ innings:
         - 54.3:
             batsman: Zulfiqar Babar
             bowler: MM Ali
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -20125,7 +20125,7 @@ innings:
         - 54.4:
             batsman: Zulfiqar Babar
             bowler: MM Ali
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -20133,13 +20133,13 @@ innings:
         - 54.5:
             batsman: Zulfiqar Babar
             bowler: MM Ali
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 54.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MM Ali
             non_striker: Zulfiqar Babar
             runs:
@@ -20149,7 +20149,7 @@ innings:
         - 55.1:
             batsman: Zulfiqar Babar
             bowler: AU Rashid
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -20157,7 +20157,7 @@ innings:
         - 55.2:
             batsman: Zulfiqar Babar
             bowler: AU Rashid
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -20165,7 +20165,7 @@ innings:
         - 55.3:
             batsman: Zulfiqar Babar
             bowler: AU Rashid
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -20173,7 +20173,7 @@ innings:
         - 55.4:
             batsman: Zulfiqar Babar
             bowler: AU Rashid
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -20181,7 +20181,7 @@ innings:
         - 55.5:
             batsman: Zulfiqar Babar
             bowler: AU Rashid
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -20194,13 +20194,13 @@ innings:
         - 55.6:
             batsman: Rahat Ali
             bowler: AU Rashid
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 56.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MM Ali
             non_striker: Rahat Ali
             runs:
@@ -20208,7 +20208,7 @@ innings:
               extras: 0
               total: 0
         - 56.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MM Ali
             non_striker: Rahat Ali
             runs:
@@ -20216,7 +20216,7 @@ innings:
               extras: 0
               total: 0
         - 56.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MM Ali
             non_striker: Rahat Ali
             runs:
@@ -20224,7 +20224,7 @@ innings:
               extras: 0
               total: 0
         - 56.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MM Ali
             non_striker: Rahat Ali
             runs:
@@ -20232,7 +20232,7 @@ innings:
               extras: 0
               total: 0
         - 56.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MM Ali
             non_striker: Rahat Ali
             runs:
@@ -20240,7 +20240,7 @@ innings:
               extras: 0
               total: 0
         - 56.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MM Ali
             non_striker: Rahat Ali
             runs:
@@ -20248,7 +20248,7 @@ innings:
               extras: 0
               total: 1
         - 57.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AU Rashid
             non_striker: Rahat Ali
             runs:
@@ -20256,7 +20256,7 @@ innings:
               extras: 0
               total: 0
         - 57.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AU Rashid
             non_striker: Rahat Ali
             runs:
@@ -20264,7 +20264,7 @@ innings:
               extras: 0
               total: 4
         - 57.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AU Rashid
             non_striker: Rahat Ali
             runs:
@@ -20272,7 +20272,7 @@ innings:
               extras: 0
               total: 0
         - 57.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AU Rashid
             non_striker: Rahat Ali
             runs:
@@ -20283,7 +20283,7 @@ innings:
               fielders:
                 - JM Anderson
               kind: caught
-              player_out: Sarfraz Ahmed
+              player_out: Sarfaraz Ahmed
         - 57.5:
             batsman: Imran Khan (2)
             bowler: AU Rashid
@@ -20785,7 +20785,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: stumped
               player_out: JM Bairstow
         - 9.3:

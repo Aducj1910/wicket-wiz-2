@@ -39,10 +39,20 @@ class MyBot:
         playersElement = self.driver.find_elements_by_class_name('small')
 
         for i in playersElement:
+            isWK = False
+            isCaptain = False
             playerNameList = i.text.split(" ")
             for j in playerNameList:
-                if "(" in j or "†" in j:
+                if "(c)†" in j:
                     playerNameList.remove(j)
+                    isCaptain = True
+                    isWK = True
+                elif "(" in j:
+                    playerNameList.remove(j)
+                    isCaptain = True
+                elif "†" in j:
+                    playerNameList.remove(j)
+                    isWK = True
             name = ' '.join(playerNameList)
             if(name.endswith(" ")):
                 name = name[:-1]
@@ -57,7 +67,7 @@ class MyBot:
                         if(k['id'] == playerId):
                             inList = True
                     if not inList:
-                        playersList.append({'id': playerId, 'name': name, 'link': i.get_attribute('href')})
+                        playersList.append({'id': playerId, 'name': name, 'link': i.get_attribute('href'), 'isCaptain': isCaptain, 'isWK': isWK})
 
         for i in playersList:
             inList = accessDB.checkPlayer(i)

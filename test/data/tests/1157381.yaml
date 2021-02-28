@@ -535,7 +535,7 @@ innings:
         wicket:
           player_out: JA Raval
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 10.3:
         non_striker: TWM Latham
@@ -1049,7 +1049,7 @@ innings:
         wicket:
           player_out: LRPL Taylor
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 20.6:
         non_striker: KS Williamson
@@ -2174,7 +2174,7 @@ innings:
         wicket:
           player_out: HM Nicholls
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 44.2:
         non_striker: KS Williamson
@@ -2419,7 +2419,7 @@ innings:
         wicket:
           player_out: KS Williamson
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 49.2:
         non_striker: BJ Watling
@@ -6385,7 +6385,7 @@ innings:
           extras: 0
           total: 2
           batsman: 2
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 63.6:
         non_striker: Babar Azam
         bowler: TA Boult
@@ -6393,9 +6393,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 64.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: AY Patel
         runs:
           extras: 0
@@ -6409,7 +6409,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 64.3:
         non_striker: Babar Azam
         bowler: AY Patel
@@ -6417,9 +6417,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
         wicket:
-          player_out: Sarfraz Ahmed
+          player_out: Sarfaraz Ahmed
           fielders:
           - N Wagner
           kind: caught
@@ -9230,7 +9230,7 @@ innings:
         wicket:
           player_out: JA Raval
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 38.6:
         non_striker: HM Nicholls
@@ -11697,7 +11697,7 @@ innings:
         wicket:
           player_out: HM Nicholls
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 89.5:
         non_striker: BJ Watling
@@ -14317,7 +14317,7 @@ innings:
           player_out: Babar Azam
           kind: run out
     - 42.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: AY Patel
         runs:
           extras: 0
@@ -14325,7 +14325,7 @@ innings:
           batsman: 0
         batsman: Azhar Ali
     - 42.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: AY Patel
         runs:
           extras: 0
@@ -14333,7 +14333,7 @@ innings:
           batsman: 1
         batsman: Azhar Ali
     - 43.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: N Wagner
         runs:
           extras: 0
@@ -14347,9 +14347,9 @@ innings:
           extras: 0
           total: 3
           batsman: 3
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 43.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: N Wagner
         runs:
           extras: 0
@@ -14357,7 +14357,7 @@ innings:
           batsman: 0
         batsman: Azhar Ali
     - 43.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: N Wagner
         runs:
           extras: 0
@@ -14371,7 +14371,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 43.6:
         non_striker: Azhar Ali
         bowler: N Wagner
@@ -14379,9 +14379,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 44.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: AY Patel
         runs:
           extras: 0
@@ -14389,7 +14389,7 @@ innings:
           batsman: 0
         batsman: Azhar Ali
     - 44.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: AY Patel
         runs:
           extras: 0
@@ -14403,7 +14403,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 44.4:
         non_striker: Azhar Ali
         bowler: AY Patel
@@ -14411,7 +14411,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 44.5:
         non_striker: Azhar Ali
         bowler: AY Patel
@@ -14419,7 +14419,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 44.6:
         non_striker: Azhar Ali
         bowler: AY Patel
@@ -14427,9 +14427,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
         wicket:
-          player_out: Sarfraz Ahmed
+          player_out: Sarfaraz Ahmed
           fielders:
           - BJ Watling
           kind: caught

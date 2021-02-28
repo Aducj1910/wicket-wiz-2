@@ -4306,7 +4306,7 @@ innings:
             bowler: MA Starc
             extras:
               wides: 5
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 5
@@ -4314,7 +4314,7 @@ innings:
         - 88.2:
             batsman: Azhar Ali
             bowler: MA Starc
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -4322,7 +4322,7 @@ innings:
         - 88.3:
             batsman: Azhar Ali
             bowler: MA Starc
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -4330,7 +4330,7 @@ innings:
         - 88.4:
             batsman: Azhar Ali
             bowler: MA Starc
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -4338,7 +4338,7 @@ innings:
         - 88.5:
             batsman: Azhar Ali
             bowler: MA Starc
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -4346,7 +4346,7 @@ innings:
         - 88.6:
             batsman: Azhar Ali
             bowler: MA Starc
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -4354,13 +4354,13 @@ innings:
         - 88.7:
             batsman: Azhar Ali
             bowler: MA Starc
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 89.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Azhar Ali
             runs:
@@ -4368,7 +4368,7 @@ innings:
               extras: 0
               total: 0
         - 89.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             extras:
               legbyes: 1
@@ -4380,7 +4380,7 @@ innings:
         - 89.3:
             batsman: Azhar Ali
             bowler: JM Bird
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -4388,13 +4388,13 @@ innings:
         - 89.4:
             batsman: Azhar Ali
             bowler: JM Bird
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 89.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Azhar Ali
             runs:
@@ -4402,7 +4402,7 @@ innings:
               extras: 0
               total: 2
         - 89.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Azhar Ali
             runs:
@@ -4410,7 +4410,7 @@ innings:
               extras: 0
               total: 1
         - 90.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Azhar Ali
             runs:
@@ -4418,7 +4418,7 @@ innings:
               extras: 0
               total: 0
         - 90.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Azhar Ali
             runs:
@@ -4428,7 +4428,7 @@ innings:
         - 90.3:
             batsman: Azhar Ali
             bowler: MA Starc
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -4436,7 +4436,7 @@ innings:
         - 90.4:
             batsman: Azhar Ali
             bowler: MA Starc
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -4444,7 +4444,7 @@ innings:
         - 90.5:
             batsman: Azhar Ali
             bowler: MA Starc
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -4452,13 +4452,13 @@ innings:
         - 90.6:
             batsman: Azhar Ali
             bowler: MA Starc
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 91.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Azhar Ali
             runs:
@@ -4466,7 +4466,7 @@ innings:
               extras: 0
               total: 0
         - 91.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Azhar Ali
             runs:
@@ -4474,7 +4474,7 @@ innings:
               extras: 0
               total: 0
         - 91.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Azhar Ali
             runs:
@@ -4482,7 +4482,7 @@ innings:
               extras: 0
               total: 0
         - 91.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Azhar Ali
             runs:
@@ -4490,7 +4490,7 @@ innings:
               extras: 0
               total: 0
         - 91.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Azhar Ali
             runs:
@@ -4498,7 +4498,7 @@ innings:
               extras: 0
               total: 4
         - 91.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Azhar Ali
             runs:
@@ -4508,7 +4508,7 @@ innings:
         - 92.1:
             batsman: Azhar Ali
             bowler: JR Hazlewood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -4516,7 +4516,7 @@ innings:
         - 92.2:
             batsman: Azhar Ali
             bowler: JR Hazlewood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -4524,7 +4524,7 @@ innings:
         - 92.3:
             batsman: Azhar Ali
             bowler: JR Hazlewood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -4532,7 +4532,7 @@ innings:
         - 92.4:
             batsman: Azhar Ali
             bowler: JR Hazlewood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -4540,7 +4540,7 @@ innings:
         - 92.5:
             batsman: Azhar Ali
             bowler: JR Hazlewood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -4548,13 +4548,13 @@ innings:
         - 92.6:
             batsman: Azhar Ali
             bowler: JR Hazlewood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 93.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Azhar Ali
             runs:
@@ -4564,7 +4564,7 @@ innings:
         - 93.2:
             batsman: Azhar Ali
             bowler: JM Bird
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -4572,13 +4572,13 @@ innings:
         - 93.3:
             batsman: Azhar Ali
             bowler: JM Bird
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 93.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Azhar Ali
             runs:
@@ -4586,7 +4586,7 @@ innings:
               extras: 0
               total: 0
         - 93.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Azhar Ali
             runs:
@@ -4596,13 +4596,13 @@ innings:
         - 93.6:
             batsman: Azhar Ali
             bowler: JM Bird
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 94.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JR Hazlewood
             non_striker: Azhar Ali
             runs:
@@ -4610,7 +4610,7 @@ innings:
               extras: 0
               total: 0
         - 94.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JR Hazlewood
             non_striker: Azhar Ali
             runs:
@@ -4618,7 +4618,7 @@ innings:
               extras: 0
               total: 0
         - 94.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JR Hazlewood
             non_striker: Azhar Ali
             runs:
@@ -4626,7 +4626,7 @@ innings:
               extras: 0
               total: 0
         - 94.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JR Hazlewood
             non_striker: Azhar Ali
             runs:
@@ -4634,7 +4634,7 @@ innings:
               extras: 0
               total: 0
         - 94.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JR Hazlewood
             non_striker: Azhar Ali
             runs:
@@ -4645,7 +4645,7 @@ innings:
               fielders:
                 - MT Renshaw
               kind: caught
-              player_out: Sarfraz Ahmed
+              player_out: Sarfaraz Ahmed
         - 94.6:
             batsman: Mohammad Amir
             bowler: JR Hazlewood
@@ -8634,7 +8634,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: DA Warner
         - 48.6:
@@ -9289,7 +9289,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: UT Khawaja
         - 62.2:
@@ -14674,7 +14674,7 @@ innings:
               kind: caught
               player_out: Asad Shafiq
         - 29.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Azhar Ali
             runs:
@@ -14682,7 +14682,7 @@ innings:
               extras: 0
               total: 1
         - 30.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JR Hazlewood
             non_striker: Azhar Ali
             runs:
@@ -14690,7 +14690,7 @@ innings:
               extras: 0
               total: 0
         - 30.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JR Hazlewood
             non_striker: Azhar Ali
             runs:
@@ -14698,7 +14698,7 @@ innings:
               extras: 0
               total: 0
         - 30.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JR Hazlewood
             non_striker: Azhar Ali
             runs:
@@ -14706,7 +14706,7 @@ innings:
               extras: 0
               total: 0
         - 30.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JR Hazlewood
             extras:
               legbyes: 1
@@ -14718,7 +14718,7 @@ innings:
         - 30.5:
             batsman: Azhar Ali
             bowler: JR Hazlewood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14726,13 +14726,13 @@ innings:
         - 30.6:
             batsman: Azhar Ali
             bowler: JR Hazlewood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 31.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Azhar Ali
             runs:
@@ -14740,7 +14740,7 @@ innings:
               extras: 0
               total: 0
         - 31.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Azhar Ali
             runs:
@@ -14748,7 +14748,7 @@ innings:
               extras: 0
               total: 0
         - 31.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Azhar Ali
             runs:
@@ -14756,7 +14756,7 @@ innings:
               extras: 0
               total: 0
         - 31.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Azhar Ali
             runs:
@@ -14764,7 +14764,7 @@ innings:
               extras: 0
               total: 0
         - 31.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Azhar Ali
             runs:
@@ -14772,7 +14772,7 @@ innings:
               extras: 0
               total: 0
         - 31.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Azhar Ali
             runs:
@@ -14782,7 +14782,7 @@ innings:
         - 32.1:
             batsman: Azhar Ali
             bowler: JR Hazlewood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14790,7 +14790,7 @@ innings:
         - 32.2:
             batsman: Azhar Ali
             bowler: JR Hazlewood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -14798,7 +14798,7 @@ innings:
         - 32.3:
             batsman: Azhar Ali
             bowler: JR Hazlewood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14806,13 +14806,13 @@ innings:
         - 32.4:
             batsman: Azhar Ali
             bowler: JR Hazlewood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 32.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JR Hazlewood
             non_striker: Azhar Ali
             runs:
@@ -14820,7 +14820,7 @@ innings:
               extras: 0
               total: 0
         - 32.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JR Hazlewood
             non_striker: Azhar Ali
             runs:
@@ -14830,7 +14830,7 @@ innings:
         - 33.1:
             batsman: Azhar Ali
             bowler: MA Starc
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14838,7 +14838,7 @@ innings:
         - 33.2:
             batsman: Azhar Ali
             bowler: MA Starc
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14846,7 +14846,7 @@ innings:
         - 33.3:
             batsman: Azhar Ali
             bowler: MA Starc
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14854,7 +14854,7 @@ innings:
         - 33.4:
             batsman: Azhar Ali
             bowler: MA Starc
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14862,7 +14862,7 @@ innings:
         - 33.5:
             batsman: Azhar Ali
             bowler: MA Starc
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -14870,13 +14870,13 @@ innings:
         - 33.6:
             batsman: Azhar Ali
             bowler: MA Starc
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 34.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JR Hazlewood
             non_striker: Azhar Ali
             runs:
@@ -14886,7 +14886,7 @@ innings:
         - 34.2:
             batsman: Azhar Ali
             bowler: JR Hazlewood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14894,7 +14894,7 @@ innings:
         - 34.3:
             batsman: Azhar Ali
             bowler: JR Hazlewood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -14902,7 +14902,7 @@ innings:
         - 34.4:
             batsman: Azhar Ali
             bowler: JR Hazlewood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14913,7 +14913,7 @@ innings:
         - 34.5:
             batsman: Mohammad Amir
             bowler: JR Hazlewood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14921,13 +14921,13 @@ innings:
         - 34.6:
             batsman: Mohammad Amir
             bowler: JR Hazlewood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
               total: 2
         - 35.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Mohammad Amir
             runs:
@@ -14935,7 +14935,7 @@ innings:
               extras: 0
               total: 0
         - 35.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Mohammad Amir
             runs:
@@ -14943,7 +14943,7 @@ innings:
               extras: 0
               total: 0
         - 35.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Mohammad Amir
             runs:
@@ -14951,7 +14951,7 @@ innings:
               extras: 0
               total: 2
         - 35.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Mohammad Amir
             runs:
@@ -14961,7 +14961,7 @@ innings:
         - 35.5:
             batsman: Mohammad Amir
             bowler: MA Starc
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -14969,13 +14969,13 @@ innings:
         - 35.6:
             batsman: Mohammad Amir
             bowler: MA Starc
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 36.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JR Hazlewood
             non_striker: Mohammad Amir
             runs:
@@ -14983,7 +14983,7 @@ innings:
               extras: 0
               total: 0
         - 36.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JR Hazlewood
             non_striker: Mohammad Amir
             runs:
@@ -14991,7 +14991,7 @@ innings:
               extras: 0
               total: 0
         - 36.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JR Hazlewood
             non_striker: Mohammad Amir
             runs:
@@ -15001,7 +15001,7 @@ innings:
         - 36.4:
             batsman: Mohammad Amir
             bowler: JR Hazlewood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15009,7 +15009,7 @@ innings:
         - 36.5:
             batsman: Mohammad Amir
             bowler: JR Hazlewood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15017,13 +15017,13 @@ innings:
         - 36.6:
             batsman: Mohammad Amir
             bowler: JR Hazlewood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 37.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Mohammad Amir
             runs:
@@ -15031,7 +15031,7 @@ innings:
               extras: 0
               total: 0
         - 37.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Mohammad Amir
             runs:
@@ -15039,7 +15039,7 @@ innings:
               extras: 0
               total: 0
         - 37.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Mohammad Amir
             runs:
@@ -15047,7 +15047,7 @@ innings:
               extras: 0
               total: 0
         - 37.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Mohammad Amir
             runs:
@@ -15057,7 +15057,7 @@ innings:
         - 37.5:
             batsman: Mohammad Amir
             bowler: MA Starc
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15065,13 +15065,13 @@ innings:
         - 37.6:
             batsman: Mohammad Amir
             bowler: MA Starc
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 38.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JR Hazlewood
             non_striker: Mohammad Amir
             runs:
@@ -15079,7 +15079,7 @@ innings:
               extras: 0
               total: 0
         - 38.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JR Hazlewood
             non_striker: Mohammad Amir
             runs:
@@ -15087,7 +15087,7 @@ innings:
               extras: 0
               total: 0
         - 38.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JR Hazlewood
             non_striker: Mohammad Amir
             runs:
@@ -15097,7 +15097,7 @@ innings:
         - 38.4:
             batsman: Mohammad Amir
             bowler: JR Hazlewood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15105,7 +15105,7 @@ innings:
         - 38.5:
             batsman: Mohammad Amir
             bowler: JR Hazlewood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15113,13 +15113,13 @@ innings:
         - 38.6:
             batsman: Mohammad Amir
             bowler: JR Hazlewood
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 39.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Mohammad Amir
             runs:
@@ -15127,7 +15127,7 @@ innings:
               extras: 0
               total: 0
         - 39.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Mohammad Amir
             runs:
@@ -15135,7 +15135,7 @@ innings:
               extras: 0
               total: 0
         - 39.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Mohammad Amir
             runs:
@@ -15143,7 +15143,7 @@ innings:
               extras: 0
               total: 0
         - 39.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Mohammad Amir
             runs:
@@ -15151,7 +15151,7 @@ innings:
               extras: 0
               total: 0
         - 39.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Mohammad Amir
             runs:
@@ -15161,13 +15161,13 @@ innings:
         - 39.6:
             batsman: Mohammad Amir
             bowler: MA Starc
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 40.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Mohammad Amir
             runs:
@@ -15177,7 +15177,7 @@ innings:
         - 40.2:
             batsman: Mohammad Amir
             bowler: JM Bird
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15185,7 +15185,7 @@ innings:
         - 40.3:
             batsman: Mohammad Amir
             bowler: JM Bird
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15193,7 +15193,7 @@ innings:
         - 40.4:
             batsman: Mohammad Amir
             bowler: JM Bird
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -15201,7 +15201,7 @@ innings:
         - 40.5:
             batsman: Mohammad Amir
             bowler: JM Bird
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15209,13 +15209,13 @@ innings:
         - 40.6:
             batsman: Mohammad Amir
             bowler: JM Bird
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 41.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Mohammad Amir
             runs:
@@ -15223,7 +15223,7 @@ innings:
               extras: 0
               total: 4
         - 41.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Mohammad Amir
             runs:
@@ -15231,7 +15231,7 @@ innings:
               extras: 0
               total: 0
         - 41.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Mohammad Amir
             runs:
@@ -15239,7 +15239,7 @@ innings:
               extras: 0
               total: 4
         - 41.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Mohammad Amir
             runs:
@@ -15247,7 +15247,7 @@ innings:
               extras: 0
               total: 0
         - 41.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Mohammad Amir
             runs:
@@ -15257,13 +15257,13 @@ innings:
         - 41.6:
             batsman: Mohammad Amir
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 42.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Mohammad Amir
             runs:
@@ -15271,7 +15271,7 @@ innings:
               extras: 0
               total: 0
         - 42.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Mohammad Amir
             runs:
@@ -15279,7 +15279,7 @@ innings:
               extras: 0
               total: 4
         - 42.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Mohammad Amir
             runs:
@@ -15287,7 +15287,7 @@ innings:
               extras: 0
               total: 0
         - 42.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Mohammad Amir
             runs:
@@ -15295,7 +15295,7 @@ innings:
               extras: 0
               total: 0
         - 42.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Mohammad Amir
             runs:
@@ -15303,7 +15303,7 @@ innings:
               extras: 0
               total: 2
         - 42.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Mohammad Amir
             runs:
@@ -15313,7 +15313,7 @@ innings:
         - 43.1:
             batsman: Mohammad Amir
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15321,7 +15321,7 @@ innings:
         - 43.2:
             batsman: Mohammad Amir
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15329,7 +15329,7 @@ innings:
         - 43.3:
             batsman: Mohammad Amir
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15337,7 +15337,7 @@ innings:
         - 43.4:
             batsman: Mohammad Amir
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15345,7 +15345,7 @@ innings:
         - 43.5:
             batsman: Mohammad Amir
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -15353,13 +15353,13 @@ innings:
         - 43.6:
             batsman: Mohammad Amir
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 44.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Mohammad Amir
             runs:
@@ -15367,7 +15367,7 @@ innings:
               extras: 0
               total: 0
         - 44.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Mohammad Amir
             runs:
@@ -15377,7 +15377,7 @@ innings:
         - 44.3:
             batsman: Mohammad Amir
             bowler: JM Bird
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15385,7 +15385,7 @@ innings:
         - 44.4:
             batsman: Mohammad Amir
             bowler: JM Bird
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -15393,7 +15393,7 @@ innings:
         - 44.5:
             batsman: Mohammad Amir
             bowler: JM Bird
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15401,7 +15401,7 @@ innings:
         - 44.6:
             batsman: Mohammad Amir
             bowler: JM Bird
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -15409,7 +15409,7 @@ innings:
         - 45.1:
             batsman: Mohammad Amir
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15417,7 +15417,7 @@ innings:
         - 45.2:
             batsman: Mohammad Amir
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15425,7 +15425,7 @@ innings:
         - 45.3:
             batsman: Mohammad Amir
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15433,7 +15433,7 @@ innings:
         - 45.4:
             batsman: Mohammad Amir
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15441,7 +15441,7 @@ innings:
         - 45.5:
             batsman: Mohammad Amir
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15449,13 +15449,13 @@ innings:
         - 45.6:
             batsman: Mohammad Amir
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 46.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Mohammad Amir
             runs:
@@ -15465,7 +15465,7 @@ innings:
         - 46.2:
             batsman: Mohammad Amir
             bowler: JM Bird
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15473,7 +15473,7 @@ innings:
         - 46.3:
             batsman: Mohammad Amir
             bowler: JM Bird
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15481,7 +15481,7 @@ innings:
         - 46.4:
             batsman: Mohammad Amir
             bowler: JM Bird
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15489,7 +15489,7 @@ innings:
         - 46.5:
             batsman: Mohammad Amir
             bowler: JM Bird
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15500,13 +15500,13 @@ innings:
         - 46.6:
             batsman: Sohail Khan
             bowler: JM Bird
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 47.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Sohail Khan
             runs:
@@ -15514,7 +15514,7 @@ innings:
               extras: 0
               total: 0
         - 47.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Sohail Khan
             runs:
@@ -15522,7 +15522,7 @@ innings:
               extras: 0
               total: 0
         - 47.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Sohail Khan
             runs:
@@ -15530,7 +15530,7 @@ innings:
               extras: 0
               total: 0
         - 47.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: NM Lyon
             non_striker: Sohail Khan
             runs:
@@ -15540,7 +15540,7 @@ innings:
         - 47.5:
             batsman: Sohail Khan
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15548,13 +15548,13 @@ innings:
         - 47.6:
             batsman: Sohail Khan
             bowler: NM Lyon
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 48.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Sohail Khan
             runs:
@@ -15562,7 +15562,7 @@ innings:
               extras: 0
               total: 0
         - 48.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Sohail Khan
             runs:
@@ -15570,7 +15570,7 @@ innings:
               extras: 0
               total: 2
         - 48.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Sohail Khan
             runs:
@@ -15578,7 +15578,7 @@ innings:
               extras: 0
               total: 2
         - 48.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Bird
             non_striker: Sohail Khan
             runs:
@@ -15588,7 +15588,7 @@ innings:
         - 48.5:
             batsman: Sohail Khan
             bowler: JM Bird
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -15596,13 +15596,13 @@ innings:
         - 48.6:
             batsman: Sohail Khan
             bowler: JM Bird
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 49.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Sohail Khan
             runs:
@@ -15610,7 +15610,7 @@ innings:
               extras: 0
               total: 0
         - 49.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Sohail Khan
             runs:
@@ -15618,7 +15618,7 @@ innings:
               extras: 0
               total: 4
         - 49.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Sohail Khan
             runs:
@@ -15626,7 +15626,7 @@ innings:
               extras: 0
               total: 0
         - 49.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Sohail Khan
             runs:
@@ -15634,7 +15634,7 @@ innings:
               extras: 0
               total: 0
         - 49.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Sohail Khan
             runs:
@@ -15642,7 +15642,7 @@ innings:
               extras: 0
               total: 0
         - 49.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: MA Starc
             non_striker: Sohail Khan
             runs:
@@ -15651,7 +15651,7 @@ innings:
               total: 0
             wicket:
               kind: bowled
-              player_out: Sarfraz Ahmed
+              player_out: Sarfaraz Ahmed
         - 50.1:
             batsman: Sohail Khan
             bowler: JR Hazlewood

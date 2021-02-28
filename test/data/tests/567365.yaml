@@ -1468,7 +1468,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: F du Plessis
         - 28.4:
@@ -2377,7 +2377,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: HM Amla
         - 46.5:
@@ -6712,7 +6712,7 @@ innings:
               kind: lbw
               player_out: Asad Shafiq
         - 29.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             non_striker: Younis Khan
             runs:
@@ -6720,7 +6720,7 @@ innings:
               extras: 0
               total: 0
         - 29.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             non_striker: Younis Khan
             runs:
@@ -6730,7 +6730,7 @@ innings:
         - 30.1:
             batsman: Younis Khan
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6738,7 +6738,7 @@ innings:
         - 30.2:
             batsman: Younis Khan
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6746,7 +6746,7 @@ innings:
         - 30.3:
             batsman: Younis Khan
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6754,7 +6754,7 @@ innings:
         - 30.4:
             batsman: Younis Khan
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6762,7 +6762,7 @@ innings:
         - 30.5:
             batsman: Younis Khan
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6772,7 +6772,7 @@ innings:
             bowler: VD Philander
             extras:
               wides: 1
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 1
@@ -6780,13 +6780,13 @@ innings:
         - 30.7:
             batsman: Younis Khan
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 31.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             non_striker: Younis Khan
             runs:
@@ -6796,7 +6796,7 @@ innings:
         - 31.2:
             batsman: Younis Khan
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6804,7 +6804,7 @@ innings:
         - 31.3:
             batsman: Younis Khan
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6814,7 +6814,7 @@ innings:
             bowler: DW Steyn
             extras:
               wides: 1
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 1
@@ -6822,7 +6822,7 @@ innings:
         - 31.5:
             batsman: Younis Khan
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -6830,7 +6830,7 @@ innings:
         - 31.6:
             batsman: Younis Khan
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6838,13 +6838,13 @@ innings:
         - 31.7:
             batsman: Younis Khan
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 32.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: VD Philander
             non_striker: Younis Khan
             runs:
@@ -6852,7 +6852,7 @@ innings:
               extras: 0
               total: 4
         - 32.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: VD Philander
             non_striker: Younis Khan
             runs:
@@ -6860,7 +6860,7 @@ innings:
               extras: 0
               total: 0
         - 32.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: VD Philander
             non_striker: Younis Khan
             runs:
@@ -6868,7 +6868,7 @@ innings:
               extras: 0
               total: 0
         - 32.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: VD Philander
             non_striker: Younis Khan
             runs:
@@ -6876,7 +6876,7 @@ innings:
               extras: 0
               total: 0
         - 32.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: VD Philander
             non_striker: Younis Khan
             runs:
@@ -6884,7 +6884,7 @@ innings:
               extras: 0
               total: 0
         - 32.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: VD Philander
             non_striker: Younis Khan
             runs:
@@ -6894,7 +6894,7 @@ innings:
         - 33.1:
             batsman: Younis Khan
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6902,7 +6902,7 @@ innings:
         - 33.2:
             batsman: Younis Khan
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6910,7 +6910,7 @@ innings:
         - 33.3:
             batsman: Younis Khan
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6918,7 +6918,7 @@ innings:
         - 33.4:
             batsman: Younis Khan
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6926,7 +6926,7 @@ innings:
         - 33.5:
             batsman: Younis Khan
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6934,13 +6934,13 @@ innings:
         - 33.6:
             batsman: Younis Khan
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 34.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: VD Philander
             non_striker: Younis Khan
             runs:
@@ -6948,7 +6948,7 @@ innings:
               extras: 0
               total: 4
         - 34.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: VD Philander
             non_striker: Younis Khan
             runs:
@@ -6956,7 +6956,7 @@ innings:
               extras: 0
               total: 0
         - 34.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: VD Philander
             extras:
               legbyes: 1
@@ -6968,7 +6968,7 @@ innings:
         - 34.4:
             batsman: Younis Khan
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6976,7 +6976,7 @@ innings:
         - 34.5:
             batsman: Younis Khan
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6984,13 +6984,13 @@ innings:
         - 34.6:
             batsman: Younis Khan
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 35.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             non_striker: Younis Khan
             runs:
@@ -6998,7 +6998,7 @@ innings:
               extras: 0
               total: 0
         - 35.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             non_striker: Younis Khan
             runs:
@@ -7006,7 +7006,7 @@ innings:
               extras: 0
               total: 0
         - 35.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             extras:
               legbyes: 4
@@ -7016,7 +7016,7 @@ innings:
               extras: 4
               total: 4
         - 35.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             non_striker: Younis Khan
             runs:
@@ -7024,7 +7024,7 @@ innings:
               extras: 0
               total: 0
         - 35.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             non_striker: Younis Khan
             runs:
@@ -7032,7 +7032,7 @@ innings:
               extras: 0
               total: 0
         - 35.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             non_striker: Younis Khan
             runs:
@@ -7042,7 +7042,7 @@ innings:
         - 36.1:
             batsman: Younis Khan
             bowler: KJ Abbott
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7052,7 +7052,7 @@ innings:
             bowler: KJ Abbott
             extras:
               legbyes: 2
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 2
@@ -7060,7 +7060,7 @@ innings:
         - 36.3:
             batsman: Younis Khan
             bowler: KJ Abbott
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7068,7 +7068,7 @@ innings:
         - 36.4:
             batsman: Younis Khan
             bowler: KJ Abbott
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7076,7 +7076,7 @@ innings:
         - 36.5:
             batsman: Younis Khan
             bowler: KJ Abbott
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -7084,13 +7084,13 @@ innings:
         - 36.6:
             batsman: Younis Khan
             bowler: KJ Abbott
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 37.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             non_striker: Younis Khan
             runs:
@@ -7098,7 +7098,7 @@ innings:
               extras: 0
               total: 0
         - 37.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             non_striker: Younis Khan
             runs:
@@ -7108,7 +7108,7 @@ innings:
         - 37.3:
             batsman: Younis Khan
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7116,13 +7116,13 @@ innings:
         - 37.4:
             batsman: Younis Khan
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 37.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             non_striker: Younis Khan
             runs:
@@ -7132,13 +7132,13 @@ innings:
         - 37.6:
             batsman: Younis Khan
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
               total: 4
         - 38.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KJ Abbott
             non_striker: Younis Khan
             runs:
@@ -7146,7 +7146,7 @@ innings:
               extras: 0
               total: 4
         - 38.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KJ Abbott
             non_striker: Younis Khan
             runs:
@@ -7154,7 +7154,7 @@ innings:
               extras: 0
               total: 0
         - 38.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KJ Abbott
             non_striker: Younis Khan
             runs:
@@ -7162,7 +7162,7 @@ innings:
               extras: 0
               total: 0
         - 38.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KJ Abbott
             non_striker: Younis Khan
             runs:
@@ -7170,7 +7170,7 @@ innings:
               extras: 0
               total: 0
         - 38.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KJ Abbott
             non_striker: Younis Khan
             runs:
@@ -7178,7 +7178,7 @@ innings:
               extras: 0
               total: 0
         - 38.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KJ Abbott
             non_striker: Younis Khan
             runs:
@@ -7188,7 +7188,7 @@ innings:
         - 39.1:
             batsman: Younis Khan
             bowler: RK Kleinveldt
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7196,7 +7196,7 @@ innings:
         - 39.2:
             batsman: Younis Khan
             bowler: RK Kleinveldt
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7204,7 +7204,7 @@ innings:
         - 39.3:
             batsman: Younis Khan
             bowler: RK Kleinveldt
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7212,7 +7212,7 @@ innings:
         - 39.4:
             batsman: Younis Khan
             bowler: RK Kleinveldt
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7220,7 +7220,7 @@ innings:
         - 39.5:
             batsman: Younis Khan
             bowler: RK Kleinveldt
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7228,13 +7228,13 @@ innings:
         - 39.6:
             batsman: Younis Khan
             bowler: RK Kleinveldt
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 40.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KJ Abbott
             non_striker: Younis Khan
             runs:
@@ -7245,7 +7245,7 @@ innings:
               fielders:
                 - GC Smith
               kind: caught
-              player_out: Sarfraz Ahmed
+              player_out: Sarfaraz Ahmed
         - 40.2:
             batsman: Saeed Ajmal
             bowler: KJ Abbott
@@ -9922,7 +9922,7 @@ innings:
         - 47.1:
             batsman: Asad Shafiq
             bowler: KJ Abbott
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -9930,7 +9930,7 @@ innings:
         - 47.2:
             batsman: Asad Shafiq
             bowler: KJ Abbott
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9938,7 +9938,7 @@ innings:
         - 47.3:
             batsman: Asad Shafiq
             bowler: KJ Abbott
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9946,7 +9946,7 @@ innings:
         - 47.4:
             batsman: Asad Shafiq
             bowler: KJ Abbott
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -9954,7 +9954,7 @@ innings:
         - 47.5:
             batsman: Asad Shafiq
             bowler: KJ Abbott
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9962,13 +9962,13 @@ innings:
         - 47.6:
             batsman: Asad Shafiq
             bowler: KJ Abbott
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 48.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RK Kleinveldt
             non_striker: Asad Shafiq
             runs:
@@ -9978,7 +9978,7 @@ innings:
         - 48.2:
             batsman: Asad Shafiq
             bowler: RK Kleinveldt
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9986,7 +9986,7 @@ innings:
         - 48.3:
             batsman: Asad Shafiq
             bowler: RK Kleinveldt
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9994,7 +9994,7 @@ innings:
         - 48.4:
             batsman: Asad Shafiq
             bowler: RK Kleinveldt
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10002,7 +10002,7 @@ innings:
         - 48.5:
             batsman: Asad Shafiq
             bowler: RK Kleinveldt
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10010,7 +10010,7 @@ innings:
         - 48.6:
             batsman: Asad Shafiq
             bowler: RK Kleinveldt
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10021,7 +10021,7 @@ innings:
               kind: caught
               player_out: Asad Shafiq
         - 49.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KJ Abbott
             non_striker: Saeed Ajmal
             runs:
@@ -10029,7 +10029,7 @@ innings:
               extras: 0
               total: 0
         - 49.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KJ Abbott
             non_striker: Saeed Ajmal
             runs:
@@ -10037,7 +10037,7 @@ innings:
               extras: 0
               total: 0
         - 49.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KJ Abbott
             non_striker: Saeed Ajmal
             runs:
@@ -10045,7 +10045,7 @@ innings:
               extras: 0
               total: 0
         - 49.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KJ Abbott
             non_striker: Saeed Ajmal
             runs:
@@ -10053,7 +10053,7 @@ innings:
               extras: 0
               total: 0
         - 49.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KJ Abbott
             non_striker: Saeed Ajmal
             runs:
@@ -10061,7 +10061,7 @@ innings:
               extras: 0
               total: 0
         - 49.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KJ Abbott
             non_striker: Saeed Ajmal
             runs:
@@ -10071,7 +10071,7 @@ innings:
         - 50.1:
             batsman: Saeed Ajmal
             bowler: RK Kleinveldt
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10079,7 +10079,7 @@ innings:
         - 50.2:
             batsman: Saeed Ajmal
             bowler: RK Kleinveldt
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10087,7 +10087,7 @@ innings:
         - 50.3:
             batsman: Saeed Ajmal
             bowler: RK Kleinveldt
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10095,7 +10095,7 @@ innings:
         - 50.4:
             batsman: Saeed Ajmal
             bowler: RK Kleinveldt
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -10103,7 +10103,7 @@ innings:
         - 50.5:
             batsman: Saeed Ajmal
             bowler: RK Kleinveldt
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -10111,13 +10111,13 @@ innings:
         - 50.6:
             batsman: Saeed Ajmal
             bowler: RK Kleinveldt
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 51.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KJ Abbott
             non_striker: Saeed Ajmal
             runs:
@@ -10125,7 +10125,7 @@ innings:
               extras: 0
               total: 0
         - 51.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KJ Abbott
             non_striker: Saeed Ajmal
             runs:
@@ -10133,7 +10133,7 @@ innings:
               extras: 0
               total: 0
         - 51.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KJ Abbott
             non_striker: Saeed Ajmal
             runs:
@@ -10141,7 +10141,7 @@ innings:
               extras: 0
               total: 0
         - 51.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KJ Abbott
             non_striker: Saeed Ajmal
             runs:
@@ -10149,7 +10149,7 @@ innings:
               extras: 0
               total: 0
         - 51.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KJ Abbott
             non_striker: Saeed Ajmal
             runs:
@@ -10157,7 +10157,7 @@ innings:
               extras: 0
               total: 0
         - 51.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KJ Abbott
             non_striker: Saeed Ajmal
             runs:
@@ -10167,7 +10167,7 @@ innings:
         - 52.1:
             batsman: Saeed Ajmal
             bowler: RJ Peterson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10175,7 +10175,7 @@ innings:
         - 52.2:
             batsman: Saeed Ajmal
             bowler: RJ Peterson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10183,7 +10183,7 @@ innings:
         - 52.3:
             batsman: Saeed Ajmal
             bowler: RJ Peterson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10191,7 +10191,7 @@ innings:
         - 52.4:
             batsman: Saeed Ajmal
             bowler: RJ Peterson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10199,7 +10199,7 @@ innings:
         - 52.5:
             batsman: Saeed Ajmal
             bowler: RJ Peterson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10207,13 +10207,13 @@ innings:
         - 52.6:
             batsman: Saeed Ajmal
             bowler: RJ Peterson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 53.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: VD Philander
             non_striker: Saeed Ajmal
             runs:
@@ -10221,7 +10221,7 @@ innings:
               extras: 0
               total: 2
         - 53.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: VD Philander
             non_striker: Saeed Ajmal
             runs:
@@ -10229,7 +10229,7 @@ innings:
               extras: 0
               total: 0
         - 53.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: VD Philander
             non_striker: Saeed Ajmal
             runs:
@@ -10237,7 +10237,7 @@ innings:
               extras: 0
               total: 0
         - 53.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: VD Philander
             non_striker: Saeed Ajmal
             runs:
@@ -10245,7 +10245,7 @@ innings:
               extras: 0
               total: 0
         - 53.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: VD Philander
             non_striker: Saeed Ajmal
             runs:
@@ -10253,7 +10253,7 @@ innings:
               extras: 0
               total: 0
         - 53.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: VD Philander
             non_striker: Saeed Ajmal
             runs:
@@ -10263,7 +10263,7 @@ innings:
         - 54.1:
             batsman: Saeed Ajmal
             bowler: RJ Peterson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -10271,7 +10271,7 @@ innings:
         - 54.2:
             batsman: Saeed Ajmal
             bowler: RJ Peterson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 6
               extras: 0
@@ -10281,13 +10281,13 @@ innings:
             bowler: RJ Peterson
             extras:
               byes: 1
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 1
               total: 1
         - 54.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RJ Peterson
             non_striker: Saeed Ajmal
             runs:
@@ -10297,7 +10297,7 @@ innings:
         - 54.5:
             batsman: Saeed Ajmal
             bowler: RJ Peterson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10305,7 +10305,7 @@ innings:
         - 54.6:
             batsman: Saeed Ajmal
             bowler: RJ Peterson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -10313,7 +10313,7 @@ innings:
         - 55.1:
             batsman: Saeed Ajmal
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10321,7 +10321,7 @@ innings:
         - 55.2:
             batsman: Saeed Ajmal
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10329,7 +10329,7 @@ innings:
         - 55.3:
             batsman: Saeed Ajmal
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10337,7 +10337,7 @@ innings:
         - 55.4:
             batsman: Saeed Ajmal
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10345,7 +10345,7 @@ innings:
         - 55.5:
             batsman: Saeed Ajmal
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10353,13 +10353,13 @@ innings:
         - 55.6:
             batsman: Saeed Ajmal
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
               total: 4
         - 56.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RJ Peterson
             non_striker: Saeed Ajmal
             runs:
@@ -10367,7 +10367,7 @@ innings:
               extras: 0
               total: 4
         - 56.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RJ Peterson
             non_striker: Saeed Ajmal
             runs:
@@ -10377,7 +10377,7 @@ innings:
         - 56.3:
             batsman: Saeed Ajmal
             bowler: RJ Peterson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10385,7 +10385,7 @@ innings:
         - 56.4:
             batsman: Saeed Ajmal
             bowler: RJ Peterson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10395,7 +10395,7 @@ innings:
             bowler: RJ Peterson
             extras:
               byes: 4
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 4
@@ -10403,7 +10403,7 @@ innings:
         - 56.6:
             batsman: Saeed Ajmal
             bowler: RJ Peterson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -10411,7 +10411,7 @@ innings:
         - 57.1:
             batsman: Saeed Ajmal
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10419,7 +10419,7 @@ innings:
         - 57.2:
             batsman: Saeed Ajmal
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10427,7 +10427,7 @@ innings:
         - 57.3:
             batsman: Saeed Ajmal
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10435,7 +10435,7 @@ innings:
         - 57.4:
             batsman: Saeed Ajmal
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10443,7 +10443,7 @@ innings:
         - 57.5:
             batsman: Saeed Ajmal
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -10451,13 +10451,13 @@ innings:
         - 57.6:
             batsman: Saeed Ajmal
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 58.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             non_striker: Saeed Ajmal
             runs:
@@ -10465,7 +10465,7 @@ innings:
               extras: 0
               total: 4
         - 58.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             non_striker: Saeed Ajmal
             runs:
@@ -10473,7 +10473,7 @@ innings:
               extras: 0
               total: 4
         - 58.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             non_striker: Saeed Ajmal
             runs:
@@ -10481,7 +10481,7 @@ innings:
               extras: 0
               total: 0
         - 58.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             non_striker: Saeed Ajmal
             runs:
@@ -10491,7 +10491,7 @@ innings:
         - 58.5:
             batsman: Saeed Ajmal
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -10499,7 +10499,7 @@ innings:
         - 58.6:
             batsman: Saeed Ajmal
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -10507,7 +10507,7 @@ innings:
         - 59.1:
             batsman: Saeed Ajmal
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10515,7 +10515,7 @@ innings:
         - 59.2:
             batsman: Saeed Ajmal
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10523,7 +10523,7 @@ innings:
         - 59.3:
             batsman: Saeed Ajmal
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10531,7 +10531,7 @@ innings:
         - 59.4:
             batsman: Saeed Ajmal
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10541,7 +10541,7 @@ innings:
             bowler: VD Philander
             extras:
               wides: 1
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 1
@@ -10549,13 +10549,13 @@ innings:
         - 59.6:
             batsman: Saeed Ajmal
             bowler: VD Philander
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 59.7:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: VD Philander
             non_striker: Saeed Ajmal
             runs:
@@ -10565,7 +10565,7 @@ innings:
         - 60.1:
             batsman: Saeed Ajmal
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10573,7 +10573,7 @@ innings:
         - 60.2:
             batsman: Saeed Ajmal
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10581,7 +10581,7 @@ innings:
         - 60.3:
             batsman: Saeed Ajmal
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10589,7 +10589,7 @@ innings:
         - 60.4:
             batsman: Saeed Ajmal
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10597,7 +10597,7 @@ innings:
         - 60.5:
             batsman: Saeed Ajmal
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10605,13 +10605,13 @@ innings:
         - 60.6:
             batsman: Saeed Ajmal
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 61.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RJ Peterson
             non_striker: Saeed Ajmal
             runs:
@@ -10619,7 +10619,7 @@ innings:
               extras: 0
               total: 0
         - 61.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RJ Peterson
             non_striker: Saeed Ajmal
             runs:
@@ -10627,7 +10627,7 @@ innings:
               extras: 0
               total: 0
         - 61.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RJ Peterson
             non_striker: Saeed Ajmal
             runs:
@@ -10635,7 +10635,7 @@ innings:
               extras: 0
               total: 4
         - 61.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RJ Peterson
             non_striker: Saeed Ajmal
             runs:
@@ -10645,7 +10645,7 @@ innings:
         - 61.5:
             batsman: Saeed Ajmal
             bowler: RJ Peterson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10653,13 +10653,13 @@ innings:
         - 61.6:
             batsman: Saeed Ajmal
             bowler: RJ Peterson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 62.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             non_striker: Saeed Ajmal
             runs:
@@ -10667,7 +10667,7 @@ innings:
               extras: 0
               total: 2
         - 62.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             non_striker: Saeed Ajmal
             runs:
@@ -10675,7 +10675,7 @@ innings:
               extras: 0
               total: 0
         - 62.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             non_striker: Saeed Ajmal
             runs:
@@ -10683,7 +10683,7 @@ innings:
               extras: 0
               total: 0
         - 62.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             non_striker: Saeed Ajmal
             runs:
@@ -10691,7 +10691,7 @@ innings:
               extras: 0
               total: 0
         - 62.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             non_striker: Saeed Ajmal
             runs:
@@ -10699,7 +10699,7 @@ innings:
               extras: 0
               total: 0
         - 62.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             non_striker: Saeed Ajmal
             runs:
@@ -10709,7 +10709,7 @@ innings:
         - 63.1:
             batsman: Saeed Ajmal
             bowler: KJ Abbott
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10717,7 +10717,7 @@ innings:
         - 63.2:
             batsman: Saeed Ajmal
             bowler: KJ Abbott
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10725,7 +10725,7 @@ innings:
         - 63.3:
             batsman: Saeed Ajmal
             bowler: KJ Abbott
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10733,7 +10733,7 @@ innings:
         - 63.4:
             batsman: Saeed Ajmal
             bowler: KJ Abbott
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10741,7 +10741,7 @@ innings:
         - 63.5:
             batsman: Saeed Ajmal
             bowler: KJ Abbott
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10749,7 +10749,7 @@ innings:
         - 63.6:
             batsman: Saeed Ajmal
             bowler: KJ Abbott
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -10757,7 +10757,7 @@ innings:
         - 64.1:
             batsman: Saeed Ajmal
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10765,7 +10765,7 @@ innings:
         - 64.2:
             batsman: Saeed Ajmal
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10773,7 +10773,7 @@ innings:
         - 64.3:
             batsman: Saeed Ajmal
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10784,7 +10784,7 @@ innings:
         - 64.4:
             batsman: Ehsan Adil
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10792,7 +10792,7 @@ innings:
         - 64.5:
             batsman: Ehsan Adil
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -10800,13 +10800,13 @@ innings:
         - 64.6:
             batsman: Ehsan Adil
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 65.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KJ Abbott
             non_striker: Ehsan Adil
             runs:
@@ -10814,7 +10814,7 @@ innings:
               extras: 0
               total: 0
         - 65.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KJ Abbott
             non_striker: Ehsan Adil
             runs:
@@ -10824,7 +10824,7 @@ innings:
         - 65.3:
             batsman: Ehsan Adil
             bowler: KJ Abbott
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10832,7 +10832,7 @@ innings:
         - 65.4:
             batsman: Ehsan Adil
             bowler: KJ Abbott
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10840,7 +10840,7 @@ innings:
         - 65.5:
             batsman: Ehsan Adil
             bowler: KJ Abbott
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10848,13 +10848,13 @@ innings:
         - 65.6:
             batsman: Ehsan Adil
             bowler: KJ Abbott
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 66.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             non_striker: Ehsan Adil
             runs:
@@ -10864,7 +10864,7 @@ innings:
         - 66.2:
             batsman: Ehsan Adil
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10872,7 +10872,7 @@ innings:
         - 66.3:
             batsman: Ehsan Adil
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10880,7 +10880,7 @@ innings:
         - 66.4:
             batsman: Ehsan Adil
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10888,7 +10888,7 @@ innings:
         - 66.5:
             batsman: Ehsan Adil
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10896,13 +10896,13 @@ innings:
         - 66.6:
             batsman: Ehsan Adil
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
               total: 4
         - 67.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KJ Abbott
             non_striker: Ehsan Adil
             runs:
@@ -10910,7 +10910,7 @@ innings:
               extras: 0
               total: 0
         - 67.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KJ Abbott
             non_striker: Ehsan Adil
             runs:
@@ -10920,7 +10920,7 @@ innings:
         - 67.3:
             batsman: Ehsan Adil
             bowler: KJ Abbott
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10928,7 +10928,7 @@ innings:
         - 67.4:
             batsman: Ehsan Adil
             bowler: KJ Abbott
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10936,7 +10936,7 @@ innings:
         - 67.5:
             batsman: Ehsan Adil
             bowler: KJ Abbott
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -10944,7 +10944,7 @@ innings:
         - 67.6:
             batsman: Ehsan Adil
             bowler: KJ Abbott
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -10952,7 +10952,7 @@ innings:
         - 68.1:
             batsman: Ehsan Adil
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10960,7 +10960,7 @@ innings:
         - 68.2:
             batsman: Ehsan Adil
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -10968,13 +10968,13 @@ innings:
         - 68.3:
             batsman: Ehsan Adil
             bowler: DW Steyn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 68.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             non_striker: Ehsan Adil
             runs:
@@ -10982,7 +10982,7 @@ innings:
               extras: 0
               total: 2
         - 68.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             non_striker: Ehsan Adil
             runs:
@@ -10990,7 +10990,7 @@ innings:
               extras: 0
               total: 2
         - 68.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: DW Steyn
             non_striker: Ehsan Adil
             runs:
@@ -11001,7 +11001,7 @@ innings:
               fielders:
                 - D Elgar
               kind: caught
-              player_out: Sarfraz Ahmed
+              player_out: Sarfaraz Ahmed
         - 69.1:
             batsman: Ehsan Adil
             bowler: KJ Abbott

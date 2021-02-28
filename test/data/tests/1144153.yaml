@@ -1422,7 +1422,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 28.3:
         non_striker: Babar Azam
         bowler: D Olivier
@@ -1430,7 +1430,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 28.4:
         non_striker: Babar Azam
         bowler: D Olivier
@@ -1438,7 +1438,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 28.5:
         non_striker: Babar Azam
         bowler: D Olivier
@@ -1446,9 +1446,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
         wicket:
-          player_out: Sarfraz Ahmed
+          player_out: Sarfaraz Ahmed
           kind: bowled
     - 28.6:
         non_striker: Babar Azam
@@ -3968,7 +3968,7 @@ innings:
         wicket:
           player_out: TB de Bruyn
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 32.6:
         non_striker: T Bavuma
@@ -4327,7 +4327,7 @@ innings:
         wicket:
           player_out: DW Steyn
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 40.2:
         non_striker: T Bavuma
@@ -4708,7 +4708,7 @@ innings:
         wicket:
           player_out: T Bavuma
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 48.1:
         non_striker: KA Maharaj
@@ -7524,7 +7524,7 @@ innings:
           player_out: Babar Azam
           kind: bowled
     - 45.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: KA Maharaj
         runs:
           extras: 0
@@ -7532,7 +7532,7 @@ innings:
           batsman: 0
         batsman: Shan Masood
     - 45.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: KA Maharaj
         runs:
           extras: 0
@@ -7540,7 +7540,7 @@ innings:
           batsman: 0
         batsman: Shan Masood
     - 45.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: KA Maharaj
         runs:
           extras: 0
@@ -7548,7 +7548,7 @@ innings:
           batsman: 0
         batsman: Shan Masood
     - 45.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: KA Maharaj
         runs:
           extras: 0
@@ -7556,7 +7556,7 @@ innings:
           batsman: 0
         batsman: Shan Masood
     - 45.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: KA Maharaj
         runs:
           extras: 0
@@ -7564,7 +7564,7 @@ innings:
           batsman: 0
         batsman: Shan Masood
     - 45.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: KA Maharaj
         runs:
           extras: 0
@@ -7578,7 +7578,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 46.2:
         non_striker: Shan Masood
         bowler: K Rabada
@@ -7586,9 +7586,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
         wicket:
-          player_out: Sarfraz Ahmed
+          player_out: Sarfaraz Ahmed
           fielders:
           - F du Plessis
           kind: caught
@@ -10105,7 +10105,7 @@ innings:
         wicket:
           player_out: D Elgar
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 41.4:
         non_striker: HM Amla
@@ -10334,7 +10334,7 @@ innings:
         wicket:
           player_out: TB de Bruyn
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: stumped
     - 46.2:
         non_striker: HM Amla

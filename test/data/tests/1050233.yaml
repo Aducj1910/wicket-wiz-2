@@ -2728,7 +2728,7 @@ innings:
               kind: caught
               player_out: Sami Aslam
         - 54.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Misbah-ul-Haq
             runs:
@@ -2736,7 +2736,7 @@ innings:
               extras: 0
               total: 1
         - 55.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JO Holder
             non_striker: Misbah-ul-Haq
             runs:
@@ -2746,7 +2746,7 @@ innings:
         - 55.2:
             batsman: Misbah-ul-Haq
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -2754,7 +2754,7 @@ innings:
         - 55.3:
             batsman: Misbah-ul-Haq
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -2762,7 +2762,7 @@ innings:
         - 55.4:
             batsman: Misbah-ul-Haq
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -2770,7 +2770,7 @@ innings:
         - 55.5:
             batsman: Misbah-ul-Haq
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -2778,7 +2778,7 @@ innings:
         - 55.6:
             batsman: Misbah-ul-Haq
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -2786,7 +2786,7 @@ innings:
         - 56.1:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -2794,7 +2794,7 @@ innings:
         - 56.2:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -2802,7 +2802,7 @@ innings:
         - 56.3:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -2810,7 +2810,7 @@ innings:
         - 56.4:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -2818,7 +2818,7 @@ innings:
         - 56.5:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -2826,13 +2826,13 @@ innings:
         - 56.6:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 57.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JO Holder
             non_striker: Misbah-ul-Haq
             runs:
@@ -2840,7 +2840,7 @@ innings:
               extras: 0
               total: 0
         - 57.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JO Holder
             non_striker: Misbah-ul-Haq
             runs:
@@ -2848,7 +2848,7 @@ innings:
               extras: 0
               total: 0
         - 57.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JO Holder
             non_striker: Misbah-ul-Haq
             runs:
@@ -2860,13 +2860,13 @@ innings:
             bowler: JO Holder
             extras:
               legbyes: 1
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 1
               total: 1
         - 57.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JO Holder
             non_striker: Misbah-ul-Haq
             runs:
@@ -2874,7 +2874,7 @@ innings:
               extras: 0
               total: 0
         - 57.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JO Holder
             non_striker: Misbah-ul-Haq
             runs:
@@ -2884,7 +2884,7 @@ innings:
         - 58.1:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -2892,7 +2892,7 @@ innings:
         - 58.2:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -2900,7 +2900,7 @@ innings:
         - 58.3:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -2908,7 +2908,7 @@ innings:
         - 58.4:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -2916,7 +2916,7 @@ innings:
         - 58.5:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -2924,13 +2924,13 @@ innings:
         - 58.6:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 6
               extras: 0
               total: 6
         - 59.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JO Holder
             non_striker: Misbah-ul-Haq
             runs:
@@ -2940,7 +2940,7 @@ innings:
         - 59.2:
             batsman: Misbah-ul-Haq
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -2948,7 +2948,7 @@ innings:
         - 59.3:
             batsman: Misbah-ul-Haq
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -2956,7 +2956,7 @@ innings:
         - 59.4:
             batsman: Misbah-ul-Haq
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -2964,7 +2964,7 @@ innings:
         - 59.5:
             batsman: Misbah-ul-Haq
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -2972,13 +2972,13 @@ innings:
         - 59.6:
             batsman: Misbah-ul-Haq
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 60.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Misbah-ul-Haq
             runs:
@@ -2986,7 +2986,7 @@ innings:
               extras: 0
               total: 0
         - 60.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Misbah-ul-Haq
             runs:
@@ -2994,7 +2994,7 @@ innings:
               extras: 0
               total: 0
         - 60.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Misbah-ul-Haq
             runs:
@@ -3002,7 +3002,7 @@ innings:
               extras: 0
               total: 0
         - 60.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Misbah-ul-Haq
             runs:
@@ -3010,7 +3010,7 @@ innings:
               extras: 0
               total: 0
         - 60.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Misbah-ul-Haq
             runs:
@@ -3020,7 +3020,7 @@ innings:
         - 60.6:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -3028,7 +3028,7 @@ innings:
         - 61.1:
             batsman: Misbah-ul-Haq
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3036,7 +3036,7 @@ innings:
         - 61.2:
             batsman: Misbah-ul-Haq
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3044,7 +3044,7 @@ innings:
         - 61.3:
             batsman: Misbah-ul-Haq
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3052,7 +3052,7 @@ innings:
         - 61.4:
             batsman: Misbah-ul-Haq
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3060,7 +3060,7 @@ innings:
         - 61.5:
             batsman: Misbah-ul-Haq
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3068,13 +3068,13 @@ innings:
         - 61.6:
             batsman: Misbah-ul-Haq
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 62.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Misbah-ul-Haq
             runs:
@@ -3082,7 +3082,7 @@ innings:
               extras: 0
               total: 4
         - 62.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Misbah-ul-Haq
             runs:
@@ -3092,13 +3092,13 @@ innings:
         - 62.3:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 62.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Misbah-ul-Haq
             runs:
@@ -3106,7 +3106,7 @@ innings:
               extras: 0
               total: 0
         - 62.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Misbah-ul-Haq
             runs:
@@ -3116,13 +3116,13 @@ innings:
         - 62.6:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 63.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AS Joseph
             non_striker: Misbah-ul-Haq
             runs:
@@ -3130,7 +3130,7 @@ innings:
               extras: 0
               total: 0
         - 63.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AS Joseph
             non_striker: Misbah-ul-Haq
             runs:
@@ -3140,13 +3140,13 @@ innings:
         - 63.3:
             batsman: Misbah-ul-Haq
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 63.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AS Joseph
             non_striker: Misbah-ul-Haq
             runs:
@@ -3154,7 +3154,7 @@ innings:
               extras: 0
               total: 4
         - 63.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AS Joseph
             non_striker: Misbah-ul-Haq
             runs:
@@ -3162,7 +3162,7 @@ innings:
               extras: 0
               total: 0
         - 63.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AS Joseph
             non_striker: Misbah-ul-Haq
             runs:
@@ -3172,7 +3172,7 @@ innings:
         - 64.1:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3180,7 +3180,7 @@ innings:
         - 64.2:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3188,7 +3188,7 @@ innings:
         - 64.3:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3196,7 +3196,7 @@ innings:
         - 64.4:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3204,7 +3204,7 @@ innings:
         - 64.5:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3212,7 +3212,7 @@ innings:
         - 64.6:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -3220,7 +3220,7 @@ innings:
         - 65.1:
             batsman: Misbah-ul-Haq
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3228,7 +3228,7 @@ innings:
         - 65.2:
             batsman: Misbah-ul-Haq
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -3236,7 +3236,7 @@ innings:
         - 65.3:
             batsman: Misbah-ul-Haq
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3244,7 +3244,7 @@ innings:
         - 65.4:
             batsman: Misbah-ul-Haq
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3252,7 +3252,7 @@ innings:
         - 65.5:
             batsman: Misbah-ul-Haq
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3260,13 +3260,13 @@ innings:
         - 65.6:
             batsman: Misbah-ul-Haq
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 66.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Misbah-ul-Haq
             runs:
@@ -3274,7 +3274,7 @@ innings:
               extras: 0
               total: 0
         - 66.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Misbah-ul-Haq
             runs:
@@ -3284,7 +3284,7 @@ innings:
         - 66.3:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -3292,7 +3292,7 @@ innings:
         - 66.4:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3300,7 +3300,7 @@ innings:
         - 66.5:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3308,13 +3308,13 @@ innings:
         - 66.6:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 67.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Misbah-ul-Haq
             runs:
@@ -3324,7 +3324,7 @@ innings:
         - 67.2:
             batsman: Misbah-ul-Haq
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3332,7 +3332,7 @@ innings:
         - 67.3:
             batsman: Misbah-ul-Haq
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3340,7 +3340,7 @@ innings:
         - 67.4:
             batsman: Misbah-ul-Haq
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3348,7 +3348,7 @@ innings:
         - 67.5:
             batsman: Misbah-ul-Haq
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -3356,13 +3356,13 @@ innings:
         - 67.6:
             batsman: Misbah-ul-Haq
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 68.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Misbah-ul-Haq
             runs:
@@ -3370,7 +3370,7 @@ innings:
               extras: 0
               total: 4
         - 68.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Misbah-ul-Haq
             runs:
@@ -3378,7 +3378,7 @@ innings:
               extras: 0
               total: 0
         - 68.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Misbah-ul-Haq
             runs:
@@ -3386,7 +3386,7 @@ innings:
               extras: 0
               total: 2
         - 68.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Misbah-ul-Haq
             runs:
@@ -3394,7 +3394,7 @@ innings:
               extras: 0
               total: 4
         - 68.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Misbah-ul-Haq
             runs:
@@ -3404,13 +3404,13 @@ innings:
         - 68.6:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 69.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Misbah-ul-Haq
             runs:
@@ -3418,7 +3418,7 @@ innings:
               extras: 0
               total: 0
         - 69.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Misbah-ul-Haq
             runs:
@@ -3426,7 +3426,7 @@ innings:
               extras: 0
               total: 0
         - 69.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Misbah-ul-Haq
             runs:
@@ -3436,7 +3436,7 @@ innings:
         - 69.4:
             batsman: Misbah-ul-Haq
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -3444,13 +3444,13 @@ innings:
         - 69.5:
             batsman: Misbah-ul-Haq
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 69.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Misbah-ul-Haq
             runs:
@@ -3460,7 +3460,7 @@ innings:
         - 70.1:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3468,13 +3468,13 @@ innings:
         - 70.2:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 70.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Misbah-ul-Haq
             runs:
@@ -3482,7 +3482,7 @@ innings:
               extras: 0
               total: 2
         - 70.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Misbah-ul-Haq
             runs:
@@ -3490,7 +3490,7 @@ innings:
               extras: 0
               total: 2
         - 70.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Misbah-ul-Haq
             runs:
@@ -3500,13 +3500,13 @@ innings:
         - 70.6:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
               total: 2
         - 71.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Misbah-ul-Haq
             runs:
@@ -3516,7 +3516,7 @@ innings:
         - 71.2:
             batsman: Misbah-ul-Haq
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3524,13 +3524,13 @@ innings:
         - 71.3:
             batsman: Misbah-ul-Haq
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 71.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Misbah-ul-Haq
             runs:
@@ -3540,7 +3540,7 @@ innings:
         - 71.5:
             batsman: Misbah-ul-Haq
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3550,7 +3550,7 @@ innings:
             bowler: ST Gabriel
             extras:
               noballs: 1
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 1
@@ -3558,7 +3558,7 @@ innings:
         - 71.7:
             batsman: Misbah-ul-Haq
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -3566,7 +3566,7 @@ innings:
         - 72.1:
             batsman: Misbah-ul-Haq
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3579,7 +3579,7 @@ innings:
         - 72.2:
             batsman: Mohammad Nawaz (3)
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3587,7 +3587,7 @@ innings:
         - 72.3:
             batsman: Mohammad Nawaz (3)
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3595,7 +3595,7 @@ innings:
         - 72.4:
             batsman: Mohammad Nawaz (3)
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3603,7 +3603,7 @@ innings:
         - 72.5:
             batsman: Mohammad Nawaz (3)
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3611,13 +3611,13 @@ innings:
         - 72.6:
             batsman: Mohammad Nawaz (3)
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
               total: 4
         - 73.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Mohammad Nawaz (3)
             runs:
@@ -3625,7 +3625,7 @@ innings:
               extras: 0
               total: 0
         - 73.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Mohammad Nawaz (3)
             runs:
@@ -3635,7 +3635,7 @@ innings:
         - 73.3:
             batsman: Mohammad Nawaz (3)
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3643,13 +3643,13 @@ innings:
         - 73.4:
             batsman: Mohammad Nawaz (3)
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 73.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Mohammad Nawaz (3)
             runs:
@@ -3659,13 +3659,13 @@ innings:
         - 73.6:
             batsman: Mohammad Nawaz (3)
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 74.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Mohammad Nawaz (3)
             runs:
@@ -3673,7 +3673,7 @@ innings:
               extras: 0
               total: 0
         - 74.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Mohammad Nawaz (3)
             runs:
@@ -3683,7 +3683,7 @@ innings:
         - 74.3:
             batsman: Mohammad Nawaz (3)
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3691,13 +3691,13 @@ innings:
         - 74.4:
             batsman: Mohammad Nawaz (3)
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 74.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Mohammad Nawaz (3)
             runs:
@@ -3707,13 +3707,13 @@ innings:
         - 74.6:
             batsman: Mohammad Nawaz (3)
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 75.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Mohammad Nawaz (3)
             runs:
@@ -3723,7 +3723,7 @@ innings:
         - 75.2:
             batsman: Mohammad Nawaz (3)
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3731,7 +3731,7 @@ innings:
         - 75.3:
             batsman: Mohammad Nawaz (3)
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3739,7 +3739,7 @@ innings:
         - 75.4:
             batsman: Mohammad Nawaz (3)
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3747,7 +3747,7 @@ innings:
         - 75.5:
             batsman: Mohammad Nawaz (3)
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3755,13 +3755,13 @@ innings:
         - 75.6:
             batsman: Mohammad Nawaz (3)
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 76.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Mohammad Nawaz (3)
             runs:
@@ -3771,7 +3771,7 @@ innings:
         - 76.2:
             batsman: Mohammad Nawaz (3)
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3779,7 +3779,7 @@ innings:
         - 76.3:
             batsman: Mohammad Nawaz (3)
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3787,7 +3787,7 @@ innings:
         - 76.4:
             batsman: Mohammad Nawaz (3)
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3795,7 +3795,7 @@ innings:
         - 76.5:
             batsman: Mohammad Nawaz (3)
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -3808,13 +3808,13 @@ innings:
         - 76.6:
             batsman: Wahab Riaz
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 77.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Wahab Riaz
             runs:
@@ -3822,7 +3822,7 @@ innings:
               extras: 0
               total: 0
         - 77.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Wahab Riaz
             runs:
@@ -3830,7 +3830,7 @@ innings:
               extras: 0
               total: 0
         - 77.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Wahab Riaz
             runs:
@@ -3838,7 +3838,7 @@ innings:
               extras: 0
               total: 0
         - 77.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Wahab Riaz
             runs:
@@ -3846,7 +3846,7 @@ innings:
               extras: 0
               total: 0
         - 77.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Wahab Riaz
             runs:
@@ -3856,7 +3856,7 @@ innings:
         - 77.6:
             batsman: Wahab Riaz
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -3864,13 +3864,13 @@ innings:
         - 78.1:
             batsman: Wahab Riaz
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 78.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Wahab Riaz
             runs:
@@ -3878,7 +3878,7 @@ innings:
               extras: 0
               total: 0
         - 78.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Wahab Riaz
             runs:
@@ -3886,7 +3886,7 @@ innings:
               extras: 0
               total: 0
         - 78.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Wahab Riaz
             runs:
@@ -3896,13 +3896,13 @@ innings:
         - 78.5:
             batsman: Wahab Riaz
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 78.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Wahab Riaz
             runs:
@@ -3912,13 +3912,13 @@ innings:
         - 79.1:
             batsman: Wahab Riaz
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 79.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Wahab Riaz
             runs:
@@ -3926,7 +3926,7 @@ innings:
               extras: 0
               total: 0
         - 79.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Wahab Riaz
             runs:
@@ -3934,7 +3934,7 @@ innings:
               extras: 0
               total: 0
         - 79.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Wahab Riaz
             runs:
@@ -3942,7 +3942,7 @@ innings:
               extras: 0
               total: 0
         - 79.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Wahab Riaz
             runs:
@@ -3951,7 +3951,7 @@ innings:
               total: 0
             wicket:
               kind: bowled
-              player_out: Sarfraz Ahmed
+              player_out: Sarfaraz Ahmed
         - 79.6:
             batsman: Yasir Shah
             bowler: ST Gabriel
@@ -9879,7 +9879,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: D Bishoo
         - 109.6:
@@ -10169,7 +10169,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: ST Gabriel
   - 3rd innings:
@@ -11222,7 +11222,7 @@ innings:
               kind: caught
               player_out: Misbah-ul-Haq
         - 21.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Azhar Ali
             runs:
@@ -11230,7 +11230,7 @@ innings:
               extras: 0
               total: 0
         - 21.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Azhar Ali
             runs:
@@ -11238,7 +11238,7 @@ innings:
               extras: 0
               total: 0
         - 21.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Azhar Ali
             runs:
@@ -11246,7 +11246,7 @@ innings:
               extras: 0
               total: 0
         - 21.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Azhar Ali
             runs:
@@ -11254,7 +11254,7 @@ innings:
               extras: 0
               total: 0
         - 21.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Azhar Ali
             runs:
@@ -11262,7 +11262,7 @@ innings:
               extras: 0
               total: 1
         - 22.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JO Holder
             non_striker: Azhar Ali
             runs:
@@ -11270,7 +11270,7 @@ innings:
               extras: 0
               total: 0
         - 22.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JO Holder
             non_striker: Azhar Ali
             runs:
@@ -11278,7 +11278,7 @@ innings:
               extras: 0
               total: 0
         - 22.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JO Holder
             non_striker: Azhar Ali
             runs:
@@ -11286,7 +11286,7 @@ innings:
               extras: 0
               total: 0
         - 22.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JO Holder
             non_striker: Azhar Ali
             runs:
@@ -11294,7 +11294,7 @@ innings:
               extras: 0
               total: 0
         - 22.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JO Holder
             non_striker: Azhar Ali
             runs:
@@ -11302,7 +11302,7 @@ innings:
               extras: 0
               total: 0
         - 22.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JO Holder
             non_striker: Azhar Ali
             runs:
@@ -11312,7 +11312,7 @@ innings:
         - 23.1:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11320,7 +11320,7 @@ innings:
         - 23.2:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11328,7 +11328,7 @@ innings:
         - 23.3:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11336,7 +11336,7 @@ innings:
         - 23.4:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11344,7 +11344,7 @@ innings:
         - 23.5:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -11352,7 +11352,7 @@ innings:
         - 23.6:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -11360,7 +11360,7 @@ innings:
         - 24.1:
             batsman: Azhar Ali
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11368,7 +11368,7 @@ innings:
         - 24.2:
             batsman: Azhar Ali
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11376,7 +11376,7 @@ innings:
         - 24.3:
             batsman: Azhar Ali
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11384,7 +11384,7 @@ innings:
         - 24.4:
             batsman: Azhar Ali
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11392,13 +11392,13 @@ innings:
         - 24.5:
             batsman: Azhar Ali
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 24.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JO Holder
             non_striker: Azhar Ali
             runs:
@@ -11406,7 +11406,7 @@ innings:
               extras: 0
               total: 1
         - 25.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Azhar Ali
             runs:
@@ -11414,7 +11414,7 @@ innings:
               extras: 0
               total: 0
         - 25.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Azhar Ali
             runs:
@@ -11422,7 +11422,7 @@ innings:
               extras: 0
               total: 4
         - 25.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Azhar Ali
             runs:
@@ -11430,7 +11430,7 @@ innings:
               extras: 0
               total: 0
         - 25.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Azhar Ali
             runs:
@@ -11440,7 +11440,7 @@ innings:
         - 25.5:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11448,13 +11448,13 @@ innings:
         - 25.6:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 26.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -11462,7 +11462,7 @@ innings:
               extras: 0
               total: 0
         - 26.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -11470,7 +11470,7 @@ innings:
               extras: 0
               total: 0
         - 26.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -11478,7 +11478,7 @@ innings:
               extras: 0
               total: 0
         - 26.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -11486,7 +11486,7 @@ innings:
               extras: 0
               total: 0
         - 26.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -11494,7 +11494,7 @@ innings:
               extras: 0
               total: 0
         - 26.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -11504,13 +11504,13 @@ innings:
         - 27.1:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 27.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Azhar Ali
             runs:
@@ -11520,7 +11520,7 @@ innings:
         - 27.3:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11528,7 +11528,7 @@ innings:
         - 27.4:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11536,7 +11536,7 @@ innings:
         - 27.5:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11544,7 +11544,7 @@ innings:
         - 27.6:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -11552,7 +11552,7 @@ innings:
         - 28.1:
             batsman: Azhar Ali
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11560,7 +11560,7 @@ innings:
         - 28.2:
             batsman: Azhar Ali
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11568,7 +11568,7 @@ innings:
         - 28.3:
             batsman: Azhar Ali
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11576,7 +11576,7 @@ innings:
         - 28.4:
             batsman: Azhar Ali
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11584,7 +11584,7 @@ innings:
         - 28.5:
             batsman: Azhar Ali
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11592,7 +11592,7 @@ innings:
         - 28.6:
             batsman: Azhar Ali
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -11600,7 +11600,7 @@ innings:
         - 29.1:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11608,7 +11608,7 @@ innings:
         - 29.2:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 6
               extras: 0
@@ -11616,7 +11616,7 @@ innings:
         - 29.3:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11624,13 +11624,13 @@ innings:
         - 29.4:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 29.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Azhar Ali
             runs:
@@ -11640,13 +11640,13 @@ innings:
         - 29.6:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 30.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -11654,7 +11654,7 @@ innings:
               extras: 0
               total: 0
         - 30.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             extras:
               noballs: 1
@@ -11664,7 +11664,7 @@ innings:
               extras: 1
               total: 1
         - 30.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -11672,7 +11672,7 @@ innings:
               extras: 0
               total: 0
         - 30.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -11680,7 +11680,7 @@ innings:
               extras: 0
               total: 0
         - 30.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -11688,7 +11688,7 @@ innings:
               extras: 0
               total: 0
         - 30.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -11696,7 +11696,7 @@ innings:
               extras: 0
               total: 2
         - 30.7:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -11706,7 +11706,7 @@ innings:
         - 31.1:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11714,13 +11714,13 @@ innings:
         - 31.2:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 31.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Azhar Ali
             runs:
@@ -11728,7 +11728,7 @@ innings:
               extras: 0
               total: 0
         - 31.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Azhar Ali
             runs:
@@ -11736,7 +11736,7 @@ innings:
               extras: 0
               total: 0
         - 31.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Azhar Ali
             runs:
@@ -11744,7 +11744,7 @@ innings:
               extras: 0
               total: 0
         - 31.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Azhar Ali
             runs:
@@ -11754,13 +11754,13 @@ innings:
         - 32.1:
             batsman: Azhar Ali
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 32.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -11768,7 +11768,7 @@ innings:
               extras: 0
               total: 0
         - 32.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -11776,7 +11776,7 @@ innings:
               extras: 0
               total: 0
         - 32.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -11784,7 +11784,7 @@ innings:
               extras: 0
               total: 0
         - 32.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -11792,7 +11792,7 @@ innings:
               extras: 0
               total: 0
         - 32.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -11802,7 +11802,7 @@ innings:
         - 33.1:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11810,7 +11810,7 @@ innings:
         - 33.2:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11818,7 +11818,7 @@ innings:
         - 33.3:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11826,7 +11826,7 @@ innings:
         - 33.4:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11834,13 +11834,13 @@ innings:
         - 33.5:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 33.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Azhar Ali
             runs:
@@ -11850,7 +11850,7 @@ innings:
         - 34.1:
             batsman: Azhar Ali
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11858,7 +11858,7 @@ innings:
         - 34.2:
             batsman: Azhar Ali
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11866,7 +11866,7 @@ innings:
         - 34.3:
             batsman: Azhar Ali
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11874,7 +11874,7 @@ innings:
         - 34.4:
             batsman: Azhar Ali
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11882,7 +11882,7 @@ innings:
         - 34.5:
             batsman: Azhar Ali
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11890,13 +11890,13 @@ innings:
         - 34.6:
             batsman: Azhar Ali
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 35.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Azhar Ali
             runs:
@@ -11906,7 +11906,7 @@ innings:
         - 35.2:
             batsman: Azhar Ali
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11914,7 +11914,7 @@ innings:
         - 35.3:
             batsman: Azhar Ali
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11922,7 +11922,7 @@ innings:
         - 35.4:
             batsman: Azhar Ali
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11930,7 +11930,7 @@ innings:
         - 35.5:
             batsman: Azhar Ali
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11938,13 +11938,13 @@ innings:
         - 35.6:
             batsman: Azhar Ali
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 36.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AS Joseph
             non_striker: Azhar Ali
             runs:
@@ -11952,7 +11952,7 @@ innings:
               extras: 0
               total: 0
         - 36.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AS Joseph
             non_striker: Azhar Ali
             runs:
@@ -11960,7 +11960,7 @@ innings:
               extras: 0
               total: 0
         - 36.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AS Joseph
             non_striker: Azhar Ali
             runs:
@@ -11970,13 +11970,13 @@ innings:
         - 36.4:
             batsman: Azhar Ali
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 36.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AS Joseph
             non_striker: Azhar Ali
             runs:
@@ -11984,7 +11984,7 @@ innings:
               extras: 0
               total: 0
         - 36.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AS Joseph
             non_striker: Azhar Ali
             runs:
@@ -11994,7 +11994,7 @@ innings:
         - 37.1:
             batsman: Azhar Ali
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12002,13 +12002,13 @@ innings:
         - 37.2:
             batsman: Azhar Ali
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 37.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Azhar Ali
             runs:
@@ -12018,7 +12018,7 @@ innings:
         - 37.4:
             batsman: Azhar Ali
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12026,7 +12026,7 @@ innings:
         - 37.5:
             batsman: Azhar Ali
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12034,13 +12034,13 @@ innings:
         - 37.6:
             batsman: Azhar Ali
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 38.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Azhar Ali
             runs:
@@ -12048,7 +12048,7 @@ innings:
               extras: 0
               total: 4
         - 38.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Azhar Ali
             runs:
@@ -12058,7 +12058,7 @@ innings:
         - 38.3:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12066,7 +12066,7 @@ innings:
         - 38.4:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12074,7 +12074,7 @@ innings:
         - 38.5:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12082,13 +12082,13 @@ innings:
         - 38.6:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 39.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -12096,7 +12096,7 @@ innings:
               extras: 0
               total: 0
         - 39.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -12104,7 +12104,7 @@ innings:
               extras: 0
               total: 0
         - 39.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -12112,7 +12112,7 @@ innings:
               extras: 0
               total: 4
         - 39.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -12120,7 +12120,7 @@ innings:
               extras: 0
               total: 0
         - 39.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -12130,13 +12130,13 @@ innings:
         - 39.6:
             batsman: Azhar Ali
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 40.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JO Holder
             non_striker: Azhar Ali
             runs:
@@ -12144,7 +12144,7 @@ innings:
               extras: 0
               total: 0
         - 40.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JO Holder
             non_striker: Azhar Ali
             runs:
@@ -12152,7 +12152,7 @@ innings:
               extras: 0
               total: 4
         - 40.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JO Holder
             non_striker: Azhar Ali
             runs:
@@ -12160,7 +12160,7 @@ innings:
               extras: 0
               total: 0
         - 40.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JO Holder
             non_striker: Azhar Ali
             runs:
@@ -12168,7 +12168,7 @@ innings:
               extras: 0
               total: 0
         - 40.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JO Holder
             non_striker: Azhar Ali
             runs:
@@ -12178,13 +12178,13 @@ innings:
         - 40.6:
             batsman: Azhar Ali
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 41.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -12194,7 +12194,7 @@ innings:
         - 41.2:
             batsman: Azhar Ali
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12202,7 +12202,7 @@ innings:
         - 41.3:
             batsman: Azhar Ali
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12210,7 +12210,7 @@ innings:
         - 41.4:
             batsman: Azhar Ali
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12218,13 +12218,13 @@ innings:
         - 41.5:
             batsman: Azhar Ali
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 41.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -12232,7 +12232,7 @@ innings:
               extras: 0
               total: 1
         - 42.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JO Holder
             non_striker: Azhar Ali
             runs:
@@ -12242,7 +12242,7 @@ innings:
         - 42.2:
             batsman: Azhar Ali
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12250,7 +12250,7 @@ innings:
         - 42.3:
             batsman: Azhar Ali
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12258,7 +12258,7 @@ innings:
         - 42.4:
             batsman: Azhar Ali
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12266,7 +12266,7 @@ innings:
         - 42.5:
             batsman: Azhar Ali
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12274,7 +12274,7 @@ innings:
         - 42.6:
             batsman: Azhar Ali
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -12282,7 +12282,7 @@ innings:
         - 43.1:
             batsman: Azhar Ali
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12290,7 +12290,7 @@ innings:
         - 43.2:
             batsman: Azhar Ali
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -12298,7 +12298,7 @@ innings:
         - 43.3:
             batsman: Azhar Ali
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -12306,7 +12306,7 @@ innings:
         - 43.4:
             batsman: Azhar Ali
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12314,7 +12314,7 @@ innings:
         - 43.5:
             batsman: Azhar Ali
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12322,7 +12322,7 @@ innings:
         - 43.6:
             batsman: Azhar Ali
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -12330,7 +12330,7 @@ innings:
         - 44.1:
             batsman: Azhar Ali
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12338,7 +12338,7 @@ innings:
         - 44.2:
             batsman: Azhar Ali
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12346,7 +12346,7 @@ innings:
         - 44.3:
             batsman: Azhar Ali
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12354,7 +12354,7 @@ innings:
         - 44.4:
             batsman: Azhar Ali
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12362,7 +12362,7 @@ innings:
         - 44.5:
             batsman: Azhar Ali
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12370,13 +12370,13 @@ innings:
         - 44.6:
             batsman: Azhar Ali
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 45.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -12386,13 +12386,13 @@ innings:
         - 45.2:
             batsman: Azhar Ali
             bowler: ST Gabriel
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 45.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -12400,7 +12400,7 @@ innings:
               extras: 0
               total: 0
         - 45.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -12408,7 +12408,7 @@ innings:
               extras: 0
               total: 0
         - 45.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -12416,7 +12416,7 @@ innings:
               extras: 0
               total: 0
         - 45.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Gabriel
             non_striker: Azhar Ali
             runs:
@@ -12426,7 +12426,7 @@ innings:
         - 46.1:
             batsman: Azhar Ali
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12434,13 +12434,13 @@ innings:
         - 46.2:
             batsman: Azhar Ali
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 46.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JO Holder
             non_striker: Azhar Ali
             runs:
@@ -12448,7 +12448,7 @@ innings:
               extras: 0
               total: 0
         - 46.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JO Holder
             non_striker: Azhar Ali
             runs:
@@ -12458,7 +12458,7 @@ innings:
         - 46.5:
             batsman: Azhar Ali
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12466,13 +12466,13 @@ innings:
         - 46.6:
             batsman: Azhar Ali
             bowler: JO Holder
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 47.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AS Joseph
             non_striker: Azhar Ali
             runs:
@@ -12480,7 +12480,7 @@ innings:
               extras: 0
               total: 0
         - 47.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AS Joseph
             non_striker: Azhar Ali
             runs:
@@ -12488,7 +12488,7 @@ innings:
               extras: 0
               total: 0
         - 47.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AS Joseph
             non_striker: Azhar Ali
             runs:
@@ -12496,7 +12496,7 @@ innings:
               extras: 0
               total: 0
         - 47.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AS Joseph
             non_striker: Azhar Ali
             runs:
@@ -12506,7 +12506,7 @@ innings:
         - 47.5:
             batsman: Azhar Ali
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12514,13 +12514,13 @@ innings:
         - 47.6:
             batsman: Azhar Ali
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 48.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Azhar Ali
             runs:
@@ -12530,13 +12530,13 @@ innings:
         - 48.2:
             batsman: Azhar Ali
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 48.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Azhar Ali
             runs:
@@ -12544,7 +12544,7 @@ innings:
               extras: 0
               total: 0
         - 48.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Azhar Ali
             runs:
@@ -12552,7 +12552,7 @@ innings:
               extras: 0
               total: 0
         - 48.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Azhar Ali
             runs:
@@ -12560,7 +12560,7 @@ innings:
               extras: 0
               total: 0
         - 48.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Azhar Ali
             runs:
@@ -12570,7 +12570,7 @@ innings:
         - 49.1:
             batsman: Azhar Ali
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -12578,7 +12578,7 @@ innings:
         - 49.2:
             batsman: Azhar Ali
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12586,7 +12586,7 @@ innings:
         - 49.3:
             batsman: Azhar Ali
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12594,13 +12594,13 @@ innings:
         - 49.4:
             batsman: Azhar Ali
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 49.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AS Joseph
             non_striker: Azhar Ali
             runs:
@@ -12608,7 +12608,7 @@ innings:
               extras: 0
               total: 0
         - 49.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: AS Joseph
             non_striker: Azhar Ali
             runs:
@@ -12618,7 +12618,7 @@ innings:
         - 50.1:
             batsman: Azhar Ali
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12626,7 +12626,7 @@ innings:
         - 50.2:
             batsman: Azhar Ali
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12634,7 +12634,7 @@ innings:
         - 50.3:
             batsman: Azhar Ali
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12642,13 +12642,13 @@ innings:
         - 50.4:
             batsman: Azhar Ali
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 50.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Azhar Ali
             runs:
@@ -12658,7 +12658,7 @@ innings:
         - 50.6:
             batsman: Azhar Ali
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -12666,7 +12666,7 @@ innings:
         - 51.1:
             batsman: Azhar Ali
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12674,7 +12674,7 @@ innings:
         - 51.2:
             batsman: Azhar Ali
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12682,7 +12682,7 @@ innings:
         - 51.3:
             batsman: Azhar Ali
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12690,7 +12690,7 @@ innings:
         - 51.4:
             batsman: Azhar Ali
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12698,7 +12698,7 @@ innings:
         - 51.5:
             batsman: Azhar Ali
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12706,13 +12706,13 @@ innings:
         - 51.6:
             batsman: Azhar Ali
             bowler: AS Joseph
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 52.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Azhar Ali
             runs:
@@ -12722,7 +12722,7 @@ innings:
         - 52.2:
             batsman: Azhar Ali
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12730,13 +12730,13 @@ innings:
         - 52.3:
             batsman: Azhar Ali
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 52.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Azhar Ali
             runs:
@@ -12744,7 +12744,7 @@ innings:
               extras: 0
               total: 0
         - 52.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Azhar Ali
             runs:
@@ -12752,7 +12752,7 @@ innings:
               extras: 0
               total: 0
         - 52.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Azhar Ali
             runs:
@@ -12760,7 +12760,7 @@ innings:
               extras: 0
               total: 1
         - 53.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Azhar Ali
             runs:
@@ -12768,7 +12768,7 @@ innings:
               extras: 0
               total: 0
         - 53.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Azhar Ali
             runs:
@@ -12776,7 +12776,7 @@ innings:
               extras: 0
               total: 0
         - 53.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RL Chase
             non_striker: Azhar Ali
             runs:
@@ -12786,7 +12786,7 @@ innings:
         - 53.4:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12794,7 +12794,7 @@ innings:
         - 53.5:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12802,7 +12802,7 @@ innings:
         - 53.6:
             batsman: Azhar Ali
             bowler: RL Chase
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -12810,13 +12810,13 @@ innings:
         - 54.1:
             batsman: Azhar Ali
             bowler: D Bishoo
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 3
               extras: 0
               total: 3
         - 54.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: D Bishoo
             non_striker: Azhar Ali
             runs:
@@ -12827,7 +12827,7 @@ innings:
               fielders:
                 - DM Bravo
               kind: caught
-              player_out: Sarfraz Ahmed
+              player_out: Sarfaraz Ahmed
         - 54.3:
             batsman: Mohammad Nawaz (3)
             bowler: D Bishoo
@@ -14670,7 +14670,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: DM Bravo
         - 9.6:

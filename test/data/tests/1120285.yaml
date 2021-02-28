@@ -1154,7 +1154,7 @@ innings:
         wicket:
           player_out: JK Silva
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 22.6:
         non_striker: FDM Karunaratne
@@ -5862,7 +5862,7 @@ innings:
         wicket:
           player_out: N Dickwella
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 119.2:
         non_striker: FDM Karunaratne
@@ -7646,7 +7646,7 @@ innings:
         wicket:
           player_out: PLS Gamage
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: stumped
     - 156.1:
         non_striker: N Pradeep
@@ -11310,7 +11310,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 71.5:
         non_striker: Haris Sohail
         bowler: HMRKB Herath
@@ -11318,9 +11318,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 71.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -11334,9 +11334,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 72.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -11350,7 +11350,7 @@ innings:
           extras: 0
           total: 2
           batsman: 2
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 72.4:
         non_striker: Haris Sohail
         bowler: MDK Perera
@@ -11358,9 +11358,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 72.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -11368,7 +11368,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 72.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -11382,7 +11382,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 73.2:
         non_striker: Haris Sohail
         bowler: HMRKB Herath
@@ -11390,9 +11390,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 73.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -11400,7 +11400,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 73.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -11408,7 +11408,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 73.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -11422,9 +11422,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 74.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -11432,7 +11432,7 @@ innings:
           batsman: 2
         batsman: Haris Sohail
     - 74.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -11440,7 +11440,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 74.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -11454,9 +11454,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 74.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -11464,7 +11464,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 74.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -11478,7 +11478,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 75.2:
         non_striker: Haris Sohail
         bowler: HMRKB Herath
@@ -11486,7 +11486,7 @@ innings:
           extras: 0
           total: 2
           batsman: 2
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 75.3:
         non_striker: Haris Sohail
         bowler: HMRKB Herath
@@ -11494,7 +11494,7 @@ innings:
           extras: 0
           total: 4
           batsman: 4
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 75.4:
         non_striker: Haris Sohail
         bowler: HMRKB Herath
@@ -11502,9 +11502,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 75.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -11512,7 +11512,7 @@ innings:
           batsman: 0
         batsman: Haris Sohail
     - 75.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -11526,9 +11526,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
         wicket:
-          player_out: Sarfraz Ahmed
+          player_out: Sarfaraz Ahmed
           fielders:
           - BKG Mendis
           kind: caught
@@ -12354,7 +12354,7 @@ innings:
         wicket:
           player_out: JK Silva
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 2.2:
         non_striker: FDM Karunaratne
@@ -12772,7 +12772,7 @@ innings:
         wicket:
           player_out: S Samarawickrama
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 10.4:
         non_striker: BKG Mendis
@@ -13203,7 +13203,7 @@ innings:
         wicket:
           player_out: N Dickwella
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 19.1:
         non_striker: MDK Perera
@@ -13546,7 +13546,7 @@ innings:
         wicket:
           player_out: BKG Mendis
           fielders:
-          - Sarfraz Ahmed
+          - Sarfaraz Ahmed
           kind: caught
     - 25.5:
         non_striker: PLS Gamage
@@ -15198,7 +15198,7 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 33.1:
         non_striker: Asad Shafiq
         bowler: HMRKB Herath
@@ -15206,7 +15206,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 33.2:
         non_striker: Asad Shafiq
         bowler: HMRKB Herath
@@ -15214,7 +15214,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 33.3:
         non_striker: Asad Shafiq
         bowler: HMRKB Herath
@@ -15222,7 +15222,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 33.4:
         non_striker: Asad Shafiq
         bowler: HMRKB Herath
@@ -15230,7 +15230,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 33.5:
         non_striker: Asad Shafiq
         bowler: HMRKB Herath
@@ -15238,7 +15238,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 33.6:
         non_striker: Asad Shafiq
         bowler: HMRKB Herath
@@ -15246,9 +15246,9 @@ innings:
           extras: 0
           total: 4
           batsman: 4
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 34.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15262,9 +15262,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 34.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15272,7 +15272,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 34.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15280,7 +15280,7 @@ innings:
           batsman: 2
         batsman: Asad Shafiq
     - 34.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15288,7 +15288,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 34.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15302,7 +15302,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 35.2:
         non_striker: Asad Shafiq
         bowler: HMRKB Herath
@@ -15310,7 +15310,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 35.3:
         non_striker: Asad Shafiq
         bowler: HMRKB Herath
@@ -15318,9 +15318,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 35.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -15328,7 +15328,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 35.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -15336,7 +15336,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 35.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -15350,7 +15350,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 36.2:
         non_striker: Asad Shafiq
         bowler: MDK Perera
@@ -15358,7 +15358,7 @@ innings:
           extras: 0
           total: 4
           batsman: 4
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 36.3:
         non_striker: Asad Shafiq
         bowler: MDK Perera
@@ -15366,9 +15366,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 36.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15376,7 +15376,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 36.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15390,9 +15390,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 37.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: PLS Gamage
         runs:
           extras: 0
@@ -15400,7 +15400,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 37.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: PLS Gamage
         runs:
           extras: 0
@@ -15408,7 +15408,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 37.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: PLS Gamage
         runs:
           extras: 0
@@ -15416,7 +15416,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 37.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: PLS Gamage
         runs:
           extras: 0
@@ -15424,7 +15424,7 @@ innings:
           batsman: 2
         batsman: Asad Shafiq
     - 37.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: PLS Gamage
         runs:
           extras: 0
@@ -15438,9 +15438,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 38.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15448,7 +15448,7 @@ innings:
           batsman: 4
         batsman: Asad Shafiq
     - 38.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15456,7 +15456,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 38.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15470,7 +15470,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 38.5:
         non_striker: Asad Shafiq
         bowler: MDK Perera
@@ -15478,7 +15478,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 38.6:
         non_striker: Asad Shafiq
         bowler: MDK Perera
@@ -15486,7 +15486,7 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 39.1:
         non_striker: Asad Shafiq
         bowler: PLS Gamage
@@ -15494,7 +15494,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 39.2:
         non_striker: Asad Shafiq
         bowler: PLS Gamage
@@ -15502,7 +15502,7 @@ innings:
           extras: 0
           total: 4
           batsman: 4
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 39.3:
         non_striker: Asad Shafiq
         bowler: PLS Gamage
@@ -15510,7 +15510,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 39.4:
         non_striker: Asad Shafiq
         bowler: PLS Gamage
@@ -15518,7 +15518,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 39.5:
         non_striker: Asad Shafiq
         bowler: PLS Gamage
@@ -15526,9 +15526,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 39.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: PLS Gamage
         runs:
           extras: 0
@@ -15536,7 +15536,7 @@ innings:
           batsman: 1
         batsman: Asad Shafiq
     - 40.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15544,7 +15544,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 40.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15552,7 +15552,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 40.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15560,7 +15560,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 40.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15568,7 +15568,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 40.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15576,7 +15576,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 40.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15590,7 +15590,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 41.2:
         non_striker: Asad Shafiq
         bowler: HMRKB Herath
@@ -15598,9 +15598,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 41.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -15608,7 +15608,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 41.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -15622,7 +15622,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 41.6:
         non_striker: Asad Shafiq
         bowler: HMRKB Herath
@@ -15630,7 +15630,7 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 42.1:
         non_striker: Asad Shafiq
         bowler: MDK Perera
@@ -15638,9 +15638,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 42.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15648,7 +15648,7 @@ innings:
           batsman: 2
         batsman: Asad Shafiq
     - 42.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15656,7 +15656,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 42.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15670,9 +15670,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 42.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15680,7 +15680,7 @@ innings:
           batsman: 1
         batsman: Asad Shafiq
     - 43.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -15688,7 +15688,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 43.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -15696,7 +15696,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 43.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -15704,7 +15704,7 @@ innings:
           batsman: 4
         batsman: Asad Shafiq
     - 43.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -15718,7 +15718,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 43.6:
         non_striker: Asad Shafiq
         bowler: HMRKB Herath
@@ -15726,9 +15726,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 44.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15736,7 +15736,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 44.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15750,7 +15750,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 44.4:
         non_striker: Asad Shafiq
         bowler: MDK Perera
@@ -15758,7 +15758,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 44.5:
         non_striker: Asad Shafiq
         bowler: MDK Perera
@@ -15766,7 +15766,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 44.6:
         non_striker: Asad Shafiq
         bowler: MDK Perera
@@ -15774,9 +15774,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 45.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -15784,7 +15784,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 45.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -15792,7 +15792,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 45.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -15800,7 +15800,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 45.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -15814,9 +15814,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 45.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -15830,9 +15830,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 46.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15840,7 +15840,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 46.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15854,7 +15854,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 46.5:
         non_striker: Asad Shafiq
         bowler: MDK Perera
@@ -15862,9 +15862,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 46.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15872,7 +15872,7 @@ innings:
           batsman: 1
         batsman: Asad Shafiq
     - 47.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -15880,7 +15880,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 47.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -15888,7 +15888,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 47.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -15896,7 +15896,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 47.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -15904,7 +15904,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 47.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -15912,7 +15912,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 47.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -15926,7 +15926,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 48.2:
         non_striker: Asad Shafiq
         bowler: MDK Perera
@@ -15934,9 +15934,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 48.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15944,7 +15944,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 48.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15952,7 +15952,7 @@ innings:
           batsman: 2
         batsman: Asad Shafiq
     - 48.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15960,7 +15960,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 48.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -15974,7 +15974,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 49.2:
         non_striker: Asad Shafiq
         bowler: N Pradeep
@@ -15982,7 +15982,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 49.3:
         non_striker: Asad Shafiq
         bowler: N Pradeep
@@ -15990,7 +15990,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 49.4:
         non_striker: Asad Shafiq
         bowler: N Pradeep
@@ -15998,7 +15998,7 @@ innings:
           extras: 0
           total: 2
           batsman: 2
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 49.5:
         non_striker: Asad Shafiq
         bowler: N Pradeep
@@ -16006,7 +16006,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 49.6:
         non_striker: Asad Shafiq
         bowler: N Pradeep
@@ -16014,9 +16014,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 50.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -16024,7 +16024,7 @@ innings:
           batsman: 2
         batsman: Asad Shafiq
     - 50.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -16032,7 +16032,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 50.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -16046,9 +16046,9 @@ innings:
           extras: 0
           total: 3
           batsman: 3
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 50.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -16056,7 +16056,7 @@ innings:
           batsman: 2
         batsman: Asad Shafiq
     - 50.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -16070,7 +16070,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 51.2:
         non_striker: Asad Shafiq
         bowler: N Pradeep
@@ -16078,9 +16078,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 51.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: N Pradeep
         runs:
           extras: 0
@@ -16088,7 +16088,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 51.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: N Pradeep
         runs:
           extras: 0
@@ -16096,7 +16096,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 51.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: N Pradeep
         runs:
           extras: 0
@@ -16104,7 +16104,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 51.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: N Pradeep
         runs:
           extras: 0
@@ -16118,9 +16118,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 52.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -16128,7 +16128,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 52.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -16136,7 +16136,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 52.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -16144,7 +16144,7 @@ innings:
           batsman: 4
         batsman: Asad Shafiq
     - 52.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -16152,7 +16152,7 @@ innings:
           batsman: 2
         batsman: Asad Shafiq
     - 52.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -16166,7 +16166,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 53.2:
         non_striker: Asad Shafiq
         bowler: N Pradeep
@@ -16176,7 +16176,7 @@ innings:
           batsman: 0
         extras:
           noballs: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 53.3:
         non_striker: Asad Shafiq
         bowler: N Pradeep
@@ -16184,7 +16184,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 53.4:
         non_striker: Asad Shafiq
         bowler: N Pradeep
@@ -16192,7 +16192,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 53.5:
         non_striker: Asad Shafiq
         bowler: N Pradeep
@@ -16200,7 +16200,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 53.6:
         non_striker: Asad Shafiq
         bowler: N Pradeep
@@ -16208,7 +16208,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 53.7:
         non_striker: Asad Shafiq
         bowler: N Pradeep
@@ -16216,9 +16216,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 54.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -16232,7 +16232,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 54.3:
         non_striker: Asad Shafiq
         bowler: HMRKB Herath
@@ -16240,7 +16240,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 54.4:
         non_striker: Asad Shafiq
         bowler: HMRKB Herath
@@ -16248,7 +16248,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 54.5:
         non_striker: Asad Shafiq
         bowler: HMRKB Herath
@@ -16256,7 +16256,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 54.6:
         non_striker: Asad Shafiq
         bowler: HMRKB Herath
@@ -16264,7 +16264,7 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 55.1:
         non_striker: Asad Shafiq
         bowler: RAS Lakmal
@@ -16272,9 +16272,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 55.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: RAS Lakmal
         runs:
           extras: 0
@@ -16282,7 +16282,7 @@ innings:
           batsman: 4
         batsman: Asad Shafiq
     - 55.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: RAS Lakmal
         runs:
           extras: 0
@@ -16296,7 +16296,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 55.5:
         non_striker: Asad Shafiq
         bowler: RAS Lakmal
@@ -16304,7 +16304,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 55.6:
         non_striker: Asad Shafiq
         bowler: RAS Lakmal
@@ -16312,7 +16312,7 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 56.1:
         non_striker: Asad Shafiq
         bowler: HMRKB Herath
@@ -16320,7 +16320,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 56.2:
         non_striker: Asad Shafiq
         bowler: HMRKB Herath
@@ -16328,7 +16328,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 56.3:
         non_striker: Asad Shafiq
         bowler: HMRKB Herath
@@ -16336,9 +16336,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 56.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -16346,7 +16346,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 56.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -16360,7 +16360,7 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 57.1:
         non_striker: Asad Shafiq
         bowler: RAS Lakmal
@@ -16368,7 +16368,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 57.2:
         non_striker: Asad Shafiq
         bowler: RAS Lakmal
@@ -16376,7 +16376,7 @@ innings:
           extras: 0
           total: 2
           batsman: 2
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 57.3:
         non_striker: Asad Shafiq
         bowler: RAS Lakmal
@@ -16384,9 +16384,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 57.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: RAS Lakmal
         runs:
           extras: 0
@@ -16394,7 +16394,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 57.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: RAS Lakmal
         runs:
           extras: 0
@@ -16402,7 +16402,7 @@ innings:
           batsman: 4
         batsman: Asad Shafiq
     - 57.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: RAS Lakmal
         runs:
           extras: 0
@@ -16416,7 +16416,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 58.2:
         non_striker: Asad Shafiq
         bowler: HMRKB Herath
@@ -16424,9 +16424,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 58.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -16434,7 +16434,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 58.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -16442,7 +16442,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 58.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -16450,7 +16450,7 @@ innings:
           batsman: 4
         batsman: Asad Shafiq
     - 58.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -16464,9 +16464,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 59.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: RAS Lakmal
         runs:
           extras: 0
@@ -16474,7 +16474,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 59.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: RAS Lakmal
         runs:
           extras: 0
@@ -16482,7 +16482,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 59.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: RAS Lakmal
         runs:
           extras: 0
@@ -16490,7 +16490,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 59.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: RAS Lakmal
         runs:
           extras: 0
@@ -16498,7 +16498,7 @@ innings:
           batsman: 4
         batsman: Asad Shafiq
     - 59.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: RAS Lakmal
         runs:
           extras: 0
@@ -16512,7 +16512,7 @@ innings:
           extras: 0
           total: 2
           batsman: 2
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 60.2:
         non_striker: Asad Shafiq
         bowler: MDK Perera
@@ -16520,7 +16520,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 60.3:
         non_striker: Asad Shafiq
         bowler: MDK Perera
@@ -16528,7 +16528,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 60.4:
         non_striker: Asad Shafiq
         bowler: MDK Perera
@@ -16536,9 +16536,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 60.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -16546,7 +16546,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 60.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -16560,7 +16560,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 61.2:
         non_striker: Asad Shafiq
         bowler: BKG Mendis
@@ -16568,7 +16568,7 @@ innings:
           extras: 0
           total: 4
           batsman: 4
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 61.3:
         non_striker: Asad Shafiq
         bowler: BKG Mendis
@@ -16578,9 +16578,9 @@ innings:
           batsman: 1
         extras:
           noballs: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 61.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: BKG Mendis
         runs:
           extras: 0
@@ -16588,7 +16588,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 61.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: BKG Mendis
         runs:
           extras: 0
@@ -16596,7 +16596,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 61.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: BKG Mendis
         runs:
           extras: 0
@@ -16610,9 +16610,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 62.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -16626,7 +16626,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 62.3:
         non_striker: Asad Shafiq
         bowler: MDK Perera
@@ -16634,9 +16634,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 62.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -16644,7 +16644,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 62.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -16652,7 +16652,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 62.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -16660,7 +16660,7 @@ innings:
           batsman: 1
         batsman: Asad Shafiq
     - 63.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: PLS Gamage
         runs:
           extras: 1
@@ -16676,7 +16676,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 63.3:
         non_striker: Asad Shafiq
         bowler: PLS Gamage
@@ -16686,7 +16686,7 @@ innings:
           batsman: 0
         extras:
           noballs: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 63.4:
         non_striker: Asad Shafiq
         bowler: PLS Gamage
@@ -16694,7 +16694,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 63.5:
         non_striker: Asad Shafiq
         bowler: PLS Gamage
@@ -16702,7 +16702,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 63.6:
         non_striker: Asad Shafiq
         bowler: PLS Gamage
@@ -16710,7 +16710,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 63.7:
         non_striker: Asad Shafiq
         bowler: PLS Gamage
@@ -16718,9 +16718,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 64.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -16728,7 +16728,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 64.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -16736,7 +16736,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 64.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -16750,7 +16750,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 64.5:
         non_striker: Asad Shafiq
         bowler: MDK Perera
@@ -16758,7 +16758,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 64.6:
         non_striker: Asad Shafiq
         bowler: MDK Perera
@@ -16766,9 +16766,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 65.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: PLS Gamage
         runs:
           extras: 0
@@ -16776,7 +16776,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 65.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: PLS Gamage
         runs:
           extras: 0
@@ -16784,7 +16784,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 65.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: PLS Gamage
         runs:
           extras: 0
@@ -16792,7 +16792,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 65.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: PLS Gamage
         runs:
           extras: 0
@@ -16800,7 +16800,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 65.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: PLS Gamage
         runs:
           extras: 0
@@ -16808,7 +16808,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 65.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: PLS Gamage
         runs:
           extras: 0
@@ -16822,7 +16822,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 66.2:
         non_striker: Asad Shafiq
         bowler: MDK Perera
@@ -16830,7 +16830,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 66.3:
         non_striker: Asad Shafiq
         bowler: MDK Perera
@@ -16838,9 +16838,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 66.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -16848,7 +16848,7 @@ innings:
           batsman: 2
         batsman: Asad Shafiq
     - 66.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -16856,7 +16856,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 66.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -16870,9 +16870,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 67.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: PLS Gamage
         runs:
           extras: 0
@@ -16880,7 +16880,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 67.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: PLS Gamage
         runs:
           extras: 0
@@ -16888,7 +16888,7 @@ innings:
           batsman: 2
         batsman: Asad Shafiq
     - 67.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: PLS Gamage
         runs:
           extras: 0
@@ -16902,7 +16902,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 67.6:
         non_striker: Asad Shafiq
         bowler: PLS Gamage
@@ -16910,9 +16910,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 68.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -16926,7 +16926,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 68.3:
         non_striker: Asad Shafiq
         bowler: MDK Perera
@@ -16934,9 +16934,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 68.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -16944,7 +16944,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 68.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -16958,9 +16958,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 69.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -16968,7 +16968,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 69.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -16976,7 +16976,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 69.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -16984,7 +16984,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 69.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -16992,7 +16992,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 69.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -17006,9 +17006,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 70.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -17016,7 +17016,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 70.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -17024,7 +17024,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 70.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -17038,9 +17038,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 70.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -17054,9 +17054,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 71.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -17070,7 +17070,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 71.3:
         non_striker: Asad Shafiq
         bowler: HMRKB Herath
@@ -17078,7 +17078,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 71.4:
         non_striker: Asad Shafiq
         bowler: HMRKB Herath
@@ -17086,7 +17086,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 71.5:
         non_striker: Asad Shafiq
         bowler: HMRKB Herath
@@ -17094,9 +17094,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 71.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: HMRKB Herath
         runs:
           extras: 0
@@ -17104,7 +17104,7 @@ innings:
           batsman: 1
         batsman: Asad Shafiq
     - 72.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -17112,7 +17112,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 72.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -17120,7 +17120,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 72.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -17128,7 +17128,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 72.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -17136,7 +17136,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 72.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -17144,7 +17144,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 72.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -17158,9 +17158,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 73.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: N Pradeep
         runs:
           extras: 0
@@ -17168,7 +17168,7 @@ innings:
           batsman: 4
         batsman: Asad Shafiq
     - 73.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: N Pradeep
         runs:
           extras: 0
@@ -17176,7 +17176,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 73.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: N Pradeep
         runs:
           extras: 0
@@ -17190,7 +17190,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 73.6:
         non_striker: Asad Shafiq
         bowler: N Pradeep
@@ -17198,7 +17198,7 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 74.1:
         non_striker: Asad Shafiq
         bowler: MDK Perera
@@ -17206,7 +17206,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 74.2:
         non_striker: Asad Shafiq
         bowler: MDK Perera
@@ -17214,7 +17214,7 @@ innings:
           extras: 0
           total: 4
           batsman: 4
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 74.3:
         non_striker: Asad Shafiq
         bowler: MDK Perera
@@ -17222,9 +17222,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 74.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -17232,7 +17232,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 74.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -17240,7 +17240,7 @@ innings:
           batsman: 2
         batsman: Asad Shafiq
     - 74.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -17248,7 +17248,7 @@ innings:
           batsman: 1
         batsman: Asad Shafiq
     - 75.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: N Pradeep
         runs:
           extras: 0
@@ -17262,7 +17262,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 75.3:
         non_striker: Asad Shafiq
         bowler: N Pradeep
@@ -17270,7 +17270,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 75.4:
         non_striker: Asad Shafiq
         bowler: N Pradeep
@@ -17278,9 +17278,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 75.5:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: N Pradeep
         runs:
           extras: 0
@@ -17288,7 +17288,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 75.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: N Pradeep
         runs:
           extras: 0
@@ -17302,7 +17302,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 76.2:
         non_striker: Asad Shafiq
         bowler: MDK Perera
@@ -17310,7 +17310,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 76.3:
         non_striker: Asad Shafiq
         bowler: MDK Perera
@@ -17318,9 +17318,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 76.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -17334,9 +17334,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 76.6:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -17350,9 +17350,9 @@ innings:
           extras: 0
           total: 1
           batsman: 1
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 77.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: N Pradeep
         runs:
           extras: 0
@@ -17360,7 +17360,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 77.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: N Pradeep
         runs:
           extras: 0
@@ -17368,7 +17368,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 77.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: N Pradeep
         runs:
           extras: 0
@@ -17382,7 +17382,7 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 77.6:
         non_striker: Asad Shafiq
         bowler: N Pradeep
@@ -17390,9 +17390,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
     - 78.1:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -17400,7 +17400,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 78.2:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -17408,7 +17408,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 78.3:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -17416,7 +17416,7 @@ innings:
           batsman: 0
         batsman: Asad Shafiq
     - 78.4:
-        non_striker: Sarfraz Ahmed
+        non_striker: Sarfaraz Ahmed
         bowler: MDK Perera
         runs:
           extras: 0
@@ -17430,9 +17430,9 @@ innings:
           extras: 0
           total: 0
           batsman: 0
-        batsman: Sarfraz Ahmed
+        batsman: Sarfaraz Ahmed
         wicket:
-          player_out: Sarfraz Ahmed
+          player_out: Sarfaraz Ahmed
           fielders:
           - N Pradeep
           kind: caught

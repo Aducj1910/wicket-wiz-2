@@ -250,7 +250,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: JK Silva
         - 4.4:
@@ -3306,7 +3306,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: stumped
               player_out: J Mubarak
         - 67.1:
@@ -3831,7 +3831,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: stumped
               player_out: FDM Karunaratne
         - 77.6:
@@ -5972,7 +5972,7 @@ innings:
               kind: lbw
               player_out: Asad Shafiq
         - 31.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Azhar Ali
             runs:
@@ -5980,7 +5980,7 @@ innings:
               extras: 0
               total: 0
         - 31.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Azhar Ali
             runs:
@@ -5988,7 +5988,7 @@ innings:
               extras: 0
               total: 0
         - 31.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Azhar Ali
             runs:
@@ -5998,13 +5998,13 @@ innings:
         - 31.6:
             batsman: Azhar Ali
             bowler: KTGD Prasad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
               total: 4
         - 32.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RAS Lakmal
             non_striker: Azhar Ali
             runs:
@@ -6012,7 +6012,7 @@ innings:
               extras: 0
               total: 0
         - 32.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RAS Lakmal
             non_striker: Azhar Ali
             runs:
@@ -6020,7 +6020,7 @@ innings:
               extras: 0
               total: 0
         - 32.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RAS Lakmal
             non_striker: Azhar Ali
             runs:
@@ -6030,13 +6030,13 @@ innings:
         - 32.4:
             batsman: Azhar Ali
             bowler: RAS Lakmal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 32.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RAS Lakmal
             non_striker: Azhar Ali
             runs:
@@ -6044,7 +6044,7 @@ innings:
               extras: 0
               total: 4
         - 32.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RAS Lakmal
             non_striker: Azhar Ali
             runs:
@@ -6054,13 +6054,13 @@ innings:
         - 33.1:
             batsman: Azhar Ali
             bowler: KTGD Prasad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 33.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Azhar Ali
             runs:
@@ -6068,7 +6068,7 @@ innings:
               extras: 0
               total: 2
         - 33.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Azhar Ali
             runs:
@@ -6076,7 +6076,7 @@ innings:
               extras: 0
               total: 0
         - 33.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Azhar Ali
             runs:
@@ -6084,7 +6084,7 @@ innings:
               extras: 0
               total: 0
         - 33.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Azhar Ali
             runs:
@@ -6092,7 +6092,7 @@ innings:
               extras: 0
               total: 0
         - 33.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Azhar Ali
             runs:
@@ -6102,7 +6102,7 @@ innings:
         - 34.1:
             batsman: Azhar Ali
             bowler: RAS Lakmal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -6110,7 +6110,7 @@ innings:
         - 34.2:
             batsman: Azhar Ali
             bowler: RAS Lakmal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6118,7 +6118,7 @@ innings:
         - 34.3:
             batsman: Azhar Ali
             bowler: RAS Lakmal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6126,7 +6126,7 @@ innings:
         - 34.4:
             batsman: Azhar Ali
             bowler: RAS Lakmal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -6134,7 +6134,7 @@ innings:
         - 34.5:
             batsman: Azhar Ali
             bowler: RAS Lakmal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6142,13 +6142,13 @@ innings:
         - 34.6:
             batsman: Azhar Ali
             bowler: RAS Lakmal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 35.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Azhar Ali
             runs:
@@ -6156,7 +6156,7 @@ innings:
               extras: 0
               total: 0
         - 35.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Azhar Ali
             runs:
@@ -6164,7 +6164,7 @@ innings:
               extras: 0
               total: 0
         - 35.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Azhar Ali
             runs:
@@ -6172,7 +6172,7 @@ innings:
               extras: 0
               total: 0
         - 35.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Azhar Ali
             runs:
@@ -6180,7 +6180,7 @@ innings:
               extras: 0
               total: 2
         - 35.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Azhar Ali
             runs:
@@ -6188,7 +6188,7 @@ innings:
               extras: 0
               total: 0
         - 35.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Azhar Ali
             runs:
@@ -6198,7 +6198,7 @@ innings:
         - 36.1:
             batsman: Azhar Ali
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6206,7 +6206,7 @@ innings:
         - 36.2:
             batsman: Azhar Ali
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6214,7 +6214,7 @@ innings:
         - 36.3:
             batsman: Azhar Ali
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6222,7 +6222,7 @@ innings:
         - 36.4:
             batsman: Azhar Ali
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6230,7 +6230,7 @@ innings:
         - 36.5:
             batsman: Azhar Ali
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6238,13 +6238,13 @@ innings:
         - 36.6:
             batsman: Azhar Ali
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 37.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Azhar Ali
             runs:
@@ -6254,7 +6254,7 @@ innings:
         - 37.2:
             batsman: Azhar Ali
             bowler: KTGD Prasad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -6262,7 +6262,7 @@ innings:
         - 37.3:
             batsman: Azhar Ali
             bowler: KTGD Prasad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6270,7 +6270,7 @@ innings:
         - 37.4:
             batsman: Azhar Ali
             bowler: KTGD Prasad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6278,7 +6278,7 @@ innings:
         - 37.5:
             batsman: Azhar Ali
             bowler: KTGD Prasad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6286,13 +6286,13 @@ innings:
         - 37.6:
             batsman: Azhar Ali
             bowler: KTGD Prasad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 38.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: N Pradeep
             non_striker: Azhar Ali
             runs:
@@ -6300,7 +6300,7 @@ innings:
               extras: 0
               total: 4
         - 38.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: N Pradeep
             non_striker: Azhar Ali
             runs:
@@ -6310,13 +6310,13 @@ innings:
         - 38.3:
             batsman: Azhar Ali
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 38.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: N Pradeep
             non_striker: Azhar Ali
             runs:
@@ -6326,7 +6326,7 @@ innings:
         - 38.5:
             batsman: Azhar Ali
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6334,13 +6334,13 @@ innings:
         - 38.6:
             batsman: Azhar Ali
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 39.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Azhar Ali
             runs:
@@ -6348,7 +6348,7 @@ innings:
               extras: 0
               total: 0
         - 39.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Azhar Ali
             runs:
@@ -6356,7 +6356,7 @@ innings:
               extras: 0
               total: 4
         - 39.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Azhar Ali
             runs:
@@ -6366,7 +6366,7 @@ innings:
         - 39.4:
             batsman: Azhar Ali
             bowler: KTGD Prasad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -6374,7 +6374,7 @@ innings:
         - 39.5:
             batsman: Azhar Ali
             bowler: KTGD Prasad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6382,13 +6382,13 @@ innings:
         - 39.6:
             batsman: Azhar Ali
             bowler: KTGD Prasad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 40.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: N Pradeep
             non_striker: Azhar Ali
             runs:
@@ -6398,7 +6398,7 @@ innings:
         - 40.2:
             batsman: Azhar Ali
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6406,7 +6406,7 @@ innings:
         - 40.3:
             batsman: Azhar Ali
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6414,7 +6414,7 @@ innings:
         - 40.4:
             batsman: Azhar Ali
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6422,7 +6422,7 @@ innings:
         - 40.5:
             batsman: Azhar Ali
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6435,13 +6435,13 @@ innings:
         - 40.6:
             batsman: Misbah-ul-Haq
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 41.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Misbah-ul-Haq
             runs:
@@ -6449,7 +6449,7 @@ innings:
               extras: 0
               total: 2
         - 41.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Misbah-ul-Haq
             runs:
@@ -6457,7 +6457,7 @@ innings:
               extras: 0
               total: 0
         - 41.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Misbah-ul-Haq
             runs:
@@ -6467,7 +6467,7 @@ innings:
         - 41.4:
             batsman: Misbah-ul-Haq
             bowler: KTGD Prasad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6475,7 +6475,7 @@ innings:
         - 41.5:
             batsman: Misbah-ul-Haq
             bowler: KTGD Prasad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6483,7 +6483,7 @@ innings:
         - 41.6:
             batsman: Misbah-ul-Haq
             bowler: KTGD Prasad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -6491,7 +6491,7 @@ innings:
         - 42.1:
             batsman: Misbah-ul-Haq
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6499,7 +6499,7 @@ innings:
         - 42.2:
             batsman: Misbah-ul-Haq
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6507,7 +6507,7 @@ innings:
         - 42.3:
             batsman: Misbah-ul-Haq
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6515,7 +6515,7 @@ innings:
         - 42.4:
             batsman: Misbah-ul-Haq
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6523,7 +6523,7 @@ innings:
         - 42.5:
             batsman: Misbah-ul-Haq
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -6531,13 +6531,13 @@ innings:
         - 42.6:
             batsman: Misbah-ul-Haq
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 43.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Misbah-ul-Haq
             runs:
@@ -6545,7 +6545,7 @@ innings:
               extras: 0
               total: 0
         - 43.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Misbah-ul-Haq
             runs:
@@ -6555,13 +6555,13 @@ innings:
         - 43.3:
             batsman: Misbah-ul-Haq
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 43.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Misbah-ul-Haq
             runs:
@@ -6569,7 +6569,7 @@ innings:
               extras: 0
               total: 2
         - 43.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             extras:
               legbyes: 1
@@ -6581,13 +6581,13 @@ innings:
         - 43.6:
             batsman: Misbah-ul-Haq
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 44.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: N Pradeep
             non_striker: Misbah-ul-Haq
             runs:
@@ -6597,7 +6597,7 @@ innings:
         - 44.2:
             batsman: Misbah-ul-Haq
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6605,7 +6605,7 @@ innings:
         - 44.3:
             batsman: Misbah-ul-Haq
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6613,7 +6613,7 @@ innings:
         - 44.4:
             batsman: Misbah-ul-Haq
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6621,7 +6621,7 @@ innings:
         - 44.5:
             batsman: Misbah-ul-Haq
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6629,7 +6629,7 @@ innings:
         - 44.6:
             batsman: Misbah-ul-Haq
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6638,7 +6638,7 @@ innings:
               kind: lbw
               player_out: Misbah-ul-Haq
         - 45.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Ehsan Adil
             runs:
@@ -6646,7 +6646,7 @@ innings:
               extras: 0
               total: 0
         - 45.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Ehsan Adil
             runs:
@@ -6654,7 +6654,7 @@ innings:
               extras: 0
               total: 0
         - 45.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Ehsan Adil
             runs:
@@ -6662,7 +6662,7 @@ innings:
               extras: 0
               total: 0
         - 45.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Ehsan Adil
             runs:
@@ -6672,7 +6672,7 @@ innings:
         - 45.5:
             batsman: Ehsan Adil
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6685,7 +6685,7 @@ innings:
             bowler: PHT Kaushal
             extras:
               legbyes: 1
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 1
@@ -6693,13 +6693,13 @@ innings:
         - 46.1:
             batsman: Yasir Shah
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 46.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: N Pradeep
             non_striker: Yasir Shah
             runs:
@@ -6707,7 +6707,7 @@ innings:
               extras: 0
               total: 0
         - 46.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: N Pradeep
             non_striker: Yasir Shah
             runs:
@@ -6715,7 +6715,7 @@ innings:
               extras: 0
               total: 0
         - 46.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: N Pradeep
             non_striker: Yasir Shah
             runs:
@@ -6723,7 +6723,7 @@ innings:
               extras: 0
               total: 0
         - 46.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: N Pradeep
             non_striker: Yasir Shah
             runs:
@@ -6733,7 +6733,7 @@ innings:
         - 46.6:
             batsman: Yasir Shah
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -6741,7 +6741,7 @@ innings:
         - 47.1:
             batsman: Yasir Shah
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6749,7 +6749,7 @@ innings:
         - 47.2:
             batsman: Yasir Shah
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6757,7 +6757,7 @@ innings:
         - 47.3:
             batsman: Yasir Shah
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6765,7 +6765,7 @@ innings:
         - 47.4:
             batsman: Yasir Shah
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6773,13 +6773,13 @@ innings:
         - 47.5:
             batsman: Yasir Shah
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 47.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Yasir Shah
             runs:
@@ -6789,7 +6789,7 @@ innings:
         - 48.1:
             batsman: Yasir Shah
             bowler: RAS Lakmal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6797,7 +6797,7 @@ innings:
         - 48.2:
             batsman: Yasir Shah
             bowler: RAS Lakmal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6805,7 +6805,7 @@ innings:
         - 48.3:
             batsman: Yasir Shah
             bowler: RAS Lakmal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6813,13 +6813,13 @@ innings:
         - 48.4:
             batsman: Yasir Shah
             bowler: RAS Lakmal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 48.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RAS Lakmal
             non_striker: Yasir Shah
             runs:
@@ -6827,7 +6827,7 @@ innings:
               extras: 0
               total: 4
         - 48.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RAS Lakmal
             non_striker: Yasir Shah
             runs:
@@ -6835,7 +6835,7 @@ innings:
               extras: 0
               total: 1
         - 49.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Yasir Shah
             runs:
@@ -6843,7 +6843,7 @@ innings:
               extras: 0
               total: 0
         - 49.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Yasir Shah
             runs:
@@ -6853,13 +6853,13 @@ innings:
         - 49.3:
             batsman: Yasir Shah
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 49.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Yasir Shah
             runs:
@@ -6869,7 +6869,7 @@ innings:
         - 49.5:
             batsman: Yasir Shah
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6877,13 +6877,13 @@ innings:
         - 49.6:
             batsman: Yasir Shah
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 50.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RAS Lakmal
             non_striker: Yasir Shah
             runs:
@@ -6893,7 +6893,7 @@ innings:
         - 50.2:
             batsman: Yasir Shah
             bowler: RAS Lakmal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6901,7 +6901,7 @@ innings:
         - 50.3:
             batsman: Yasir Shah
             bowler: RAS Lakmal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6909,7 +6909,7 @@ innings:
         - 50.4:
             batsman: Yasir Shah
             bowler: RAS Lakmal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -6917,13 +6917,13 @@ innings:
         - 50.5:
             batsman: Yasir Shah
             bowler: RAS Lakmal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 50.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RAS Lakmal
             non_striker: Yasir Shah
             runs:
@@ -6931,7 +6931,7 @@ innings:
               extras: 0
               total: 1
         - 51.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Yasir Shah
             runs:
@@ -6939,7 +6939,7 @@ innings:
               extras: 0
               total: 0
         - 51.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Yasir Shah
             runs:
@@ -6947,7 +6947,7 @@ innings:
               extras: 0
               total: 0
         - 51.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Yasir Shah
             runs:
@@ -6955,7 +6955,7 @@ innings:
               extras: 0
               total: 0
         - 51.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Yasir Shah
             runs:
@@ -6963,7 +6963,7 @@ innings:
               extras: 0
               total: 0
         - 51.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Yasir Shah
             runs:
@@ -6971,7 +6971,7 @@ innings:
               extras: 0
               total: 0
         - 51.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Yasir Shah
             runs:
@@ -6981,13 +6981,13 @@ innings:
         - 52.1:
             batsman: Yasir Shah
             bowler: RAS Lakmal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 52.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RAS Lakmal
             non_striker: Yasir Shah
             runs:
@@ -6997,7 +6997,7 @@ innings:
         - 52.3:
             batsman: Yasir Shah
             bowler: RAS Lakmal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7005,7 +7005,7 @@ innings:
         - 52.4:
             batsman: Yasir Shah
             bowler: RAS Lakmal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7013,7 +7013,7 @@ innings:
         - 52.5:
             batsman: Yasir Shah
             bowler: RAS Lakmal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7021,7 +7021,7 @@ innings:
         - 52.6:
             batsman: Yasir Shah
             bowler: RAS Lakmal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -7029,7 +7029,7 @@ innings:
         - 53.1:
             batsman: Yasir Shah
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -7037,7 +7037,7 @@ innings:
         - 53.2:
             batsman: Yasir Shah
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7045,7 +7045,7 @@ innings:
         - 53.3:
             batsman: Yasir Shah
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7053,7 +7053,7 @@ innings:
         - 53.4:
             batsman: Yasir Shah
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7061,13 +7061,13 @@ innings:
         - 53.5:
             batsman: Yasir Shah
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 53.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Yasir Shah
             runs:
@@ -7075,7 +7075,7 @@ innings:
               extras: 0
               total: 1
         - 54.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RAS Lakmal
             non_striker: Yasir Shah
             runs:
@@ -7083,7 +7083,7 @@ innings:
               extras: 0
               total: 0
         - 54.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RAS Lakmal
             non_striker: Yasir Shah
             runs:
@@ -7091,7 +7091,7 @@ innings:
               extras: 0
               total: 2
         - 54.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RAS Lakmal
             non_striker: Yasir Shah
             runs:
@@ -7099,7 +7099,7 @@ innings:
               extras: 0
               total: 0
         - 54.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RAS Lakmal
             non_striker: Yasir Shah
             runs:
@@ -7107,7 +7107,7 @@ innings:
               extras: 0
               total: 0
         - 54.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: RAS Lakmal
             non_striker: Yasir Shah
             runs:
@@ -7117,13 +7117,13 @@ innings:
         - 54.6:
             batsman: Yasir Shah
             bowler: RAS Lakmal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
               total: 2
         - 55.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Yasir Shah
             runs:
@@ -7131,7 +7131,7 @@ innings:
               extras: 0
               total: 4
         - 55.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Yasir Shah
             runs:
@@ -7141,7 +7141,7 @@ innings:
         - 55.3:
             batsman: Yasir Shah
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7149,13 +7149,13 @@ innings:
         - 55.4:
             batsman: Yasir Shah
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 55.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Yasir Shah
             runs:
@@ -7165,13 +7165,13 @@ innings:
         - 55.6:
             batsman: Yasir Shah
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 56.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Yasir Shah
             runs:
@@ -7181,7 +7181,7 @@ innings:
         - 56.2:
             batsman: Yasir Shah
             bowler: KTGD Prasad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7189,7 +7189,7 @@ innings:
         - 56.3:
             batsman: Yasir Shah
             bowler: KTGD Prasad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7197,7 +7197,7 @@ innings:
         - 56.4:
             batsman: Yasir Shah
             bowler: KTGD Prasad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -7205,7 +7205,7 @@ innings:
         - 56.5:
             batsman: Yasir Shah
             bowler: KTGD Prasad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7218,13 +7218,13 @@ innings:
         - 56.6:
             batsman: Rahat Ali
             bowler: KTGD Prasad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 57.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Rahat Ali
             runs:
@@ -7232,7 +7232,7 @@ innings:
               extras: 0
               total: 0
         - 57.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Rahat Ali
             runs:
@@ -7240,7 +7240,7 @@ innings:
               extras: 0
               total: 0
         - 57.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Rahat Ali
             runs:
@@ -7248,7 +7248,7 @@ innings:
               extras: 0
               total: 0
         - 57.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Rahat Ali
             runs:
@@ -7258,7 +7258,7 @@ innings:
         - 57.5:
             batsman: Rahat Ali
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7266,13 +7266,13 @@ innings:
         - 57.6:
             batsman: Rahat Ali
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 58.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Rahat Ali
             runs:
@@ -7280,7 +7280,7 @@ innings:
               extras: 0
               total: 0
         - 58.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Rahat Ali
             runs:
@@ -7290,13 +7290,13 @@ innings:
         - 58.3:
             batsman: Rahat Ali
             bowler: KTGD Prasad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 58.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Rahat Ali
             runs:
@@ -7306,7 +7306,7 @@ innings:
         - 58.5:
             batsman: Rahat Ali
             bowler: KTGD Prasad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7314,7 +7314,7 @@ innings:
         - 58.6:
             batsman: Rahat Ali
             bowler: KTGD Prasad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -7322,7 +7322,7 @@ innings:
         - 59.1:
             batsman: Rahat Ali
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7330,7 +7330,7 @@ innings:
         - 59.2:
             batsman: Rahat Ali
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7338,7 +7338,7 @@ innings:
         - 59.3:
             batsman: Rahat Ali
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7346,7 +7346,7 @@ innings:
         - 59.4:
             batsman: Rahat Ali
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7354,7 +7354,7 @@ innings:
         - 59.5:
             batsman: Rahat Ali
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7365,13 +7365,13 @@ innings:
         - 59.6:
             batsman: Imran Khan (2)
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 60.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Imran Khan (2)
             runs:
@@ -7379,7 +7379,7 @@ innings:
               extras: 0
               total: 0
         - 60.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Imran Khan (2)
             runs:
@@ -7387,7 +7387,7 @@ innings:
               extras: 0
               total: 0
         - 60.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Imran Khan (2)
             runs:
@@ -7395,7 +7395,7 @@ innings:
               extras: 0
               total: 0
         - 60.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Imran Khan (2)
             runs:
@@ -7403,7 +7403,7 @@ innings:
               extras: 0
               total: 0
         - 60.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             extras:
               wides: 1
@@ -7413,7 +7413,7 @@ innings:
               extras: 1
               total: 1
         - 60.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Imran Khan (2)
             runs:
@@ -7423,13 +7423,13 @@ innings:
         - 60.7:
             batsman: Imran Khan (2)
             bowler: KTGD Prasad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 61.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Imran Khan (2)
             runs:
@@ -7437,7 +7437,7 @@ innings:
               extras: 0
               total: 2
         - 61.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Imran Khan (2)
             runs:
@@ -7445,7 +7445,7 @@ innings:
               extras: 0
               total: 0
         - 61.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Imran Khan (2)
             runs:
@@ -7453,7 +7453,7 @@ innings:
               extras: 0
               total: 0
         - 61.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Imran Khan (2)
             runs:
@@ -7461,7 +7461,7 @@ innings:
               extras: 0
               total: 0
         - 61.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Imran Khan (2)
             runs:
@@ -7471,13 +7471,13 @@ innings:
         - 61.6:
             batsman: Imran Khan (2)
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 62.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Imran Khan (2)
             runs:
@@ -7485,7 +7485,7 @@ innings:
               extras: 0
               total: 0
         - 62.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Imran Khan (2)
             runs:
@@ -7493,7 +7493,7 @@ innings:
               extras: 0
               total: 0
         - 62.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Imran Khan (2)
             runs:
@@ -7501,7 +7501,7 @@ innings:
               extras: 0
               total: 0
         - 62.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: KTGD Prasad
             non_striker: Imran Khan (2)
             runs:
@@ -7511,7 +7511,7 @@ innings:
         - 62.5:
             batsman: Imran Khan (2)
             bowler: KTGD Prasad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -7519,13 +7519,13 @@ innings:
         - 62.6:
             batsman: Imran Khan (2)
             bowler: KTGD Prasad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 63.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Imran Khan (2)
             runs:
@@ -7533,7 +7533,7 @@ innings:
               extras: 0
               total: 0
         - 63.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Imran Khan (2)
             runs:
@@ -7541,7 +7541,7 @@ innings:
               extras: 0
               total: 0
         - 63.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Imran Khan (2)
             runs:
@@ -7549,7 +7549,7 @@ innings:
               extras: 0
               total: 0
         - 63.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Imran Khan (2)
             runs:
@@ -7557,7 +7557,7 @@ innings:
               extras: 0
               total: 0
         - 63.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Imran Khan (2)
             runs:
@@ -7567,13 +7567,13 @@ innings:
         - 63.6:
             batsman: Imran Khan (2)
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 64.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: N Pradeep
             non_striker: Imran Khan (2)
             runs:
@@ -7581,7 +7581,7 @@ innings:
               extras: 0
               total: 0
         - 64.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: N Pradeep
             non_striker: Imran Khan (2)
             runs:
@@ -7589,7 +7589,7 @@ innings:
               extras: 0
               total: 2
         - 64.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: N Pradeep
             non_striker: Imran Khan (2)
             runs:
@@ -7597,7 +7597,7 @@ innings:
               extras: 0
               total: 0
         - 64.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: N Pradeep
             non_striker: Imran Khan (2)
             runs:
@@ -7605,7 +7605,7 @@ innings:
               extras: 0
               total: 0
         - 64.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: N Pradeep
             non_striker: Imran Khan (2)
             runs:
@@ -7615,13 +7615,13 @@ innings:
         - 64.6:
             batsman: Imran Khan (2)
             bowler: N Pradeep
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 65.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Imran Khan (2)
             runs:
@@ -7629,7 +7629,7 @@ innings:
               extras: 0
               total: 0
         - 65.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Imran Khan (2)
             runs:
@@ -7637,7 +7637,7 @@ innings:
               extras: 0
               total: 0
         - 65.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Imran Khan (2)
             runs:
@@ -7645,7 +7645,7 @@ innings:
               extras: 0
               total: 2
         - 65.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Imran Khan (2)
             runs:
@@ -7653,7 +7653,7 @@ innings:
               extras: 0
               total: 0
         - 65.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: PHT Kaushal
             non_striker: Imran Khan (2)
             runs:
@@ -7663,7 +7663,7 @@ innings:
         - 65.6:
             batsman: Imran Khan (2)
             bowler: PHT Kaushal
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -11849,7 +11849,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: KTGD Prasad
         - 85.4:
@@ -12070,7 +12070,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: PHT Kaushal
         - 90.1:
@@ -12243,7 +12243,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: RAS Lakmal
         - 93.4:
@@ -12352,7 +12352,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: AD Mathews
   - 4th innings:

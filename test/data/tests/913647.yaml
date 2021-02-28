@@ -904,7 +904,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: JE Root
         - 17.5:
@@ -981,7 +981,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: JM Vince
         - 19.2:
@@ -2655,7 +2655,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: JM Bairstow
         - 52.4:
@@ -3352,7 +3352,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: CR Woakes
         - 66.5:
@@ -8034,13 +8034,13 @@ innings:
         - 84.6:
             batsman: Younis Khan
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 85.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8048,7 +8048,7 @@ innings:
               extras: 0
               total: 0
         - 85.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8056,7 +8056,7 @@ innings:
               extras: 0
               total: 0
         - 85.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8066,7 +8066,7 @@ innings:
         - 85.4:
             batsman: Younis Khan
             bowler: SCJ Broad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8074,7 +8074,7 @@ innings:
         - 85.5:
             batsman: Younis Khan
             bowler: SCJ Broad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8082,13 +8082,13 @@ innings:
         - 85.6:
             batsman: Younis Khan
             bowler: SCJ Broad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 86.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Younis Khan
             runs:
@@ -8096,7 +8096,7 @@ innings:
               extras: 0
               total: 0
         - 86.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Younis Khan
             runs:
@@ -8104,7 +8104,7 @@ innings:
               extras: 0
               total: 0
         - 86.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Younis Khan
             runs:
@@ -8112,7 +8112,7 @@ innings:
               extras: 0
               total: 0
         - 86.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Younis Khan
             runs:
@@ -8122,13 +8122,13 @@ innings:
         - 86.5:
             batsman: Younis Khan
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 86.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             extras:
               legbyes: 1
@@ -8138,7 +8138,7 @@ innings:
               extras: 1
               total: 1
         - 87.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8146,7 +8146,7 @@ innings:
               extras: 0
               total: 0
         - 87.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8154,7 +8154,7 @@ innings:
               extras: 0
               total: 0
         - 87.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8162,7 +8162,7 @@ innings:
               extras: 0
               total: 0
         - 87.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8170,7 +8170,7 @@ innings:
               extras: 0
               total: 4
         - 87.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8178,7 +8178,7 @@ innings:
               extras: 0
               total: 0
         - 87.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8186,7 +8186,7 @@ innings:
               extras: 0
               total: 1
         - 88.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Younis Khan
             runs:
@@ -8194,7 +8194,7 @@ innings:
               extras: 0
               total: 0
         - 88.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Younis Khan
             runs:
@@ -8202,7 +8202,7 @@ innings:
               extras: 0
               total: 4
         - 88.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Younis Khan
             runs:
@@ -8210,7 +8210,7 @@ innings:
               extras: 0
               total: 0
         - 88.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Younis Khan
             runs:
@@ -8218,7 +8218,7 @@ innings:
               extras: 0
               total: 0
         - 88.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Younis Khan
             runs:
@@ -8226,7 +8226,7 @@ innings:
               extras: 0
               total: 0
         - 88.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Younis Khan
             runs:
@@ -8236,13 +8236,13 @@ innings:
         - 89.1:
             batsman: Younis Khan
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 89.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Younis Khan
             runs:
@@ -8250,7 +8250,7 @@ innings:
               extras: 0
               total: 0
         - 89.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Younis Khan
             runs:
@@ -8260,7 +8260,7 @@ innings:
         - 89.4:
             batsman: Younis Khan
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8268,7 +8268,7 @@ innings:
         - 89.5:
             batsman: Younis Khan
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8276,13 +8276,13 @@ innings:
         - 89.6:
             batsman: Younis Khan
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 90.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Younis Khan
             runs:
@@ -8290,7 +8290,7 @@ innings:
               extras: 0
               total: 0
         - 90.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Younis Khan
             runs:
@@ -8298,7 +8298,7 @@ innings:
               extras: 0
               total: 4
         - 90.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Younis Khan
             runs:
@@ -8306,7 +8306,7 @@ innings:
               extras: 0
               total: 0
         - 90.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Younis Khan
             runs:
@@ -8314,7 +8314,7 @@ innings:
               extras: 0
               total: 0
         - 90.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Younis Khan
             runs:
@@ -8324,13 +8324,13 @@ innings:
         - 90.6:
             batsman: Younis Khan
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 91.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Younis Khan
             runs:
@@ -8338,7 +8338,7 @@ innings:
               extras: 0
               total: 0
         - 91.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Younis Khan
             runs:
@@ -8348,7 +8348,7 @@ innings:
         - 91.3:
             batsman: Younis Khan
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8356,7 +8356,7 @@ innings:
         - 91.4:
             batsman: Younis Khan
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8364,7 +8364,7 @@ innings:
         - 91.5:
             batsman: Younis Khan
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8372,13 +8372,13 @@ innings:
         - 91.6:
             batsman: Younis Khan
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 92.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Younis Khan
             runs:
@@ -8386,7 +8386,7 @@ innings:
               extras: 0
               total: 4
         - 92.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Younis Khan
             runs:
@@ -8394,7 +8394,7 @@ innings:
               extras: 0
               total: 0
         - 92.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Younis Khan
             runs:
@@ -8402,7 +8402,7 @@ innings:
               extras: 0
               total: 0
         - 92.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Younis Khan
             runs:
@@ -8410,7 +8410,7 @@ innings:
               extras: 0
               total: 0
         - 92.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Younis Khan
             runs:
@@ -8418,7 +8418,7 @@ innings:
               extras: 0
               total: 0
         - 92.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Younis Khan
             runs:
@@ -8426,7 +8426,7 @@ innings:
               extras: 0
               total: 1
         - 93.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Younis Khan
             runs:
@@ -8434,7 +8434,7 @@ innings:
               extras: 0
               total: 4
         - 93.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Younis Khan
             runs:
@@ -8442,7 +8442,7 @@ innings:
               extras: 0
               total: 0
         - 93.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Younis Khan
             runs:
@@ -8450,7 +8450,7 @@ innings:
               extras: 0
               total: 0
         - 93.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Younis Khan
             runs:
@@ -8458,7 +8458,7 @@ innings:
               extras: 0
               total: 0
         - 93.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Younis Khan
             runs:
@@ -8466,7 +8466,7 @@ innings:
               extras: 0
               total: 0
         - 93.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Younis Khan
             runs:
@@ -8476,7 +8476,7 @@ innings:
         - 94.1:
             batsman: Younis Khan
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8484,7 +8484,7 @@ innings:
         - 94.2:
             batsman: Younis Khan
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8492,7 +8492,7 @@ innings:
         - 94.3:
             batsman: Younis Khan
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8500,7 +8500,7 @@ innings:
         - 94.4:
             batsman: Younis Khan
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8508,7 +8508,7 @@ innings:
         - 94.5:
             batsman: Younis Khan
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8516,13 +8516,13 @@ innings:
         - 94.6:
             batsman: Younis Khan
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 95.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8532,7 +8532,7 @@ innings:
         - 95.2:
             batsman: Younis Khan
             bowler: SCJ Broad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8540,7 +8540,7 @@ innings:
         - 95.3:
             batsman: Younis Khan
             bowler: SCJ Broad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8548,13 +8548,13 @@ innings:
         - 95.4:
             batsman: Younis Khan
             bowler: SCJ Broad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 95.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8564,13 +8564,13 @@ innings:
         - 95.6:
             batsman: Younis Khan
             bowler: SCJ Broad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 96.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Younis Khan
             runs:
@@ -8580,7 +8580,7 @@ innings:
         - 96.2:
             batsman: Younis Khan
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8588,7 +8588,7 @@ innings:
         - 96.3:
             batsman: Younis Khan
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8596,7 +8596,7 @@ innings:
         - 96.4:
             batsman: Younis Khan
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8604,7 +8604,7 @@ innings:
         - 96.5:
             batsman: Younis Khan
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8612,13 +8612,13 @@ innings:
         - 96.6:
             batsman: Younis Khan
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 97.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8626,7 +8626,7 @@ innings:
               extras: 0
               total: 4
         - 97.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8634,7 +8634,7 @@ innings:
               extras: 0
               total: 0
         - 97.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8642,7 +8642,7 @@ innings:
               extras: 0
               total: 0
         - 97.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8652,13 +8652,13 @@ innings:
         - 97.5:
             batsman: Younis Khan
             bowler: SCJ Broad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 97.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8668,7 +8668,7 @@ innings:
         - 98.1:
             batsman: Younis Khan
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8676,7 +8676,7 @@ innings:
         - 98.2:
             batsman: Younis Khan
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8684,7 +8684,7 @@ innings:
         - 98.3:
             batsman: Younis Khan
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8692,7 +8692,7 @@ innings:
         - 98.4:
             batsman: Younis Khan
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8700,7 +8700,7 @@ innings:
         - 98.5:
             batsman: Younis Khan
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -8708,13 +8708,13 @@ innings:
         - 98.6:
             batsman: Younis Khan
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 99.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8722,7 +8722,7 @@ innings:
               extras: 0
               total: 0
         - 99.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8730,7 +8730,7 @@ innings:
               extras: 0
               total: 4
         - 99.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8738,7 +8738,7 @@ innings:
               extras: 0
               total: 0
         - 99.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8746,7 +8746,7 @@ innings:
               extras: 0
               total: 0
         - 99.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8754,7 +8754,7 @@ innings:
               extras: 0
               total: 0
         - 99.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8764,7 +8764,7 @@ innings:
         - 100.1:
             batsman: Younis Khan
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8772,7 +8772,7 @@ innings:
         - 100.2:
             batsman: Younis Khan
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8780,7 +8780,7 @@ innings:
         - 100.3:
             batsman: Younis Khan
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8788,7 +8788,7 @@ innings:
         - 100.4:
             batsman: Younis Khan
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8796,7 +8796,7 @@ innings:
         - 100.5:
             batsman: Younis Khan
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8804,13 +8804,13 @@ innings:
         - 100.6:
             batsman: Younis Khan
             bowler: JM Anderson
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 101.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8820,7 +8820,7 @@ innings:
         - 101.2:
             batsman: Younis Khan
             bowler: SCJ Broad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8828,7 +8828,7 @@ innings:
         - 101.3:
             batsman: Younis Khan
             bowler: SCJ Broad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8836,7 +8836,7 @@ innings:
         - 101.4:
             batsman: Younis Khan
             bowler: SCJ Broad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8844,7 +8844,7 @@ innings:
         - 101.5:
             batsman: Younis Khan
             bowler: SCJ Broad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8852,13 +8852,13 @@ innings:
         - 101.6:
             batsman: Younis Khan
             bowler: SCJ Broad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 102.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Younis Khan
             runs:
@@ -8866,7 +8866,7 @@ innings:
               extras: 0
               total: 0
         - 102.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Younis Khan
             runs:
@@ -8874,7 +8874,7 @@ innings:
               extras: 0
               total: 0
         - 102.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Younis Khan
             runs:
@@ -8882,7 +8882,7 @@ innings:
               extras: 0
               total: 0
         - 102.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Younis Khan
             runs:
@@ -8890,7 +8890,7 @@ innings:
               extras: 0
               total: 0
         - 102.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Younis Khan
             runs:
@@ -8898,7 +8898,7 @@ innings:
               extras: 0
               total: 0
         - 102.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: JM Anderson
             non_striker: Younis Khan
             runs:
@@ -8908,7 +8908,7 @@ innings:
         - 103.1:
             batsman: Younis Khan
             bowler: SCJ Broad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -8916,13 +8916,13 @@ innings:
         - 103.2:
             batsman: Younis Khan
             bowler: SCJ Broad
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 103.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8930,7 +8930,7 @@ innings:
               extras: 0
               total: 0
         - 103.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8938,7 +8938,7 @@ innings:
               extras: 0
               total: 0
         - 103.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             non_striker: Younis Khan
             runs:
@@ -8946,7 +8946,7 @@ innings:
               extras: 0
               total: 0
         - 103.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: SCJ Broad
             extras:
               legbyes: 1
@@ -8956,7 +8956,7 @@ innings:
               extras: 1
               total: 1
         - 104.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Younis Khan
             runs:
@@ -8964,7 +8964,7 @@ innings:
               extras: 0
               total: 0
         - 104.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             extras:
               byes: 1
@@ -8976,7 +8976,7 @@ innings:
         - 104.3:
             batsman: Younis Khan
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8984,7 +8984,7 @@ innings:
         - 104.4:
             batsman: Younis Khan
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -8992,7 +8992,7 @@ innings:
         - 104.5:
             batsman: Younis Khan
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9000,13 +9000,13 @@ innings:
         - 104.6:
             batsman: Younis Khan
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 105.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Younis Khan
             runs:
@@ -9014,7 +9014,7 @@ innings:
               extras: 0
               total: 0
         - 105.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             extras:
               legbyes: 1
@@ -9026,7 +9026,7 @@ innings:
         - 105.3:
             batsman: Younis Khan
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9034,7 +9034,7 @@ innings:
         - 105.4:
             batsman: Younis Khan
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9042,7 +9042,7 @@ innings:
         - 105.5:
             batsman: Younis Khan
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9050,13 +9050,13 @@ innings:
         - 105.6:
             batsman: Younis Khan
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
               total: 4
         - 106.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Younis Khan
             runs:
@@ -9066,7 +9066,7 @@ innings:
         - 106.2:
             batsman: Younis Khan
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9074,7 +9074,7 @@ innings:
         - 106.3:
             batsman: Younis Khan
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9082,7 +9082,7 @@ innings:
         - 106.4:
             batsman: Younis Khan
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9090,13 +9090,13 @@ innings:
         - 106.5:
             batsman: Younis Khan
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 106.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Younis Khan
             runs:
@@ -9104,7 +9104,7 @@ innings:
               extras: 0
               total: 1
         - 107.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Younis Khan
             runs:
@@ -9112,7 +9112,7 @@ innings:
               extras: 0
               total: 0
         - 107.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Younis Khan
             runs:
@@ -9122,7 +9122,7 @@ innings:
         - 107.3:
             batsman: Younis Khan
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9130,13 +9130,13 @@ innings:
         - 107.4:
             batsman: Younis Khan
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 107.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Younis Khan
             runs:
@@ -9144,7 +9144,7 @@ innings:
               extras: 0
               total: 0
         - 107.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Younis Khan
             runs:
@@ -9154,7 +9154,7 @@ innings:
         - 108.1:
             batsman: Younis Khan
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -9162,7 +9162,7 @@ innings:
         - 108.2:
             batsman: Younis Khan
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9170,7 +9170,7 @@ innings:
         - 108.3:
             batsman: Younis Khan
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9178,7 +9178,7 @@ innings:
         - 108.4:
             batsman: Younis Khan
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9186,7 +9186,7 @@ innings:
         - 108.5:
             batsman: Younis Khan
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9194,13 +9194,13 @@ innings:
         - 108.6:
             batsman: Younis Khan
             bowler: CR Woakes
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 109.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: ST Finn
             non_striker: Younis Khan
             runs:
@@ -9210,7 +9210,7 @@ innings:
         - 109.2:
             batsman: Younis Khan
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 2
               extras: 0
@@ -9218,7 +9218,7 @@ innings:
         - 109.3:
             batsman: Younis Khan
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -9226,7 +9226,7 @@ innings:
         - 109.4:
             batsman: Younis Khan
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9234,7 +9234,7 @@ innings:
         - 109.5:
             batsman: Younis Khan
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -9242,13 +9242,13 @@ innings:
         - 109.6:
             batsman: Younis Khan
             bowler: ST Finn
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 110.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: CR Woakes
             non_striker: Younis Khan
             runs:
@@ -9259,7 +9259,7 @@ innings:
               fielders:
                 - JM Bairstow
               kind: caught
-              player_out: Sarfraz Ahmed
+              player_out: Sarfaraz Ahmed
         - 110.2:
             batsman: Wahab Riaz
             bowler: CR Woakes
@@ -13082,7 +13082,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: GS Ballance
         - 41.5:
@@ -13818,7 +13818,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: MM Ali
         - 56.6:

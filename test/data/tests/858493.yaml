@@ -3627,7 +3627,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: Mahmudullah
         - 74.1:
@@ -5868,7 +5868,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: caught
               player_out: Rubel Hossain
   - 2nd innings:
@@ -12300,7 +12300,7 @@ innings:
               kind: caught
               player_out: Misbah-ul-Haq
         - 132.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -12310,7 +12310,7 @@ innings:
         - 132.3:
             batsman: Asad Shafiq
             bowler: Taijul Islam
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12318,7 +12318,7 @@ innings:
         - 132.4:
             batsman: Asad Shafiq
             bowler: Taijul Islam
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12326,7 +12326,7 @@ innings:
         - 132.5:
             batsman: Asad Shafiq
             bowler: Taijul Islam
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12334,7 +12334,7 @@ innings:
         - 132.6:
             batsman: Asad Shafiq
             bowler: Taijul Islam
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -12342,13 +12342,13 @@ innings:
         - 133.1:
             batsman: Asad Shafiq
             bowler: Shuvagata Hom
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 133.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shuvagata Hom
             non_striker: Asad Shafiq
             runs:
@@ -12356,7 +12356,7 @@ innings:
               extras: 0
               total: 2
         - 133.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shuvagata Hom
             non_striker: Asad Shafiq
             runs:
@@ -12366,7 +12366,7 @@ innings:
         - 133.4:
             batsman: Asad Shafiq
             bowler: Shuvagata Hom
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12374,7 +12374,7 @@ innings:
         - 133.5:
             batsman: Asad Shafiq
             bowler: Shuvagata Hom
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12382,7 +12382,7 @@ innings:
         - 133.6:
             batsman: Asad Shafiq
             bowler: Shuvagata Hom
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -12390,13 +12390,13 @@ innings:
         - 134.1:
             batsman: Asad Shafiq
             bowler: Taijul Islam
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 134.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -12404,7 +12404,7 @@ innings:
               extras: 0
               total: 0
         - 134.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -12412,7 +12412,7 @@ innings:
               extras: 0
               total: 0
         - 134.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -12420,7 +12420,7 @@ innings:
               extras: 0
               total: 2
         - 134.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -12428,7 +12428,7 @@ innings:
               extras: 0
               total: 0
         - 134.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -12438,7 +12438,7 @@ innings:
         - 135.1:
             batsman: Asad Shafiq
             bowler: Shuvagata Hom
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12446,7 +12446,7 @@ innings:
         - 135.2:
             batsman: Asad Shafiq
             bowler: Shuvagata Hom
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12454,7 +12454,7 @@ innings:
         - 135.3:
             batsman: Asad Shafiq
             bowler: Shuvagata Hom
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 4
               extras: 0
@@ -12462,13 +12462,13 @@ innings:
         - 135.4:
             batsman: Asad Shafiq
             bowler: Shuvagata Hom
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 135.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shuvagata Hom
             non_striker: Asad Shafiq
             runs:
@@ -12478,13 +12478,13 @@ innings:
         - 135.6:
             batsman: Asad Shafiq
             bowler: Shuvagata Hom
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 136.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -12492,7 +12492,7 @@ innings:
               extras: 0
               total: 0
         - 136.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -12500,7 +12500,7 @@ innings:
               extras: 0
               total: 4
         - 136.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -12508,7 +12508,7 @@ innings:
               extras: 0
               total: 2
         - 136.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -12516,7 +12516,7 @@ innings:
               extras: 0
               total: 0
         - 136.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -12524,7 +12524,7 @@ innings:
               extras: 0
               total: 2
         - 136.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -12534,13 +12534,13 @@ innings:
         - 137.1:
             batsman: Asad Shafiq
             bowler: Shuvagata Hom
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 137.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shuvagata Hom
             non_striker: Asad Shafiq
             runs:
@@ -12550,13 +12550,13 @@ innings:
         - 137.3:
             batsman: Asad Shafiq
             bowler: Shuvagata Hom
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 137.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shuvagata Hom
             non_striker: Asad Shafiq
             runs:
@@ -12564,7 +12564,7 @@ innings:
               extras: 0
               total: 0
         - 137.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shuvagata Hom
             non_striker: Asad Shafiq
             runs:
@@ -12572,7 +12572,7 @@ innings:
               extras: 0
               total: 0
         - 137.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shuvagata Hom
             non_striker: Asad Shafiq
             runs:
@@ -12580,7 +12580,7 @@ innings:
               extras: 0
               total: 1
         - 138.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Rubel Hossain
             non_striker: Asad Shafiq
             runs:
@@ -12590,13 +12590,13 @@ innings:
         - 138.2:
             batsman: Asad Shafiq
             bowler: Rubel Hossain
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 138.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Rubel Hossain
             non_striker: Asad Shafiq
             runs:
@@ -12604,7 +12604,7 @@ innings:
               extras: 0
               total: 0
         - 138.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Rubel Hossain
             non_striker: Asad Shafiq
             runs:
@@ -12612,7 +12612,7 @@ innings:
               extras: 0
               total: 0
         - 138.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Rubel Hossain
             non_striker: Asad Shafiq
             runs:
@@ -12620,7 +12620,7 @@ innings:
               extras: 0
               total: 4
         - 138.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Rubel Hossain
             non_striker: Asad Shafiq
             runs:
@@ -12630,13 +12630,13 @@ innings:
         - 139.1:
             batsman: Asad Shafiq
             bowler: Shakib Al Hasan
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 139.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -12644,7 +12644,7 @@ innings:
               extras: 0
               total: 0
         - 139.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -12652,7 +12652,7 @@ innings:
               extras: 0
               total: 0
         - 139.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -12660,7 +12660,7 @@ innings:
               extras: 0
               total: 0
         - 139.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -12668,7 +12668,7 @@ innings:
               extras: 0
               total: 0
         - 139.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -12678,13 +12678,13 @@ innings:
         - 140.1:
             batsman: Asad Shafiq
             bowler: Rubel Hossain
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 140.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Rubel Hossain
             non_striker: Asad Shafiq
             runs:
@@ -12694,7 +12694,7 @@ innings:
         - 140.3:
             batsman: Asad Shafiq
             bowler: Rubel Hossain
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12702,7 +12702,7 @@ innings:
         - 140.4:
             batsman: Asad Shafiq
             bowler: Rubel Hossain
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12712,7 +12712,7 @@ innings:
             bowler: Rubel Hossain
             extras:
               noballs: 1
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 1
@@ -12720,7 +12720,7 @@ innings:
         - 140.6:
             batsman: Asad Shafiq
             bowler: Rubel Hossain
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12728,13 +12728,13 @@ innings:
         - 140.7:
             batsman: Asad Shafiq
             bowler: Rubel Hossain
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 141.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -12742,7 +12742,7 @@ innings:
               extras: 0
               total: 0
         - 141.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -12750,7 +12750,7 @@ innings:
               extras: 0
               total: 0
         - 141.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -12758,7 +12758,7 @@ innings:
               extras: 0
               total: 0
         - 141.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -12766,7 +12766,7 @@ innings:
               extras: 0
               total: 0
         - 141.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -12774,7 +12774,7 @@ innings:
               extras: 0
               total: 0
         - 141.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -12784,13 +12784,13 @@ innings:
         - 142.1:
             batsman: Asad Shafiq
             bowler: Mahmudullah
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 142.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Mahmudullah
             non_striker: Asad Shafiq
             runs:
@@ -12798,7 +12798,7 @@ innings:
               extras: 0
               total: 6
         - 142.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Mahmudullah
             non_striker: Asad Shafiq
             runs:
@@ -12806,7 +12806,7 @@ innings:
               extras: 0
               total: 4
         - 142.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Mahmudullah
             non_striker: Asad Shafiq
             runs:
@@ -12814,7 +12814,7 @@ innings:
               extras: 0
               total: 0
         - 142.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Mahmudullah
             non_striker: Asad Shafiq
             runs:
@@ -12824,13 +12824,13 @@ innings:
         - 142.6:
             batsman: Asad Shafiq
             bowler: Mahmudullah
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 143.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -12838,7 +12838,7 @@ innings:
               extras: 0
               total: 0
         - 143.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -12846,7 +12846,7 @@ innings:
               extras: 0
               total: 0
         - 143.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -12854,7 +12854,7 @@ innings:
               extras: 0
               total: 0
         - 143.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -12862,7 +12862,7 @@ innings:
               extras: 0
               total: 0
         - 143.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -12872,13 +12872,13 @@ innings:
         - 143.6:
             batsman: Asad Shafiq
             bowler: Shakib Al Hasan
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 144.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Mahmudullah
             non_striker: Asad Shafiq
             runs:
@@ -12886,7 +12886,7 @@ innings:
               extras: 0
               total: 6
         - 144.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Mahmudullah
             non_striker: Asad Shafiq
             runs:
@@ -12894,7 +12894,7 @@ innings:
               extras: 0
               total: 0
         - 144.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Mahmudullah
             non_striker: Asad Shafiq
             runs:
@@ -12904,13 +12904,13 @@ innings:
         - 144.4:
             batsman: Asad Shafiq
             bowler: Mahmudullah
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 144.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Mahmudullah
             non_striker: Asad Shafiq
             runs:
@@ -12920,13 +12920,13 @@ innings:
         - 144.6:
             batsman: Asad Shafiq
             bowler: Mahmudullah
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 145.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -12936,7 +12936,7 @@ innings:
         - 145.2:
             batsman: Asad Shafiq
             bowler: Shakib Al Hasan
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12944,13 +12944,13 @@ innings:
         - 145.3:
             batsman: Asad Shafiq
             bowler: Shakib Al Hasan
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 145.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -12958,7 +12958,7 @@ innings:
               extras: 0
               total: 0
         - 145.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -12968,13 +12968,13 @@ innings:
         - 145.6:
             batsman: Asad Shafiq
             bowler: Shakib Al Hasan
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 146.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Mominul Haque
             non_striker: Asad Shafiq
             runs:
@@ -12984,7 +12984,7 @@ innings:
         - 146.2:
             batsman: Asad Shafiq
             bowler: Mominul Haque
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -12992,7 +12992,7 @@ innings:
         - 146.3:
             batsman: Asad Shafiq
             bowler: Mominul Haque
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -13000,7 +13000,7 @@ innings:
         - 146.4:
             batsman: Asad Shafiq
             bowler: Mominul Haque
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -13008,7 +13008,7 @@ innings:
         - 146.5:
             batsman: Asad Shafiq
             bowler: Mominul Haque
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -13016,13 +13016,13 @@ innings:
         - 146.6:
             batsman: Asad Shafiq
             bowler: Mominul Haque
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 147.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -13032,7 +13032,7 @@ innings:
         - 147.2:
             batsman: Asad Shafiq
             bowler: Shakib Al Hasan
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -13040,7 +13040,7 @@ innings:
         - 147.3:
             batsman: Asad Shafiq
             bowler: Shakib Al Hasan
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -13048,7 +13048,7 @@ innings:
         - 147.4:
             batsman: Asad Shafiq
             bowler: Shakib Al Hasan
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -13056,7 +13056,7 @@ innings:
         - 147.5:
             batsman: Asad Shafiq
             bowler: Shakib Al Hasan
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -13064,13 +13064,13 @@ innings:
         - 147.6:
             batsman: Asad Shafiq
             bowler: Shakib Al Hasan
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 148.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -13080,7 +13080,7 @@ innings:
         - 148.2:
             batsman: Asad Shafiq
             bowler: Taijul Islam
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -13088,7 +13088,7 @@ innings:
         - 148.3:
             batsman: Asad Shafiq
             bowler: Taijul Islam
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -13096,7 +13096,7 @@ innings:
         - 148.4:
             batsman: Asad Shafiq
             bowler: Taijul Islam
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -13104,7 +13104,7 @@ innings:
         - 148.5:
             batsman: Asad Shafiq
             bowler: Taijul Islam
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -13112,13 +13112,13 @@ innings:
         - 148.6:
             batsman: Asad Shafiq
             bowler: Taijul Islam
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 149.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -13128,7 +13128,7 @@ innings:
         - 149.2:
             batsman: Asad Shafiq
             bowler: Shakib Al Hasan
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -13136,7 +13136,7 @@ innings:
         - 149.3:
             batsman: Asad Shafiq
             bowler: Shakib Al Hasan
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -13144,13 +13144,13 @@ innings:
         - 149.4:
             batsman: Asad Shafiq
             bowler: Shakib Al Hasan
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 3
               extras: 0
               total: 3
         - 149.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -13160,13 +13160,13 @@ innings:
         - 149.6:
             batsman: Asad Shafiq
             bowler: Shakib Al Hasan
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 150.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -13176,13 +13176,13 @@ innings:
         - 150.2:
             batsman: Asad Shafiq
             bowler: Taijul Islam
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 5
               extras: 0
               total: 5
         - 150.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -13192,7 +13192,7 @@ innings:
         - 150.4:
             batsman: Asad Shafiq
             bowler: Taijul Islam
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -13200,7 +13200,7 @@ innings:
         - 150.5:
             batsman: Asad Shafiq
             bowler: Taijul Islam
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -13208,13 +13208,13 @@ innings:
         - 150.6:
             batsman: Asad Shafiq
             bowler: Taijul Islam
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 151.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -13224,7 +13224,7 @@ innings:
         - 151.2:
             batsman: Asad Shafiq
             bowler: Shakib Al Hasan
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -13232,7 +13232,7 @@ innings:
         - 151.3:
             batsman: Asad Shafiq
             bowler: Shakib Al Hasan
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -13240,7 +13240,7 @@ innings:
         - 151.4:
             batsman: Asad Shafiq
             bowler: Shakib Al Hasan
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -13248,7 +13248,7 @@ innings:
         - 151.5:
             batsman: Asad Shafiq
             bowler: Shakib Al Hasan
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -13256,7 +13256,7 @@ innings:
         - 151.6:
             batsman: Asad Shafiq
             bowler: Shakib Al Hasan
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -13264,13 +13264,13 @@ innings:
         - 152.1:
             batsman: Asad Shafiq
             bowler: Taijul Islam
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 3
               extras: 0
               total: 3
         - 152.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -13280,7 +13280,7 @@ innings:
         - 152.3:
             batsman: Asad Shafiq
             bowler: Taijul Islam
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -13288,13 +13288,13 @@ innings:
         - 152.4:
             batsman: Asad Shafiq
             bowler: Taijul Islam
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 152.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -13302,7 +13302,7 @@ innings:
               extras: 0
               total: 0
         - 152.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -13310,7 +13310,7 @@ innings:
               extras: 0
               total: 1
         - 153.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -13318,7 +13318,7 @@ innings:
               extras: 0
               total: 0
         - 153.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -13326,7 +13326,7 @@ innings:
               extras: 0
               total: 0
         - 153.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -13334,7 +13334,7 @@ innings:
               extras: 0
               total: 2
         - 153.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -13346,13 +13346,13 @@ innings:
             bowler: Shakib Al Hasan
             extras:
               legbyes: 3
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 3
               total: 3
         - 153.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shakib Al Hasan
             non_striker: Asad Shafiq
             runs:
@@ -13360,7 +13360,7 @@ innings:
               extras: 0
               total: 1
         - 154.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -13370,7 +13370,7 @@ innings:
         - 154.2:
             batsman: Asad Shafiq
             bowler: Taijul Islam
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -13378,13 +13378,13 @@ innings:
         - 154.3:
             batsman: Asad Shafiq
             bowler: Taijul Islam
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 154.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -13392,7 +13392,7 @@ innings:
               extras: 0
               total: 0
         - 154.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -13400,7 +13400,7 @@ innings:
               extras: 0
               total: 0
         - 154.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -13410,13 +13410,13 @@ innings:
         - 155.1:
             batsman: Asad Shafiq
             bowler: Shuvagata Hom
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 155.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shuvagata Hom
             non_striker: Asad Shafiq
             runs:
@@ -13426,13 +13426,13 @@ innings:
         - 155.3:
             batsman: Asad Shafiq
             bowler: Shuvagata Hom
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 155.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shuvagata Hom
             non_striker: Asad Shafiq
             runs:
@@ -13440,7 +13440,7 @@ innings:
               extras: 0
               total: 0
         - 155.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shuvagata Hom
             non_striker: Asad Shafiq
             runs:
@@ -13450,13 +13450,13 @@ innings:
         - 155.6:
             batsman: Asad Shafiq
             bowler: Shuvagata Hom
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
               total: 0
         - 156.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -13464,7 +13464,7 @@ innings:
               extras: 0
               total: 0
         - 156.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -13474,13 +13474,13 @@ innings:
         - 156.3:
             batsman: Asad Shafiq
             bowler: Taijul Islam
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 156.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -13488,7 +13488,7 @@ innings:
               extras: 0
               total: 2
         - 156.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -13496,7 +13496,7 @@ innings:
               extras: 0
               total: 0
         - 156.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -13506,7 +13506,7 @@ innings:
         - 157.1:
             batsman: Asad Shafiq
             bowler: Shuvagata Hom
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -13514,7 +13514,7 @@ innings:
         - 157.2:
             batsman: Asad Shafiq
             bowler: Shuvagata Hom
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -13522,7 +13522,7 @@ innings:
         - 157.3:
             batsman: Asad Shafiq
             bowler: Shuvagata Hom
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -13530,13 +13530,13 @@ innings:
         - 157.4:
             batsman: Asad Shafiq
             bowler: Shuvagata Hom
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 157.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shuvagata Hom
             non_striker: Asad Shafiq
             runs:
@@ -13544,7 +13544,7 @@ innings:
               extras: 0
               total: 0
         - 157.6:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Shuvagata Hom
             non_striker: Asad Shafiq
             runs:
@@ -13552,7 +13552,7 @@ innings:
               extras: 0
               total: 3
         - 158.1:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -13560,7 +13560,7 @@ innings:
               extras: 0
               total: 0
         - 158.2:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -13570,13 +13570,13 @@ innings:
         - 158.3:
             batsman: Asad Shafiq
             bowler: Taijul Islam
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
               total: 1
         - 158.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -13584,7 +13584,7 @@ innings:
               extras: 0
               total: 0
         - 158.5:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Taijul Islam
             non_striker: Asad Shafiq
             runs:
@@ -13594,7 +13594,7 @@ innings:
         - 158.6:
             batsman: Asad Shafiq
             bowler: Taijul Islam
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 1
               extras: 0
@@ -13602,7 +13602,7 @@ innings:
         - 159.1:
             batsman: Asad Shafiq
             bowler: Mohammad Shahid
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 0
               extras: 0
@@ -13610,13 +13610,13 @@ innings:
         - 159.2:
             batsman: Asad Shafiq
             bowler: Mohammad Shahid
-            non_striker: Sarfraz Ahmed
+            non_striker: Sarfaraz Ahmed
             runs:
               batsman: 3
               extras: 0
               total: 3
         - 159.3:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Mohammad Shahid
             non_striker: Asad Shafiq
             runs:
@@ -13624,7 +13624,7 @@ innings:
               extras: 0
               total: 4
         - 159.4:
-            batsman: Sarfraz Ahmed
+            batsman: Sarfaraz Ahmed
             bowler: Mohammad Shahid
             non_striker: Asad Shafiq
             runs:
@@ -13635,7 +13635,7 @@ innings:
               fielders:
                 - Liton Das (sub)
               kind: caught
-              player_out: Sarfraz Ahmed
+              player_out: Sarfaraz Ahmed
         - 159.5:
             batsman: Wahab Riaz
             bowler: Mohammad Shahid
@@ -18871,7 +18871,7 @@ innings:
               total: 0
             wicket:
               fielders:
-                - Sarfraz Ahmed
+                - Sarfaraz Ahmed
               kind: stumped
               player_out: Tamim Iqbal
         - 98.3:
